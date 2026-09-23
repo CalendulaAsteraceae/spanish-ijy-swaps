@@ -10,8 +10,8 @@ local function word_data(class, data)
 	elseif class == "-i" or class == "-.y" then
 		letra = string.match(data["Transcripción"], "(" .. word_filters["patterns"]["swapletters"] .. ")$")
 	elseif class == "-g-" or class == "-i-" or class == "-.y-" or class == "-y.-" then
-		if word_filters["patterns"]["manual_word_medial_patterns"][class][data["Correspondencia"]] then
-			letra = word_filters["patterns"]["manual_word_medial_patterns"][class][data["Correspondencia"]](data["Transcripción"])
+		if word_filters["manual_word_medial_patterns"][class][data["Correspondencia"]] then
+			letra = word_filters["manual_word_medial_patterns"][class][data["Correspondencia"]](data["Transcripción"])
 		else
 			letra = string.match(data["Transcripción"], word_filters["word_medial_patterns"][class])
 		end
