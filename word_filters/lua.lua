@@ -442,4 +442,40 @@ word_filters.word_patterns = {
 	}
 }
 
+word_filters.word_medial_patterns = {
+	["-g-"] = "%w(" .. word_filters.patterns["g"] .. ")%w",
+	["-i-"] = "%w(" .. word_filters.patterns["i"] .. ")%w",
+	["-.y-"] = "[aeou](" .. word_filters.patterns["i"] .. ")%w",
+	["-y.-"] = "%w(" .. word_filters.patterns["i"] .. ")[aeo]"
+}
+
+word_filters.manual_word_medial_patterns = {
+	["-g-"] = {
+	},
+	["-i-"] = {
+		["Fuisteis"] = function(word)
+			return string.match(word, "^f(" .. word_filters.patterns["u"] .. word_filters.patterns["i"] .. ")")
+		end,
+		["Juicio(s)?"] = function(word)
+			return string.match(word, "^(" .. word_filters.patterns["g"] .. word_filters.patterns["u"] .. word_filters.patterns["i"] .. ")")
+		end,
+		["Hubisteis"] = function(word)
+			return string.match(word, "^(h" .. word_filters.patterns["u"] .. word_filters.patterns["b"] .. word_filters.patterns["i"] .. ")")
+		end,
+		["Herir(a|e)is"] = function(word)
+			return string.match(word, "^(her" .. word_filters.patterns["i"] .. ")r")
+		end,
+		["Hicisteis"] = function(word)
+			return string.match(word, "^(h" .. word_filters.patterns["i"] .. word_filters.patterns["s"] .. word_filters.patterns["i"] .. word_filters.patterns["s"] .. ")")
+		end
+	},
+	["-.y-"] = {
+		["Fuisteis"] = function(word)
+			return string.match(word, "(e" .. word_filters.patterns["i"] .. word_filters.patterns["s"] .. ")$")
+		end
+	},
+	["-y.-"] = {
+	}
+}
+
 return word_filters
