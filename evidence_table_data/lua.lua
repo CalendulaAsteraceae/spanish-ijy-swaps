@@ -91,7 +91,7 @@ function p.print_representative_words()
 					data["Forma"],
 					data["Datos"]
 				},
-				"	"
+				"\t"
 			)
 		)
 	end
