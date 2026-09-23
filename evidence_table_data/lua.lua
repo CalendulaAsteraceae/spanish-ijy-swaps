@@ -23,7 +23,9 @@ end
 
 local representative_words = {}
 for i, data in ipairs(data_to_process) do
+	local letra
 	if #data["Clase"] == 1 then
+		letra = string.match(data["Transcripción"], "(" .. word_filters.patterns.swapletters .. ")")
 		table.insert(
 			representative_words,
 			{
@@ -32,12 +34,11 @@ for i, data in ipairs(data_to_process) do
 				["Datos"] = data["Datos"],
 				["Correspondencia"] = data["Correspondencia"],
 				["Clase"] = data["Clase"][1],
-				["Letra"] = string.match(data["Transcripción"], "(" .. word_filters.patterns.swapletters .. ")")
+				["Letra"] = letra
 			}
 		)
 	else
 		for j, class in ipairs(data["Clase"]) do
-			local letra
 			if class == "g-" or class == "i-" or class == "y.-" then
 				if string.sub(data["Transcripción"], 1, 1) == "h" then
 					letra = string.sub(data["Transcripción"], 2, 2)
@@ -61,7 +62,7 @@ for i, data in ipairs(data_to_process) do
 					["Datos"] = data["Datos"],
 					["Correspondencia"] = data["Correspondencia"],
 					["Clase"] = class,
-					["Letra"] = letra
+					["Letra"] = letra or "error"
 				}
 			)
 		end
