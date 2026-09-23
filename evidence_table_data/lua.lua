@@ -5,7 +5,7 @@ local ijy_corde_forms = require("ijy_corde_forms.lua")
 
 local data_to_process = {}
 for i, form in ipairs(ijy_corde_forms) do
-	for correspondencia, data in pairs(word_filters.word_patterns) do
+	for correspondencia, data in pairs(word_filters["word_patterns"]) do
 		if string.match(form["Transcripción"], data["Pattern"]) then
 			table.insert(
 				data_to_process,
@@ -24,14 +24,14 @@ end
 local function letter_for_class(class, data)
 	local letra
 	if class == "g-" or class == "i-" or class == "y.-" then
-		letra = string.match(data["Transcripción"], "^h?(" .. word_filters.patterns.swapletters .. ")")
+		letra = string.match(data["Transcripción"], "^h?(" .. word_filters["patterns"]["swapletters"] .. ")")
 	elseif class == "-i" or class == "-.y" then
-		letra = string.match(data["Transcripción"], "(" .. word_filters.patterns.swapletters .. ")$")
+		letra = string.match(data["Transcripción"], "(" .. word_filters["patterns"]["swapletters"] .. ")$")
 	elseif class == "-g-" or class == "-i-" or class == "-.y-" or class == "-y.-" then
-		if word_filters.manual_word_medial_patterns[class][data["Correspondencia"]] then
-			letra = word_filters.manual_word_medial_patterns[class][data["Correspondencia"]](data["Transcripción"])
+		if word_filters["patterns"]["manual_word_medial_patterns"][class][data["Correspondencia"]] then
+			letra = word_filters["patterns"]["manual_word_medial_patterns"][class][data["Correspondencia"]](data["Transcripción"])
 		else
-			letra = string.match(data["Transcripción"], word_filters.word_medial_patterns[class])
+			letra = string.match(data["Transcripción"], word_filters["word_medial_patterns"][class])
 		end
 	end
 	return letra
@@ -84,7 +84,7 @@ function p.print_representative_words()
 			printable_table,
 			table.concat(
 				{
-					word_filters.class_labels[data["Clase"]],
+					word_filters["class_labels"][data["Clase"]],
 					data["Letra"],
 					data["Correspondencia"],
 					data["Transcripción"],
