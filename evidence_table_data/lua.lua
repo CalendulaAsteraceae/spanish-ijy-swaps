@@ -89,7 +89,7 @@ function p.print_representative_words()
 					data["Correspondencia"],
 					data["Transcripción"],
 					data["Forma"],
-					table.concat(data["Datos"], "	")
+					data["Datos"]
 				},
 				"	"
 			)
