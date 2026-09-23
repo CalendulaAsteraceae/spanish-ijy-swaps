@@ -41,7 +41,10 @@ for i, form in ipairs(ijy_corde_forms) do
 				["Correspondencia"] = correspondencia
 			}
 			for j, class in ipairs(classes) do
-				table.insert(data_to_process, word_data(class, merged_data))
+				local wd = word_data(class, merged_data)
+				if wd then
+					table.insert(data_to_process, wd)
+				end
 			end
 		end
 	end
