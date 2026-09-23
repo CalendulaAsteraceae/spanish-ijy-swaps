@@ -31,7 +31,7 @@ for i, data in ipairs(data_to_process) do
 				["Forma"] = data["Forma"],
 				["Datos"] = data["Datos"],
 				["Correspondencia"] = data["Correspondencia"],
-				["Clase"] = data["Clase"],
+				["Clase"] = data["Clase"][1],
 				["Letra"] = string.match(data["Transcripción"], "(" .. word_filters.patterns.swapletters .. ")")
 			}
 		)
@@ -60,7 +60,7 @@ for i, data in ipairs(data_to_process) do
 					["Forma"] = data["Forma"],
 					["Datos"] = data["Datos"],
 					["Correspondencia"] = data["Correspondencia"],
-					["Clase"] = data["Clase"],
+					["Clase"] = class,
 					["Letra"] = letra
 				}
 			)
@@ -82,9 +82,9 @@ function p.print_representative_words()
 					data["Correspondencia"],
 					data["Transcripción"],
 					data["Forma"],
-					table.concat(data["Datos"], "\t")
+					table.concat(data["Datos"], "	")
 				},
-				"\t"
+				"	"
 			)
 		)
 	end
