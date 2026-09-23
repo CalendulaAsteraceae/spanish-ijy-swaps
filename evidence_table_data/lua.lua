@@ -13,6 +13,7 @@ local function word_data(class, data)
 		if word_filters["manual_word_medial_patterns"][class][data["Correspondencia"]] then
 			letra = word_filters["manual_word_medial_patterns"][class][data["Correspondencia"]](data["Transcripción"])
 		else
+			-- to do: search for multiple matches
 			letra = string.match(data["Transcripción"], word_filters["word_medial_patterns"][class])
 		end
 	end
