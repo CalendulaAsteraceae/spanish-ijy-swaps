@@ -22,7 +22,6 @@ for i, form in ipairs(ijy_corde_forms) do
 end
 
 local representative_words = {}
-
 for i, data in ipairs(data_to_process) do
 	if #data["Clase"] == 1 then
 		table.insert(
@@ -67,6 +66,29 @@ for i, data in ipairs(data_to_process) do
 			)
 		end
 	end
+end
+
+function p.print_representative_words()
+	local printable_table = {
+		"Clase	Letra	Correspondencia	Transcripción	Forma	–1200	1201–1250	1251–1300	1301–1350	1351–1400	1401–1450	1451–1500	1501–1550	1551–1600"
+	}
+	for i, data in ipairs(representative_words) do
+		table.insert(
+			printable_table,
+			table.concat(
+				{
+					data["Clase"],
+					data["Letra"],
+					data["Correspondencia"],
+					data["Transcripción"],
+					data["Forma"],
+					table.concat(data["Datos"], "\t")
+				},
+				"\t"
+			)
+		)
+	end
+	return table.concat(printable_table, "\n")
 end
 
 return p
