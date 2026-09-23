@@ -21,39 +21,43 @@ for i, form in ipairs(ijy_corde_forms) do
 	end
 end
 
+local function letter_for_class(class, data)
+	local letra
+	if class == "g-" or class == "i-" or class == "y.-" then
+		letra = string.match(data["Transcripción"], "^h?(" .. word_filters.patterns.swapletters .. ")")
+	elseif class == "-i" or class == "-.y" then
+		letra = string.match(data["Transcripción"], "(" .. word_filters.patterns.swapletters .. ")$")
+	elseif class == "-g-" or class == "-i-" or class == "-.y-" or class == "-y.-" then
+		if word_filters.manual_word_medial_patterns[class][data["Correspondencia"]] then
+			letra = word_filters.manual_word_medial_patterns[class][data["Correspondencia"]](data["Transcripción"])
+		else
+			letra = string.match(data["Transcripción"], word_filters.word_medial_patterns[class])
+		end
+	end
+	return letra
+end
+
 local representative_words = {}
 for i, data in ipairs(data_to_process) do
-	local letra
 	if #data["Clase"] == 1 then
-		letra = string.match(data["Transcripción"], "(" .. word_filters.patterns.swapletters .. ")")
-		table.insert(
-			representative_words,
-			{
-				["Transcripción"] = data["Transcripción"],
-				["Forma"] = data["Forma"],
-				["Datos"] = data["Datos"],
-				["Correspondencia"] = data["Correspondencia"],
-				["Clase"] = data["Clase"][1],
-				["Letra"] = letra
-			}
-		)
+		local class = data["Clase"][1]
+		local letra = letter_for_class(class, data)
+		if letra then
+			table.insert(
+				representative_words,
+				{
+					["Transcripción"] = data["Transcripción"],
+					["Forma"] = data["Forma"],
+					["Datos"] = data["Datos"],
+					["Correspondencia"] = data["Correspondencia"],
+					["Clase"] = class,
+					["Letra"] = letra
+				}
+			)
+		end
 	elseif #data["Clase"] > 1 then
 		for j, class in ipairs(data["Clase"]) do
-			if class == "g-" or class == "i-" or class == "y.-" then
-				if string.sub(data["Transcripción"], 1, 1) == "h" then
-					letra = string.sub(data["Transcripción"], 2, 2)
-				else
-					letra = string.sub(data["Transcripción"], 1, 1)
-				end
-			elseif class == "-i" or class == "-.y" then
-				letra = string.sub(data["Transcripción"], -1, -1)
-			elseif class == "-g-" or class == "-i-" or class == "-.y-" or class == "-y.-" then
-				if word_filters.manual_word_medial_patterns[class][data["Correspondencia"]] then
-					letra = word_filters.manual_word_medial_patterns[class][data["Correspondencia"]](data["Transcripción"])
-				else
-					letra = string.match(data["Transcripción"], word_filters.word_medial_patterns[class])
-				end
-			end
+			local letra = letter_for_class(class, data)
 			if letra then
 				table.insert(
 					representative_words,
@@ -80,7 +84,7 @@ function p.print_representative_words()
 			printable_table,
 			table.concat(
 				{
-					data["Clase"],
+					word_filters.class_labels[data["Clase"]],
 					data["Letra"],
 					data["Correspondencia"],
 					data["Transcripción"],
