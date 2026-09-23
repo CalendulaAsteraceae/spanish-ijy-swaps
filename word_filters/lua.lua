@@ -93,7 +93,7 @@ word_filters.word_patterns = {
 		["Class"] = {"g-"},
 		["Pattern"] = word_filters.patterns["g"] .. "+" .. "e+" .. "n+" .. "e+" .. "r+" .. "a+" .. "l+"
 	},
-	["Gentil\[Ellipsis]"] = {
+	["Gentil…"] = {
 		["Class"] = {"g-", "-i-"},
 		["Pattern"] = word_filters.patterns["g"] .. "+" .. "e+" .. "n+" .. "t+" .. word_filters.patterns["i"] .. "l+"
 	},
@@ -298,7 +298,7 @@ word_filters.word_patterns = {
 		["Class"] = {"i-"},
 		["Pattern"] = "h*" .. word_filters.patterns["i"] .. "n+" .. "e+" .. word_filters.patterns["s"] .. "+"
 	},
-	["I\[NTilde]ig(o|a)"] = {
+	["Iñig(o|a)"] = {
 		["Class"] = {"i-", "-i-"},
 		["Pattern"] = "h*" .. word_filters.patterns["i"] .. "n+" .. word_filters.patterns["i"] .. "g+" .. word_filters.patterns["ao"]
 	},
