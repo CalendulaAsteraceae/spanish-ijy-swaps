@@ -262,7 +262,7 @@ word_filters.word_patterns = {
 	},
 	["Hirien(do|te)"] = {
 		["Class"] = {"i-", "-y.-"},
-		["Pattern"] = "h*" .. word_filters.patterns["i"] .. "r+" .. word_filters.patterns["i"] .. "e+" .. "n+" .. ("d+" .. "o+" | "t+" .. "e+")
+		["Pattern"] = "h*" .. word_filters.patterns["i"] .. "r+" .. word_filters.patterns["i"] .. "e+" .. "n+" .. "[dote]+"
 	},
 	["Hirie(r|s)(a|e)is"] = {
 		["Class"] = {"i-", "-y.-", "-.y-"},
@@ -274,7 +274,7 @@ word_filters.word_patterns = {
 	},
 	["Hir(io|ieron)"] = {
 		["Class"] = {"i-", "-y.-"},
-		["Pattern"] = "h*" .. word_filters.patterns["i"] .. "r+" .. word_filters.patterns["i"] .. word_filters.patterns["eo"] .. ("r+" .. "o+" .. "n+")...
+		["Pattern"] = "h*" .. word_filters.patterns["i"] .. "r+" .. word_filters.patterns["i"] .. word_filters.patterns["eo"] .. "[romn]*"
 	},
 	
 	["Hierba(s)?"] = {
@@ -283,7 +283,7 @@ word_filters.word_patterns = {
 	},
 	["Hij(o|a)(s)?"] = {
 		["Class"] = {"i-", "-g-"},
-		["Pattern"] = ("hi" | "hj" | "hy" | "y") .. word_filters.patterns["j"] .. word_filters.patterns["ao"] .. word_filters.patterns["s"] .. "*"
+		["Pattern"] = "h?[ijy]" .. word_filters.patterns["j"] .. word_filters.patterns["ao"] .. word_filters.patterns["s"] .. "*"
 	},
 	
 	["Ibarra"] = {
