@@ -124,16 +124,16 @@ function p.print_letter_frequencies()
 	local printable_table = {
 		"Class  Letter  –1200  1201–1250  1251–1300  1301–1350  1351–1400  1401–1450  1451–1500  1501–1550  1551–1600" -- hardcoded
 	}
-	for class, class_data in ipairs(word_filters["class_labels"]) do
+	for class, class_data in pairs(word_filters["class_labels"]) do
 		local class_letter_data = {}
 		for i, letter in ipairs(letters_by_class[class]) do
 			table.insert(
 				class_letter_data,
 				table.concat(
 					{
-						word_filters["class_labels"][class]["text"],
+						class_data["text"],
 						letter,
-						table.concat(letter_frequencies[class][letter]["data"] or default_letter_frequencies, "  ")
+						table.concat(letter_frequencies[class][letter]["data"], "  ")
 					},
 					"  "
 				)
