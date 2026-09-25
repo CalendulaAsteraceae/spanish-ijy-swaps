@@ -48,7 +48,7 @@ local function word_data(class, data)
 end
 
 local letters_by_class = {}
-for class, v in ipairs(word_filters["class_labels"]) do
+for class, v in pairs(word_filters["class_labels"]) do
 	letters_by_class[class] = {}
 end
 
