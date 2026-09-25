@@ -5,3 +5,8 @@ This code is used to assess I/J/Y swaps in pre-17th century Spanish using data f
 require("global_def.lua")
 evidence_table_data.print_representative_words()
 ```
+
+```
+require("global_def.lua")
+evidence_table_data.print_letter_frequencies()
+```
