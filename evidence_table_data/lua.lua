@@ -47,8 +47,12 @@ local function word_data(class, data)
 	return nil
 end
 
-local representative_words = {}
 local letters_by_class = {}
+for class, v in ipairs(word_filters["class_labels"]) do
+	letters_by_class[class] = {}
+end
+
+local representative_words = {}
 for i, form in ipairs(ijy_corde_forms) do
 	for correspondencia, data in pairs(word_filters["word_patterns"]) do
 		if string.match(form["Transcripción"], data["Pattern"]) then
@@ -63,7 +67,6 @@ for i, form in ipairs(ijy_corde_forms) do
 				local d = word_data(class, merged_data)
 				if d then
 					table.insert(representative_words, d)
-					letters_by_class[class] = letters_by_class[class] or {}
 					table.insert(letters_by_class[class], d["Letra"])
 				end
 			end
@@ -124,7 +127,7 @@ function p.print_letter_frequencies()
 				class_letter_data,
 				table.concat(
 					{
-						word_filters["word_patterns"][class]["text"],
+						word_filters["class_labels"][class]["text"],
 						letter,
 						table.concat(letter_frequencies[class][letter] or default_letter_frequencies, "  ")
 					},
