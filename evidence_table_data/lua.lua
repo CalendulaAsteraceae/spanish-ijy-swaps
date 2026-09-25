@@ -112,7 +112,7 @@ end
 for i, data in ipairs(representative_words) do
 	local class = data["Clase"]
 	for j, n in ipairs(data["Datos"]) do
-		letter_frequencies[data["Clase"]][data["Datos"]][j] = letter_frequencies[data["Clase"]][data["Datos"]][j] + n
+		letter_frequencies[data["Clase"]][data["Letra"]][j] = letter_frequencies[data["Clase"]][data["Letra"]][j] + n
 	end
 end
 
