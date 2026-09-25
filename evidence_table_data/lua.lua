@@ -3,7 +3,7 @@ local p = {}
 local word_filters = require("word_filters.lua")
 local ijy_corde_forms = require("ijy_corde_forms.lua")
 
-local function remove_duplicates(array)
+local function remove_duplicates_and_sort(array)
     if not array or type(array) ~= "table" then
         return array
     end
@@ -17,7 +17,7 @@ local function remove_duplicates(array)
             exists[v] = true
         end
     end
-    return deduped_array
+    return table.sort(deduped_array)
 end
 
 -- uses hardcoded exceptions, should be reevaluated if more words are added
@@ -74,8 +74,7 @@ for i, form in ipairs(ijy_corde_forms) do
 	end
 end
 for class, v in ipairs(word_filters["class_labels"]) do
-	letters_by_class[class] = remove_duplicates(letters_by_class[class])
-	table.sort(letters_by_class[class])
+	letters_by_class[class] = remove_duplicates_and_sort(letters_by_class[class])
 end
 
 function p.print_representative_words()
@@ -102,21 +101,21 @@ function p.print_representative_words()
 end
 
 local letter_frequencies = {}
-local default_letter_frequencies = {0, 0, 0, 0, 0, 0, 0, 0, 0} -- hardcoded
 for class, class_data in pairs(word_filters["class_labels"]) do
 	letter_frequencies[class] = {}
 	for i, letter in ipairs(letters_by_class[class]) do
 		letter_frequencies[class][letter] = {
 			["class"] = class,
 			["letter"] = letter,
-			["data"] = default_letter_frequencies
+			["data"] = {0, 0, 0, 0, 0, 0, 0, 0, 0} -- hardcoded
 		}
 	end
 end
 for i, data in ipairs(representative_words) do
 	local class = data["Clase"]
+	local letter = data["Letra"]
 	for j, n in ipairs(data["Datos"]) do
-		letter_frequencies[data["Clase"]][data["Letra"]]["data"][j] = letter_frequencies[data["Clase"]][data["Letra"]]["data"][j] + n
+		letter_frequencies[class][letter]["data"][j] = letter_frequencies[class][letter]["data"][j] + n
 	end
 end
 
