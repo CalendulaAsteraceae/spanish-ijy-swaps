@@ -106,13 +106,17 @@ local default_letter_frequencies = {0, 0, 0, 0, 0, 0, 0, 0, 0} -- hardcoded
 for class, class_data in pairs(word_filters["class_labels"]) do
 	letter_frequencies[class] = {}
 	for i, letter in ipairs(letters_by_class[class]) do
-		letter_frequencies[class][letter] = default_letter_frequencies
+		letter_frequencies[class][letter] = {
+			["class"] = class,
+			["letter"] = letter,
+			["data"] = default_letter_frequencies
+		}
 	end
 end
 for i, data in ipairs(representative_words) do
 	local class = data["Clase"]
 	for j, n in ipairs(data["Datos"]) do
-		letter_frequencies[data["Clase"]][data["Letra"]][j] = letter_frequencies[data["Clase"]][data["Letra"]][j] + n
+		letter_frequencies[data["Clase"]][data["Letra"]]["data"][j] = letter_frequencies[data["Clase"]][data["Letra"]]["data"][j] + n
 	end
 end
 
