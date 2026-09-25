@@ -50,7 +50,7 @@ end
 
 function p.print_representative_words()
 	local printable_table = {
-		"Clase    Letra    Correspondencia    Transcripción    Forma    –1200    1201–1250    1251–1300    1301–1350    1351–1400    1401–1450    1451–1500    1501–1550    1551–1600"
+		"Clase  Letra  Correspondencia  Transcripción  Forma  –1200  1201–1250  1251–1300  1301–1350  1351–1400  1401–1450  1451–1500  1501–1550  1551–1600"
 	}
 	for i, data in ipairs(representative_words) do
 		table.insert(
@@ -64,7 +64,7 @@ function p.print_representative_words()
 					data["Forma"],
 					data["Datos"]
 				},
-				"    "
+				"  "
 			)
 		)
 	end
