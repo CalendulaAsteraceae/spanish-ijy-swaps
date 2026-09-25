@@ -61,9 +61,11 @@ for i, form in ipairs(ijy_corde_forms) do
 			}
 			for j, class in ipairs(classes) do
 				local d = word_data(class, merged_data)
-				table.insert(representative_words, d)
-				letters_by_class[class] = letters_by_class[class] or {}
-				table.insert(letters_by_class[class], d["Letra"])
+				if d then
+					table.insert(representative_words, d)
+					letters_by_class[class] = letters_by_class[class] or {}
+					table.insert(letters_by_class[class], d["Letra"])
+				end
 			end
 		end
 	end
