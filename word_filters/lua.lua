@@ -23,15 +23,15 @@ word_filters.patterns = {
 }
 
 word_filters["class_labels"] = {
-	["g-"] = "Word-initial consonant /d͡ʒ/ or /ʃ/",
-	["-g-"] = "Word-medial consonant /d͡ʒ/ or /ʃ/",
-	["i-"] = "Word-initial vowel /i/",
-	["-i-"] = "Word-medial vowel /i/",
-	["-i"] = "Word-final vowel /i/",
-	["y.-"] = "Word-initial semivowel /j/ starting a diphthong",
-	["-y.-"] = "Word-medial semivowel /j/ starting a diphthong",
-	["-.y-"] = "Word-medial semivowel /j/ ending a diphthong",
-	["-.y"] = "Word-final semivowel /j/ ending a diphthong"
+	["i-"] = {["text"] = "Word-initial vowel /i/", ["index"] = 1},
+	["-i-"] = {["text"] = "Word-medial vowel /i/", ["index"] = 2},
+	["-i"] = {["text"] = "Word-final vowel /i/", ["index"] = 3},
+	["y.-"] = {["text"] = "Word-initial semivowel /j/ starting a diphthong", ["index"] = 4},
+	["-y.-"] = {["text"] = "Word-medial semivowel /j/ starting a diphthong", ["index"] = 5},
+	["-.y-"] = {["text"] = "Word-medial semivowel /j/ ending a diphthong", ["index"] = 6},
+	["-.y"] = {["text"] = "Word-final semivowel /j/ ending a diphthong", ["index"] = 7},
+	["g-"] = {["text"] = "Word-initial consonant /d͡ʒ/ or /ʃ/", ["index"] = 8},
+	["-g-"] = {["text"] = "Word-medial consonant /d͡ʒ/ or /ʃ/", ["index"] = 9}
 }
 
 word_filters.word_patterns = {
