@@ -133,7 +133,7 @@ function p.print_letter_frequencies()
 					{
 						word_filters["class_labels"][class]["text"],
 						letter,
-						table.concat(letter_frequencies[class][letter] or default_letter_frequencies, "  ")
+						table.concat(letter_frequencies[class][letter]["data"] or default_letter_frequencies, "  ")
 					},
 					"  "
 				)
