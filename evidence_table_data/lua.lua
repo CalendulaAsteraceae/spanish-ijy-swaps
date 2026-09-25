@@ -124,7 +124,7 @@ function p.print_letter_frequencies()
 				class_letter_data,
 				table.concat(
 					{
-						class,
+						word_filters["word_patterns"][class]["text"],
 						letter,
 						table.concat(letter_frequencies[class][letter] or default_letter_frequencies, "  ")
 					},
