@@ -72,7 +72,7 @@ for i, form in ipairs(ijy_corde_forms) do
 					local letter = d["Letra"]
 					if not letters_by_class_exists[letter] then
 						table.insert(letters_by_class[class], letter)
-						letters_by_class_exists[letter] = true
+						letters_by_class_exists[class][letter] = true
 					end
 				end
 			end
@@ -110,19 +110,15 @@ local letter_frequencies = {}
 for class, class_data in pairs(word_filters["class_labels"]) do
 	letter_frequencies[class] = {}
 	for i, letter in ipairs(letters_by_class[class]) do
-		letter_frequencies[class][letter] = {
-			["class"] = class,
-			["letter"] = letter,
-			["data"] = {0, 0, 0, 0, 0, 0, 0, 0, 0} -- hardcoded
-		}
+		letter_frequencies[class][letter] = {0, 0, 0, 0, 0, 0, 0, 0, 0} -- hardcoded
 	end
 end
 for i, data in ipairs(representative_words) do
 	local class = data["Clase"]
 	local letter = data["Letra"]
 	for j, n in ipairs(data["Datos"]) do
-		local running_total = letter_frequencies[class][letter]["data"][j] 
-		letter_frequencies[class][letter]["data"][j] = running_total + n
+		local running_total = letter_frequencies[class][letter][j] 
+		letter_frequencies[class][letter][j] = running_total + n
 	end
 end
 
@@ -139,7 +135,7 @@ function p.print_letter_frequencies()
 					{
 						class_data["text"],
 						letter,
-						table.concat(letter_frequencies[class][letter]["data"], "  ")
+						table.concat(letter_frequencies[class][letter], "  ")
 					},
 					"  "
 				)
