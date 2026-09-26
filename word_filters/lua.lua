@@ -93,7 +93,7 @@ word_filters.word_patterns = {
 		["Class"] = {"g-"},
 		["Pattern"] = "^" .. word_filters["patterns"]["g"] .. "+" .. "e+" .. "n+" .. "e+" .. "r+" .. "a+" .. "l+" .. "$"
 	},
-	["Gentil…"] = {
+	["Gentil"] = {
 		["Class"] = {"g-", "-i-"},
 		["Pattern"] = "^" .. word_filters["patterns"]["g"] .. "+" .. "e+" .. "n+" .. "t+" .. word_filters["patterns"]["i"] .. "l+" .. "$"
 	},
