@@ -23,7 +23,7 @@ word_filters.patterns = {
 }
 
 word_filters["class_labels"] = {
-	["i-"] = {["text"] = "Word-initial vowel /i/", ["index"] = 1, ["letters"] = {"i", "j", "y"}},
+	["i-"] = {["text"] = "Word-initial vowel /i/", ["index"] = 1, ["letters"] = {"hi", "hj", "hy", "i", "j", "y"}},
 	["-i-"] = {["text"] = "Word-medial vowel /i/", ["index"] = 2, ["letters"] = {"i", "j", "y"}},
 	["-i"] = {["text"] = "Word-final vowel /i/", ["index"] = 3, ["letters"] = {"i", "j", "y"}},
 	["y.-"] = {["text"] = "Word-initial semivowel /j/ starting a diphthong", ["index"] = 4, ["letters"] = {"i", "j", "y"}},
