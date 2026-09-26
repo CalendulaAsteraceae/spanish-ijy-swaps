@@ -70,7 +70,7 @@ for i, form in ipairs(ijy_corde_forms) do
 				if d then
 					table.insert(representative_words, d)
 					local letter = d["Letra"]
-					if not letters_by_class_exists[letter] then
+					if not letters_by_class_exists[class][letter] then
 						table.insert(letters_by_class[class], letter)
 						letters_by_class_exists[class][letter] = true
 					end
