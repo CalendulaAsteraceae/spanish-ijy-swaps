@@ -476,7 +476,7 @@ word_filters.manual_word_medial_patterns = {
 	},
 	["-.y-"] = {
 		["Fuisteis"] = function(word)
-			return string.match(word, "e(" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"] .. ")$")
+			return string.match(word, "e(" .. word_filters["patterns"]["i"] .. ")" .. word_filters["patterns"]["s"] .. "$")
 		end
 	},
 	["-y.-"] = {

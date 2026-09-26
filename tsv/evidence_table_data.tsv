@@ -164,13 +164,13 @@ Word-medial vowel /i/	i	Fui(mos|ste)	fuisset	fuisset	8	2	0	3	0	0	12	5	6
 Word-medial vowel /i/	i	Fui(mos|ste)	fuist	fuist	0	1	0	0	0	0	0	0	0
 Word-medial vowel /i/	i	Fui(mos|ste)	fuiste	fuiste	0	0	1	10	0	1	68	118	305
 Word-medial vowel /i/	i	Fuisteis	fuisteis	fuisteis	0	0	0	0	0	0	14	6	40
-Word-medial semivowel /j/ ending a diphthong	eis	Fuisteis	fuisteis	fuisteis	0	0	0	0	0	0	14	6	40
+Word-medial semivowel /j/ ending a diphthong	i	Fuisteis	fuisteis	fuisteis	0	0	0	0	0	0	14	6	40
 Word-medial vowel /i/	i	Fui(mos|ste)	fuistes	fuistes	0	1	3	0	1	0	34	91	142
 Word-medial vowel /i/	i	Fui(mos|ste)	fuistete	fuistete	0	0	0	0	0	0	0	0	1
 Word-medial vowel /i/	i	Fuisteis	fuisteys	fuisteys	0	0	0	0	0	0	0	2	1
-Word-medial semivowel /j/ ending a diphthong	eys	Fuisteis	fuisteys	fuisteys	0	0	0	0	0	0	0	2	1
+Word-medial semivowel /j/ ending a diphthong	y	Fuisteis	fuisteys	fuisteys	0	0	0	0	0	0	0	2	1
 Word-medial vowel /i/	i	Fuisteis	fuisteis	fuistéis	0	0	0	0	0	0	0	2	1
-Word-medial semivowel /j/ ending a diphthong	eis	Fuisteis	fuisteis	fuistéis	0	0	0	0	0	0	0	2	1
+Word-medial semivowel /j/ ending a diphthong	i	Fuisteis	fuisteis	fuistéis	0	0	0	0	0	0	0	2	1
 Word-medial vowel /i/	i	Fui(mos|ste)	fuit	fuit	306	50	30	18	1	9	1036	48	68
 Word-medial vowel /i/	i	Fui(mos|ste)	fuie	fuié	0	0	0	0	0	2	0	0	0
 Word-medial vowel /i/	i	Fui(mos|ste)	fuien	fuién	0	0	0	0	0	4	0	0	0
@@ -213,7 +213,7 @@ Word-medial vowel /i/	y	Fui(mos|ste)	fuysses	fuysses	0	0	0	0	0	1	0	0	0
 Word-medial vowel /i/	y	Fui(mos|ste)	fuyste	fuyste	0	0	3	0	0	16	2	36	25
 Word-medial vowel /i/	y	Fui(mos|ste)	fuystes	fuystes	3	0	0	5	0	2	12	109	19
 Word-medial vowel /i/	y	Fuisteis	fuysteys	fuysteys	0	0	0	0	0	0	0	1	1
-Word-medial semivowel /j/ ending a diphthong	eys	Fuisteis	fuysteys	fuysteys	0	0	0	0	0	0	0	1	1
+Word-medial semivowel /j/ ending a diphthong	y	Fuisteis	fuysteys	fuysteys	0	0	0	0	0	0	0	1	1
 Word-medial vowel /i/	y	Fui(mos|ste)	fuyt	fuyt	0	0	1	1	1	5	4	0	0
 Word-medial vowel /i/	y	Fui(mos|ste)	fuye	fuyé	0	1	0	0	0	1	0	0	0
 Word-medial vowel /i/	y	Fui(mos|ste)	fuyen	fuyén	0	2	0	0	0	0	0	0	8
@@ -226,7 +226,7 @@ Word-medial vowel /i/	i	Fui(mos|ste)	fuimonos	fuímonos	0	0	0	0	0	0	0	10	7
 Word-medial vowel /i/	i	Fui(mos|ste)	fuimos	fuímos	0	0	0	0	0	0	2	1	22
 Word-medial vowel /i/	i	Fui(mos|ste)	fuis	fuís	0	0	0	0	0	0	2	1	0
 Word-medial vowel /i/	i	Fuisteis	fuisteis	fuísteis	0	0	0	0	0	0	2	2	2
-Word-medial semivowel /j/ ending a diphthong	eis	Fuisteis	fuisteis	fuísteis	0	0	0	0	0	0	2	2	2
+Word-medial semivowel /j/ ending a diphthong	i	Fuisteis	fuisteis	fuísteis	0	0	0	0	0	0	2	2	2
 Word-medial vowel /i/	i	Fui(mos|ste)	fuistes	fuístes	0	0	0	0	0	0	2	0	0
 Word-medial vowel /i/	i	Fui(mos|ste)	fuistesos	fuístesos	0	0	0	0	0	0	0	0	1
 Word-medial vowel /i/	i	Fui(mos|ste)	fuistete	fuístete	0	0	0	0	0	0	0	0	1
