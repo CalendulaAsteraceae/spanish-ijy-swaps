@@ -32,7 +32,7 @@ local function word_data(class, data)
 	elseif manual_matching_function then
 		letra = string.match(data["Transcripción"], manual_matching_function)
 	else
-		letra = string.match(data["Transcripción"], word_filters["class_labels"][class])["word_match_patterns"]
+		letra = string.match(data["Transcripción"], word_filters["class_labels"][class]["word_match_patterns"])
 	end
 	if type(letra) == "string" then
 		letra = {letra}
