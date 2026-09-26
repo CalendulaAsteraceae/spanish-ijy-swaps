@@ -24,7 +24,7 @@ end
 local function word_data(class, data)
 	local letra
 	local manual_matching_function = word_filters["manual_word_match_patterns"][class][data["Correspondencia"]]
-	if manual_matching_function and type(manual_matching_function) == "table" then
+	if type(manual_matching_function) == "table" then
 		letra = {}
 		for i, f in ipairs(manual_matching_function) do
 			table.insert(letra, string.match(data["Transcripción"], f))
