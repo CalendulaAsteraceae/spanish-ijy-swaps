@@ -454,7 +454,7 @@ word_filters.manual_word_medial_patterns = {
 	},
 	["-i-"] = {
 		["Fuisteis"] = function(word)
-			return string.match(word, "^f(" .. word_filters["patterns"]["u"] .. word_filters["patterns"]["i"] .. ")")
+			return string.match(word, "^f" .. word_filters["patterns"]["u"] .. "(" .. word_filters["patterns"]["i"] .. ")")
 		end,
 		["Juicio(s)?"] = function(word)
 			return string.match(word, "^(" .. word_filters["patterns"]["g"] .. word_filters["patterns"]["u"] .. word_filters["patterns"]["i"] .. ")")
