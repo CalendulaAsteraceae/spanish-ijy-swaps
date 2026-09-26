@@ -63,13 +63,6 @@ local function word_data(class, data)
 	return nil
 end
 
-local letters_by_class = {}
-local letters_by_class_exists = {}
-for class, v in pairs(word_filters["class_labels"]) do
-	letters_by_class[class] = {}
-	letters_by_class_exists[class] = {}
-end
-
 local representative_words = {}
 for i, form in ipairs(ijy_corde_forms) do
 	for correspondencia, data in pairs(word_filters["word_patterns"]) do
@@ -86,19 +79,11 @@ for i, form in ipairs(ijy_corde_forms) do
 				if ds then
 					for k, d in ipairs(ds) do
 						table.insert(representative_words, d)
-						local letter = d["Letra"]
-						if not letters_by_class_exists[class][letter] then
-							table.insert(letters_by_class[class], letter)
-							letters_by_class_exists[class][letter] = true
-						end
 					end
 				end
 			end
 		end
 	end
-end
-for class, v in ipairs(word_filters["class_labels"]) do
-	table.sort(letters_by_class[class])
 end
 
 function p.print_representative_words()
@@ -127,7 +112,7 @@ end
 local letter_frequencies = {}
 for class, class_data in pairs(word_filters["class_labels"]) do
 	letter_frequencies[class] = {}
-	for i, letter in ipairs(letters_by_class[class]) do
+	for i, letter in ipairs(word_filters["class_labels"][class]["letters"]) do
 		letter_frequencies[class][letter] = {0, 0, 0, 0, 0, 0, 0, 0, 0} -- hardcoded
 	end
 end
@@ -146,7 +131,7 @@ function p.print_letter_frequencies()
 	}
 	for class, class_data in pairs(word_filters["class_labels"]) do
 		local class_letter_data = {}
-		for i, letter in ipairs(letters_by_class[class]) do
+		for i, letter in ipairs(class_data["letters"]) do
 			table.insert(
 				class_letter_data,
 				table.concat(
