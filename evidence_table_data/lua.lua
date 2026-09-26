@@ -23,7 +23,7 @@ end
 -- uses hardcoded exceptions, should be reevaluated if more words are added
 local function word_data(class, data)
 	local letra
-	local manual_matching_function = word_filters["class_labels"]["manual_word_match_patterns"][class][data["Correspondencia"]]
+	local manual_matching_function = word_filters["class_labels"][class]["manual_word_match_patterns"][data["Correspondencia"]]
 	if type(manual_matching_function) == "table" then
 		letra = {}
 		for i, f in ipairs(manual_matching_function) do
@@ -32,7 +32,7 @@ local function word_data(class, data)
 	elseif manual_matching_function then
 		letra = string.match(data["Transcripción"], manual_matching_function)
 	else
-		letra = string.match(data["Transcripción"], word_filters["class_labels"]["word_match_patterns"][class])
+		letra = string.match(data["Transcripción"], word_filters["class_labels"][class])["word_match_patterns"]
 	end
 	if type(letra) == "string" then
 		letra = {letra}
