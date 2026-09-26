@@ -17,9 +17,17 @@ Word-final semivowel /j/ ending a diphthong	i	Hay	ai	ai	1	4	0	1	1	1	51	33	108
 Word-medial semivowel /j/ starting a diphthong	i	Hayais	aiais	aiais	0	0	0	0	0	0	6	2	0
 Word-medial semivowel /j/ ending a diphthong	i	Hayais	aiais	aiais	0	0	0	0	0	0	6	2	0
 Word-medial semivowel /j/ starting a diphthong	i	Ayer	aier	aier	0	0	0	0	0	0	4	1	6
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Ajo(s)?	aio	aio	0	0	0	0	0	0	17	2	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Ajo(s)?	aios	aios	2	1	3	0	0	1	2	0	2
+Word-medial semivowel /j/ ending a diphthong	i	Aire(s)?	aire	aire	0	7	12	0	2	656	920	753	2608
+Word-medial semivowel /j/ ending a diphthong	i	Aire(s)?	aires	aires	0	0	1	1	0	38	83	203	377
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Ajo(s)?	aio	aiº	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hayais	aiais	aiáis	0	0	0	0	0	0	0	0	2
 Word-medial semivowel /j/ ending a diphthong	i	Hayais	aiais	aiáis	0	0	0	0	0	0	0	0	2
 Word-final semivowel /j/ ending a diphthong	j	Hay	aj	aj	2	0	0	0	0	1	1	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Ajo(s)?	ajo	ajo	6	1	0	3	5	2	46	39	77
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Ajo(s)?	ajos	ajos	0	18	2	0	29	6	105	102	104
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Ajo(s)?	ajo	ajó	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Antoni(o|a)	antonia	antonia	0	0	1	0	1	2	20	59	88
 Word-medial semivowel /j/ starting a diphthong	i	Antoni(o|a)	antonio	antonio	1	0	9	21	434	30	1362	2723	3829
 Word-medial semivowel /j/ starting a diphthong	j	Antoni(o|a)	antonja	antonja	0	0	0	0	0	1	0	0	0
@@ -68,6 +76,9 @@ Word-medial semivowel /j/ ending a diphthong	y	Hayais	ayays	ayays	0	0	1	0	1	0	37
 Word-medial semivowel /j/ starting a diphthong	y	Hayais	ayays	ayaýs	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ ending a diphthong	y	Hayais	ayays	ayaýs	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	y	Ayer	ayer	ayer	32	4	21	48	3	43	250	463	657
+Word-medial semivowel /j/ ending a diphthong	y	Aire(s)?	ayre	ayre	0	19	60	24	240	233	508	912	1514
+Word-medial semivowel /j/ ending a diphthong	y	Aire(s)?	ayres	ayres	0	0	3	3	14	19	23	116	322
+Word-medial semivowel /j/ ending a diphthong	y	Aire(s)?	ayre	ayré	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	y	Hayais	ayais	ayáis	0	0	12	0	0	1	31	91	33
 Word-medial semivowel /j/ ending a diphthong	y	Hayais	ayais	ayáis	0	0	12	0	0	1	31	91	33
 Word-medial semivowel /j/ starting a diphthong	y	Hayais	ayays	ayáys	0	0	0	0	0	1	7	69	9
@@ -77,8 +88,10 @@ Word-medial semivowel /j/ ending a diphthong	y	Haceis	azeys	azéys	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Haciendo	aciendo	açiendo	0	0	0	0	0	0	0	4	5
 Word-medial semivowel /j/ starting a diphthong	i	Haciendo	aciendo	açiéndo	0	0	0	0	0	0	0	0	1
 Word-final semivowel /j/ ending a diphthong	i	Hay	ai	aí	0	0	64	1	0	18	224	284	94
+Word-medial semivowel /j/ ending a diphthong	i	Aire(s)?	aires	aíres	0	0	0	1	0	0	0	0	0
 Word-final semivowel /j/ ending a diphthong	i	Hay	ai	aï	0	2	0	0	0	0	0	0	0
 Word-final semivowel /j/ ending a diphthong	y	Hay	ay	aý	0	0	9	16	0	93	38	2978	238
+Word-medial semivowel /j/ ending a diphthong	y	Aire(s)?	ayre	aýre	0	0	0	0	0	0	0	1	1
 Word-medial semivowel /j/ starting a diphthong	i	Vaya(mos|n|s)	baian	baian	2	1	1	0	0	0	1	1	4
 Word-medial semivowel /j/ starting a diphthong	i	Vaya(mos|n|s)	baias	baias	0	0	0	0	0	0	5	0	0
 Word-medial semivowel /j/ ending a diphthong	i	Vais	bais	bais	1	0	0	0	0	1	0	1	7
@@ -107,13 +120,17 @@ Word-medial vowel /i/	j	Catalina	catalljna	catalljna	3	0	0	0	0	0	0	0	0
 Word-medial vowel /i/	y	Catalina	catalyna	catalyna	1	0	15	0	0	1	1	0	0
 Word-medial vowel /i/	i	Catalina	cattalina	cattalina	0	0	0	0	0	0	0	4	2
 Word-medial vowel /i/	i	Cid	cid	cid	23	0	77	1	0	4	1373	2015	341
+Word-medial vowel /i/	i	Sid(o|a)(s)?	cida	cida	1	0	0	0	0	0	2	0	0
 Word-medial vowel /i/	i	Cidi	cidi	cidi	4	0	0	0	0	0	3	13	5
 Word-final vowel /i/	i	Cidi	cidi	cidi	4	0	0	0	0	0	3	13	5
+Word-medial vowel /i/	i	Sid(o|a)(s)?	cido	cido	0	0	0	0	0	0	1	0	1
 Word-medial vowel /i/	i	Cidi	cidy	cidy	0	0	0	0	0	0	1	0	0
 Word-final vowel /i/	y	Cidi	cidy	cidy	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Sid(o|a)(s)?	cida	cidá	0	0	0	0	0	0	0	3	0
 Word-medial semivowel /j/ starting a diphthong	i	Siendo	ciendo	ciendo	0	0	0	0	0	0	2	0	3
 Word-medial vowel /i/	j	Cid	cjd	cjd	1	0	0	0	0	0	0	0	0
 Word-medial vowel /i/	y	Cid	cyd	cyd	0	0	0	0	0	0	4	0	0
+Word-medial vowel /i/	y	Sid(o|a)(s)?	cydas	cydas	0	0	0	0	0	0	0	1	0
 Word-medial vowel /i/	i	Elvira	elbira	elbira	0	0	1	2	0	0	2	4	1
 Word-medial vowel /i/	i	Elvira	eluira	eluira	60	57	101	3	1	31	33	103	10
 Word-medial vowel /i/	j	Elvira	elujra	elujra	4	0	1	32	0	1	0	0	0
@@ -259,6 +276,8 @@ Word-medial semivowel /j/ starting a diphthong	i	Haciendo	haciendo	haciendo	0	0	
 Word-medial semivowel /j/ starting a diphthong	i	Haciendo	haciendo	haciéndo	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ ending a diphthong	i	Haceis	haceis	hacéis	0	0	0	0	0	0	2	122	268
 Word-medial semivowel /j/ ending a diphthong	y	Haceis	haceys	hacéys	0	0	0	0	0	0	0	0	2
+Word-medial vowel /i/	i	Haciais	haciais	hacíais	0	0	0	0	0	0	0	2	2
+Word-medial semivowel /j/ ending a diphthong	i	Haciais	haciais	hacíais	0	0	0	0	0	0	0	2	2
 Word-medial semivowel /j/ ending a diphthong	i	Hagais	hagais	hagais	0	0	0	0	0	0	48	69	39
 Word-medial semivowel /j/ ending a diphthong	j	Hagais	hagajs	hagajs	0	0	0	0	0	0	2	0	0
 Word-medial semivowel /j/ ending a diphthong	y	Hagais	hagays	hagays	0	0	0	0	0	0	26	78	17
@@ -266,6 +285,10 @@ Word-medial semivowel /j/ ending a diphthong	y	Hagais	hagays	hagaýs	0	0	0	0	0	0
 Word-medial semivowel /j/ ending a diphthong	i	Hagais	hagais	hagáis	0	0	4	0	0	0	36	213	227
 Word-medial semivowel /j/ ending a diphthong	y	Hagais	hagays	hagáys	0	0	0	0	0	0	2	99	19
 Word-final semivowel /j/ ending a diphthong	i	Hay	hai	hai	0	0	0	1	0	0	34	7	325
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Ajo(s)?	haio	haio	0	0	0	0	0	0	0	0	2
+Word-medial semivowel /j/ ending a diphthong	i	Aire(s)?	haires	haires	0	0	0	0	0	0	0	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Ajo(s)?	hajo	hajo	0	0	0	0	0	0	0	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Ajo(s)?	hajos	hajos	1	0	0	0	0	0	0	0	0
 Word-medial semivowel /j/ ending a diphthong	i	Hareis	hareis	hareis	0	0	0	0	0	0	17	61	88
 Word-medial semivowel /j/ ending a diphthong	y	Hareis	hareys	hareys	0	0	0	0	0	0	21	33	16
 Word-medial semivowel /j/ ending a diphthong	y	Hareis	hareys	hareýs	0	0	0	0	0	0	0	0	1
@@ -315,10 +338,16 @@ Word-final semivowel /j/ ending a diphthong	i	Hay	hai	haí	0	0	4	0	0	0	1	3	1
 Word-final semivowel /j/ ending a diphthong	y	Hay	hay	haý	0	0	0	0	0	0	0	5	2
 Word-medial vowel /i/	i	Elvira	heluira	heluira	1	0	0	0	0	0	0	0	0
 Word-final vowel /i/	i	Heri	heri	heri	0	0	0	0	0	0	26	1	5
+Word-medial vowel /i/	i	Herimos	herimos	herimos	0	0	0	0	0	0	1	9	9
 Word-medial vowel /i/	i	Her(is|iste)	heris	heris	0	0	0	0	0	0	1	1	2
 Word-medial vowel /i/	i	Her(is|iste)	heriste	heriste	0	0	0	0	0	0	0	10	15
 Word-final vowel /i/	i	Heri	heri	herí	0	0	0	0	0	0	0	16	7
 Word-medial vowel /i/	i	Her(is|iste)	heris	herís	0	0	0	0	0	0	0	2	11
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiccine	hiccine	0	0	0	0	0	0	6	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hiccine	hiccine	0	0	0	0	0	0	6	0	0
+Word-initial vowel /i/	hi	Hi(ce|zo)	hice	hice	0	0	0	0	0	0	77	562	660
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicie	hicie	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hicie	hicie	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciera	hiciera	0	0	0	0	0	0	59	274	450
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciera	hiciera	0	0	0	0	0	0	59	274	450
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)is	hicierais	hicierais	0	0	0	0	0	0	0	2	2
@@ -339,23 +368,51 @@ Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hicieren	hicieren	0	1	0	0	0	
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hicieren	hicieren	0	1	0	0	0	0	62	106	388
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hicieres	hicieres	0	0	0	0	0	0	1	18	34
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hicieres	hicieres	0	0	0	0	0	0	1	18	34
+Word-initial vowel /i/	hi	Hicieron	hicieron	hicieron	1	0	0	1	3	1	330	1855	3797
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	hicieron	hicieron	1	0	0	1	3	1	330	1855	3797
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciese	hiciese	0	0	0	0	0	0	184	1096	2362
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciese	hiciese	0	0	0	0	0	0	184	1096	2362
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciese	hiciese	0	0	0	0	0	0	184	1096	2362
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciese	hiciese	0	0	0	0	0	0	184	1096	2362
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)is	hicieseis	hicieseis	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)is	hicieseis	hicieseis	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ ending a diphthong	i	Hicie(r|s)(a|e)is	hicieseis	hicieseis	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciesemos	hiciesemos	0	0	0	0	0	0	0	2	2
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciesemos	hiciesemos	0	0	0	0	0	0	0	2	2
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciesemos	hiciesemos	0	0	0	0	0	0	0	2	2
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciesemos	hiciesemos	0	0	0	0	0	0	0	2	2
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciesen	hiciesen	0	0	0	0	2	0	187	619	1140
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciesen	hiciesen	0	0	0	0	2	0	187	619	1140
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciesen	hiciesen	0	0	0	0	2	0	187	619	1140
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciesen	hiciesen	0	0	0	0	2	0	187	619	1140
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hicieses	hicieses	0	0	0	0	0	0	2	6	15
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hicieses	hicieses	0	0	0	0	0	0	2	6	15
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicieses	hicieses	0	0	0	0	0	0	2	6	15
+Word-medial vowel /i/	i	Hici(mos|ste)	hicieses	hicieses	0	0	0	0	0	0	2	6	15
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciesse	hiciesse	0	0	0	0	0	0	3	3	14
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciesse	hiciesse	0	0	0	0	0	0	3	3	14
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciesse	hiciesse	0	0	0	0	0	0	3	3	14
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciesse	hiciesse	0	0	0	0	0	0	3	3	14
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciessen	hiciessen	0	0	0	0	0	0	0	0	4
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciessen	hiciessen	0	0	0	0	0	0	0	0	4
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciessen	hiciessen	0	0	0	0	0	0	0	0	4
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciessen	hiciessen	0	0	0	0	0	0	0	0	4
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciesses	hiciesses	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciesses	hiciesses	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciesses	hiciesses	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciesses	hiciesses	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicimonos	hicimonos	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hicimonos	hicimonos	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicimos	hicimos	0	0	0	0	0	0	11	121	137
+Word-medial vowel /i/	i	Hici(mos|ste)	hicimos	hicimos	0	0	0	0	0	0	11	121	137
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciste	hiciste	0	0	0	0	0	0	15	31	102
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciste	hiciste	0	0	0	0	0	0	15	31	102
+Word-initial vowel /i/	hi	Hicisteis	hicisteis	hicisteis	0	0	0	0	0	0	4	11	29
+Word-medial vowel /i/	ic	Hicisteis	hicisteis	hicisteis	0	0	0	0	0	0	4	11	29
+Word-medial vowel /i/	i	Hicisteis	hicisteis	hicisteis	0	0	0	0	0	0	4	11	29
+Word-medial semivowel /j/ ending a diphthong	i	Hicisteis	hicisteis	hicisteis	0	0	0	0	0	0	4	11	29
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicistes	hicistes	0	0	0	0	0	0	11	16	58
+Word-medial vowel /i/	i	Hici(mos|ste)	hicistes	hicistes	0	0	0	0	0	0	11	16	58
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)is	hicierais	hiciérais	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)is	hicierais	hiciérais	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ ending a diphthong	i	Hicie(r|s)(a|e)is	hicierais	hiciérais	0	0	0	0	0	0	0	1	0
@@ -370,10 +427,66 @@ Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hicieremos	hiciéremos	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hicieremos	hiciéremos	0	0	0	0	0	0	3	14	32
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciesemos	hiciésemos	0	0	0	0	0	0	2	20	24
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciesemos	hiciésemos	0	0	0	0	0	0	2	20	24
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciesemos	hiciésemos	0	0	0	0	0	0	2	20	24
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciesemos	hiciésemos	0	0	0	0	0	0	2	20	24
+Word-initial vowel /i/	hi	Hi(ce|zo)	hico	hico	0	0	0	0	0	0	4	7	4
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciese	hicíese	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciese	hicíese	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciese	hicíese	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciese	hicíese	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicimonos	hicímonos	0	0	0	0	0	0	0	7	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hicimonos	hicímonos	0	0	0	0	0	0	0	7	0
+Word-initial vowel /i/	hi	Hicisteis	hicisteis	hicísteis	0	0	0	0	0	0	1	1	9
+Word-medial vowel /i/	ic	Hicisteis	hicisteis	hicísteis	0	0	0	0	0	0	1	1	9
+Word-medial vowel /i/	i	Hicisteis	hicisteis	hicísteis	0	0	0	0	0	0	1	1	9
+Word-medial semivowel /j/ ending a diphthong	i	Hicisteis	hicisteis	hicísteis	0	0	0	0	0	0	1	1	9
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicisteme	hicísteme	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hicisteme	hicísteme	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicistenos	hicístenos	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hicistenos	hicístenos	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicistesme	hicístesme	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hicistesme	hicístesme	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicistesnos	hicístesnos	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hicistesnos	hicístesnos	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicistesos	hicístesos	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hicistesos	hicístesos	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicistete	hicístete	0	0	0	0	0	0	0	0	2
+Word-medial vowel /i/	i	Hici(mos|ste)	hicistete	hicístete	0	0	0	0	0	0	0	0	2
+Word-initial semivowel /j/ starting a diphthong	hi	Hierba(s)?	hierba	hierba	2	0	3	0	0	0	0	400	295
+Word-initial semivowel /j/ starting a diphthong	hi	Hierba(s)?	hierbas	hierbas	1	1	2	0	8	0	7	200	270
+Word-initial semivowel /j/ starting a diphthong	hi	Yerno(s)?	hierno	hierno	6	0	0	0	7	0	9	7	13
+Word-initial semivowel /j/ starting a diphthong	hi	Yerno(s)?	hiernos	hiernos	0	0	0	0	2	0	0	0	7
+Word-initial semivowel /j/ starting a diphthong	hi	Hierba(s)?	hierua	hierua	0	0	1	0	1	0	2	15	11
+Word-initial semivowel /j/ starting a diphthong	hi	Hierba(s)?	hieruas	hieruas	2	0	0	0	0	1	2	2	7
+Word-initial semivowel /j/ starting a diphthong	hi	Hierba(s)?	hierva	hierva	0	0	0	0	0	0	3	18	30
+Word-initial semivowel /j/ starting a diphthong	hi	Hierba(s)?	hiervas	hiervas	0	0	1	0	0	0	0	4	9
+Word-initial semivowel /j/ starting a diphthong	hi	Yeso(s)?	hieso	hieso	0	0	0	0	0	0	0	2	2
+Word-initial semivowel /j/ starting a diphthong	hi	Yeso(s)?	hiesos	hiesos	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Iglesia(s)?	higlesia	higlesia	0	0	0	0	0	0	0	1	0
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	higlesia	higlesia	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Iglesia(s)?	higlesias	higlesias	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	higlesias	higlesias	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hiia	hiia	0	0	0	0	0	0	2	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hiia	hiia	0	0	0	0	0	0	2	0	1
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hiio	hiio	0	0	0	0	0	0	1	0	3
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hiio	hiio	0	0	0	0	0	0	1	0	3
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hiios	hiios	0	0	0	0	0	0	0	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hiios	hiios	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hija	hija	1	6	59	0	18	91	903	3929	5627
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hija	hija	1	6	59	0	18	91	903	3929	5627
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hijas	hijas	0	1	1	0	20	24	294	1018	1527
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hijas	hijas	0	1	1	0	20	24	294	1018	1527
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hijo	hijo	19	12	123	30	27	312	2461	8708	16617
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hijo	hijo	19	12	123	30	27	312	2461	8708	16617
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hijos	hijos	7	10	71	1	10	136	1441	5747	9859
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hijos	hijos	7	10	71	1	10	136	1441	5747	9859
+Word-initial vowel /i/	hi	Inez	hines	hines	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	hi	Ir	hir	hir	1	15	17	1	10	6	53	24	60
 Word-initial vowel /i/	hi	Ir(a|e)is	hiras	hiras	0	0	0	0	1	0	4	0	0
+Word-initial vowel /i/	hi	(Hi|i)r(a|e)is	hireis	hireis	0	0	0	0	0	0	0	0	2
+Word-medial semivowel /j/ ending a diphthong	i	(Hi|i)r(a|e)is	hireis	hireis	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	hi	(Hi|i)r(a|e)is	hireys	hireys	0	0	0	0	0	0	0	2	1
+Word-medial semivowel /j/ ending a diphthong	y	(Hi|i)r(a|e)is	hireys	hireys	0	0	0	0	0	0	0	2	1
 Word-initial vowel /i/	hi	Hir(io|ieron)	hirie	hirie	0	1	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hir(io|ieron)	hirie	hirie	0	1	0	0	0	0	0	0	0
 Word-initial vowel /i/	hi	Hir(io|ieron)	hirien	hirien	0	0	0	0	0	0	0	0	1
@@ -416,32 +529,84 @@ Word-initial vowel /i/	hi	Hirien(do|te)	hiriendote	hiriéndote	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hirien(do|te)	hiriendote	hiriéndote	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	hi	Hir(io|ieron)	hirio	hirió	0	0	1	0	0	0	28	299	359
 Word-medial semivowel /j/ starting a diphthong	i	Hir(io|ieron)	hirio	hirió	0	0	1	0	0	0	28	299	359
+Word-initial vowel /i/	hi	(Hi|i)r(a|e)is	hirais	hiráis	0	0	0	0	0	0	1	0	2
+Word-medial semivowel /j/ ending a diphthong	i	(Hi|i)r(a|e)is	hirais	hiráis	0	0	0	0	0	0	1	0	2
 Word-initial vowel /i/	hi	Ir(a|e)is	hiras	hirás	0	0	0	0	0	0	0	0	11
 Word-initial vowel /i/	hi	Isabel(a)?	hisabel	hisabel	2	0	0	0	0	0	0	0	0
+Word-initial vowel /i/	hi	Hi(ce|zo)	hisce	hisce	0	0	0	0	0	0	1	1	2
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiscis	hiscis	0	0	0	0	0	0	2	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hiscis	hiscis	0	0	0	0	0	0	2	0	0
+Word-initial vowel /i/	hi	Hi(ce|zo)	hisco	hisco	0	0	0	0	0	0	20	0	0
+Word-initial vowel /i/	hi	Hi(ce|zo)	hise	hise	0	0	0	0	0	1	0	5	8
+Word-initial vowel /i/	hi	Hici(mos|ste)	hisiemos	hisiemos	0	0	0	1	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hisiemos	hisiemos	0	0	0	1	0	0	0	0	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisiera	hisiera	0	0	0	0	0	0	1	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hisiera	hisiera	0	0	0	0	0	0	1	0	1
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisiere	hisiere	0	0	0	0	0	4	37	0	2
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hisiere	hisiere	0	0	0	0	0	4	37	0	2
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisieren	hisieren	0	0	0	0	0	3	12	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hisieren	hisieren	0	0	0	0	0	3	12	0	0
+Word-initial vowel /i/	hi	Hicieron	hisieron	hisieron	0	0	0	0	0	4	17	5	2
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	hisieron	hisieron	0	0	0	0	0	4	17	5	2
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisiese	hisiese	0	0	0	0	0	1	2	6	2
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hisiese	hisiese	0	0	0	0	0	1	2	6	2
+Word-initial vowel /i/	hi	Hici(mos|ste)	hisiese	hisiese	0	0	0	0	0	1	2	6	2
+Word-medial vowel /i/	i	Hici(mos|ste)	hisiese	hisiese	0	0	0	0	0	1	2	6	2
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisiesemos	hisiesemos	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hisiesemos	hisiesemos	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hisiesemos	hisiesemos	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hisiesemos	hisiesemos	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisiesen	hisiesen	0	0	0	1	0	0	5	3	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hisiesen	hisiesen	0	0	0	1	0	0	5	3	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hisiesen	hisiesen	0	0	0	1	0	0	5	3	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hisiesen	hisiesen	0	0	0	1	0	0	5	3	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisiezen	hisiezen	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hisiezen	hisiezen	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hisiezen	hisiezen	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hisiezen	hisiezen	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hisimos	hisimos	0	0	0	1	0	0	1	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hisimos	hisimos	0	0	0	1	0	0	1	0	1
+Word-initial vowel /i/	hi	Hi(ce|zo)	hiso	hiso	0	0	0	0	0	1	114	22	17
+Word-initial vowel /i/	hi	Hi(ce|zo)	hisse	hisse	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hicieron	hissieron	hissieron	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	hissieron	hissieron	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hi(ce|zo)	hisso	hisso	0	0	0	0	0	0	0	0	9
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisyere	hisyere	0	0	0	0	0	0	2	3	0
 Word-medial semivowel /j/ starting a diphthong	y	Hicie(r|s)(a|e)(mos|n|s)?	hisyere	hisyere	0	0	0	0	0	0	2	3	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisyeren	hisyeren	0	0	0	0	0	0	1	1	0
 Word-medial semivowel /j/ starting a diphthong	y	Hicie(r|s)(a|e)(mos|n|s)?	hisyeren	hisyeren	0	0	0	0	0	0	1	1	0
+Word-initial vowel /i/	hi	Hicieron	hisyeron	hisyeron	0	0	0	0	0	0	6	2	0
+Word-medial semivowel /j/ starting a diphthong	y	Hicieron	hisyeron	hisyeron	0	0	0	0	0	0	6	2	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisyese	hisyese	0	0	0	0	0	0	0	3	0
 Word-medial semivowel /j/ starting a diphthong	y	Hicie(r|s)(a|e)(mos|n|s)?	hisyese	hisyese	0	0	0	0	0	0	0	3	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hisyese	hisyese	0	0	0	0	0	0	0	3	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hisyese	hisyese	0	0	0	0	0	0	0	3	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hisyesen	hisyesen	0	0	0	0	0	0	0	3	0
 Word-medial semivowel /j/ starting a diphthong	y	Hicie(r|s)(a|e)(mos|n|s)?	hisyesen	hisyesen	0	0	0	0	0	0	0	3	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hisyesen	hisyesen	0	0	0	0	0	0	0	3	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hisyesen	hisyesen	0	0	0	0	0	0	0	3	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hisystes	hisystes	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hisystes	hisystes	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hixa	hixa	0	0	0	0	0	0	2	27	16
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hixa	hixa	0	0	0	0	0	0	2	27	16
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hixas	hixas	0	0	0	0	0	0	0	1	2
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hixas	hixas	0	0	0	0	0	0	0	1	2
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hixo	hixo	0	0	1	0	0	0	1	45	30
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hixo	hixo	0	0	1	0	0	0	1	45	30
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hixos	hixos	0	0	0	0	0	0	0	23	18
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hixos	hixos	0	0	0	0	0	0	0	23	18
+Word-initial vowel /i/	hi	Hi(ce|zo)	hizco	hizco	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hi(ce|zo)	hize	hize	0	0	8	0	1	5	161	422	428
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizie	hizie	0	0	0	0	0	0	2	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hizie	hizie	0	0	0	0	0	0	2	0	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziece	hiziece	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziece	hiziece	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziece	hiziece	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziece	hiziece	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziemos	hiziemos	0	0	0	0	0	0	2	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziemos	hiziemos	0	0	0	0	0	0	2	0	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizien	hizien	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hizien	hizien	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziera	hiziera	0	0	13	0	0	5	55	300	279
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziera	hiziera	0	0	13	0	0	5	55	300	279
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizieramos	hizieramos	0	0	0	0	0	0	1	1	1
@@ -461,51 +626,110 @@ Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hizie
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)is	hiziereys	hiziereys	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)is	hiziereys	hiziereys	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ ending a diphthong	y	Hicie(r|s)(a|e)is	hiziereys	hiziereys	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hicieron	hizieron	hizieron	29	0	14	0	1	19	738	2021	1780
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	hizieron	hizieron	29	0	14	0	1	19	738	2021	1780
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziescn	hiziescn	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziescn	hiziescn	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziese	hiziese	20	0	2	0	3	4	205	331	122
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziese	hiziese	20	0	2	0	3	4	205	331	122
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziese	hiziese	20	0	2	0	3	4	205	331	122
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziese	hiziese	20	0	2	0	3	4	205	331	122
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziesemos	hiziesemos	0	0	0	0	0	0	2	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziesemos	hiziesemos	0	0	0	0	0	0	2	1	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziesemos	hiziesemos	0	0	0	0	0	0	2	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziesemos	hiziesemos	0	0	0	0	0	0	2	1	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziesen	hiziesen	2	0	2	0	1	5	85	108	68
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziesen	hiziesen	2	0	2	0	1	5	85	108	68
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziesen	hiziesen	2	0	2	0	1	5	85	108	68
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziesen	hiziesen	2	0	2	0	1	5	85	108	68
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizieses	hizieses	0	0	0	0	1	0	0	4	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hizieses	hizieses	0	0	0	0	1	0	0	4	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizieses	hizieses	0	0	0	0	1	0	0	4	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hizieses	hizieses	0	0	0	0	1	0	0	4	1
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziesse	hiziesse	0	0	8	0	0	0	122	817	845
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziesse	hiziesse	0	0	8	0	0	0	122	817	845
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziesse	hiziesse	0	0	8	0	0	0	122	817	845
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziesse	hiziesse	0	0	8	0	0	0	122	817	845
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)is	hiziesseis	hiziesseis	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)is	hiziesseis	hiziesseis	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ ending a diphthong	i	Hicie(r|s)(a|e)is	hiziesseis	hiziesseis	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziessemos	hiziessemos	0	0	0	0	0	0	0	0	2
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziessemos	hiziessemos	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziessemos	hiziessemos	0	0	0	0	0	0	0	0	2
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziessemos	hiziessemos	0	0	0	0	0	0	0	0	2
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziessen	hiziessen	0	0	6	0	0	1	49	309	374
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziessen	hiziessen	0	0	6	0	0	1	49	309	374
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziessen	hiziessen	0	0	6	0	0	1	49	309	374
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziessen	hiziessen	0	0	6	0	0	1	49	309	374
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziesses	hiziesses	0	0	0	0	0	1	2	17	17
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziesses	hiziesses	0	0	0	0	0	1	2	17	17
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziesses	hiziesses	0	0	0	0	0	1	2	17	17
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziesses	hiziesses	0	0	0	0	0	1	2	17	17
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizieste	hizieste	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hizieste	hizieste	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizimos	hizimos	0	0	0	0	0	0	15	22	29
+Word-medial vowel /i/	i	Hici(mos|ste)	hizimos	hizimos	0	0	0	0	0	0	15	22	29
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizio	hizio	0	0	0	0	0	0	2	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hizio	hizio	0	0	0	0	0	0	2	0	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizisen	hizisen	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hizisen	hizisen	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziste	hiziste	0	0	0	0	0	0	10	14	37
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziste	hiziste	0	0	0	0	0	0	10	14	37
+Word-initial vowel /i/	hi	Hicisteis	hizisteis	hizisteis	0	0	0	0	0	0	1	1	0
+Word-medial vowel /i/	iz	Hicisteis	hizisteis	hizisteis	0	0	0	0	0	0	1	1	0
+Word-medial vowel /i/	i	Hicisteis	hizisteis	hizisteis	0	0	0	0	0	0	1	1	0
+Word-medial semivowel /j/ ending a diphthong	i	Hicisteis	hizisteis	hizisteis	0	0	0	0	0	0	1	1	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizistes	hizistes	1	0	0	0	0	0	4	9	24
+Word-medial vowel /i/	i	Hici(mos|ste)	hizistes	hizistes	1	0	0	0	0	0	4	9	24
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizicen	hiziçen	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hizicen	hiziçen	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizieramos	hiziéramos	0	0	0	0	0	0	0	3	7
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hizieramos	hiziéramos	0	0	0	0	0	0	0	3	7
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizieremos	hiziéremos	0	0	1	0	0	0	0	5	12
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hizieremos	hiziéremos	0	0	1	0	0	0	0	5	12
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziesemos	hiziésemos	0	0	0	0	0	0	0	6	5
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziesemos	hiziésemos	0	0	0	0	0	0	0	6	5
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziesemos	hiziésemos	0	0	0	0	0	0	0	6	5
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziesemos	hiziésemos	0	0	0	0	0	0	0	6	5
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziessemos	hiziéssemos	0	0	1	0	0	0	0	19	10
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziessemos	hiziéssemos	0	0	1	0	0	0	0	19	10
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziessemos	hiziéssemos	0	0	1	0	0	0	0	19	10
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziessemos	hiziéssemos	0	0	1	0	0	0	0	19	10
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizjera	hizjera	0	0	0	0	0	3	0	0	0
 Word-medial semivowel /j/ starting a diphthong	j	Hicie(r|s)(a|e)(mos|n|s)?	hizjera	hizjera	0	0	0	0	0	3	0	0	0
+Word-initial vowel /i/	hi	Hicieron	hizjeron	hizjeron	0	0	0	0	0	1	0	0	0
+Word-medial semivowel /j/ starting a diphthong	j	Hicieron	hizjeron	hizjeron	0	0	0	0	0	1	0	0	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizjese	hizjese	0	0	0	0	0	2	0	0	0
 Word-medial semivowel /j/ starting a diphthong	j	Hicie(r|s)(a|e)(mos|n|s)?	hizjese	hizjese	0	0	0	0	0	2	0	0	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizjese	hizjese	0	0	0	0	0	2	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hizjese	hizjese	0	0	0	0	0	2	0	0	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizjesen	hizjesen	0	0	0	0	0	1	0	0	0
 Word-medial semivowel /j/ starting a diphthong	j	Hicie(r|s)(a|e)(mos|n|s)?	hizjesen	hizjesen	0	0	0	0	0	1	0	0	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizjesen	hizjesen	0	0	0	0	0	1	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hizjesen	hizjesen	0	0	0	0	0	1	0	0	0
+Word-initial vowel /i/	hi	Hi(ce|zo)	hizo	hizo	21	2	86	4	1	169	2812	12557	17843
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizyera	hizyera	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	y	Hicie(r|s)(a|e)(mos|n|s)?	hizyera	hizyera	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizyere	hizyere	0	0	0	0	0	0	0	2	0
 Word-medial semivowel /j/ starting a diphthong	y	Hicie(r|s)(a|e)(mos|n|s)?	hizyere	hizyere	0	0	0	0	0	0	0	2	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizyeremos	hizyeremos	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	y	Hicie(r|s)(a|e)(mos|n|s)?	hizyeremos	hizyeremos	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hicieron	hizyeron	hizyeron	1	0	0	0	0	0	2	1	0
+Word-medial semivowel /j/ starting a diphthong	y	Hicieron	hizyeron	hizyeron	1	0	0	0	0	0	2	1	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizyese	hizyese	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	y	Hicie(r|s)(a|e)(mos|n|s)?	hizyese	hizyese	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hizyese	hizyese	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hizyese	hizyese	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizziere	hizziere	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hizziere	hizziere	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hi(ce|zo)	hizzo	hizzo	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hi(ce|zo)	hize	hizé	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hizieran	hizíeran	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hizieran	hizíeran	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hicieron	hizieron	hizíeron	0	0	0	0	0	0	0	2	0
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	hizieron	hizíeron	0	0	0	0	0	0	0	2	0
+Word-initial vowel /i/	hi	Hi(ce|zo)	hizo	hizó	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	hi	Hi(ce|zo)	hice	hiçe	0	0	0	0	0	0	4	2	24
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciera	hiçiera	0	0	1	0	0	0	0	1	3
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciera	hiçiera	0	0	1	0	0	0	0	1	3
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hicieramos	hiçieramos	0	0	0	0	0	0	0	0	1
@@ -518,14 +742,35 @@ Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hicieremos	hiçieremos	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hicieremos	hiçieremos	0	0	0	0	0	0	2	1	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hicieren	hiçieren	0	0	1	0	0	0	5	6	4
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hicieren	hiçieren	0	0	1	0	0	0	5	6	4
+Word-initial vowel /i/	hi	Hicieron	hicieron	hiçieron	0	0	1	0	0	0	28	16	19
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	hicieron	hiçieron	0	0	1	0	0	0	28	16	19
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciese	hiçiese	0	0	2	0	0	0	21	8	14
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciese	hiçiese	0	0	2	0	0	0	21	8	14
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciese	hiçiese	0	0	2	0	0	0	21	8	14
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciese	hiçiese	0	0	2	0	0	0	21	8	14
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciesemos	hiçiesemos	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciesemos	hiçiesemos	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciesemos	hiçiesemos	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciesemos	hiçiesemos	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciesen	hiçiesen	0	0	0	0	0	0	5	7	4
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciesen	hiçiesen	0	0	0	0	0	0	5	7	4
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciesen	hiçiesen	0	0	0	0	0	0	5	7	4
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciesen	hiçiesen	0	0	0	0	0	0	5	7	4
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciesse	hiçiesse	0	0	0	0	0	0	0	0	2
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciesse	hiçiesse	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciesse	hiçiesse	0	0	0	0	0	0	0	0	2
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciesse	hiçiesse	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	hi	Hici(mos|ste)	hicimos	hiçimos	0	0	1	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hicimos	hiçimos	0	0	1	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hi(ce|zo)	hico	hiço	0	0	1	1	0	0	355	165	180
+Word-initial vowel /i/	hi	Hi(ce|zo)	hico	hiçó	0	0	0	0	0	0	2	0	0
+Word-initial vowel /i/	hj	Hicieron	hjsieron	hjsieron	0	0	0	0	0	0	0	1	0
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	hjsieron	hjsieron	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hj	Hi(ce|zo)	hjzo	hjzo	0	0	0	0	0	0	1	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Ojo(s)?	hoio	hoio	0	0	0	0	0	0	4	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Ojo(s)?	hoios	hoios	0	0	0	0	0	0	0	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Ojo(s)?	hojo	hojo	0	0	1	0	0	0	1	1	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Ojo(s)?	hojos	hojos	0	0	0	0	0	0	2	1	5
 Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	hubiera	hubiera	0	0	0	0	0	0	60	433	1127
 Word-medial semivowel /j/ starting a diphthong	i	Hubie(r|s)(a|e)(mos|n|s)?	hubiera	hubiera	0	0	0	0	0	0	60	433	1127
 Word-medial semivowel /j/ starting a diphthong	i	Hubie(r|s)(a|e)is	hubierais	hubierais	0	0	0	0	0	0	0	4	1
@@ -576,6 +821,10 @@ Word-medial vowel /i/	y	Hubie(r|s)(a|e)(mos|n|s)?	hubyera	hubyera	0	0	0	0	0	0	0	
 Word-medial semivowel /j/ starting a diphthong	y	Hubie(r|s)(a|e)(mos|n|s)?	hubyera	hubyera	0	0	0	0	0	0	0	0	1
 Word-medial vowel /i/	y	Hubie(r|s)(a|e)(mos|n|s)?	hubyere	hubyere	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	y	Hubie(r|s)(a|e)(mos|n|s)?	hubyere	hubyere	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	hultima	hultima	0	0	0	0	0	0	0	0	4
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	hultimas	hultimas	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	hultimo	hultimo	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	hultimos	hultimos	0	0	0	0	0	0	0	1	0
 Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	huuiera	huuiera	0	0	0	0	10	0	11	41	144
 Word-medial semivowel /j/ starting a diphthong	i	Hubie(r|s)(a|e)(mos|n|s)?	huuiera	huuiera	0	0	0	0	10	0	11	41	144
 Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	huuieramos	huuieramos	0	0	1	0	0	0	1	1	1
@@ -660,6 +909,21 @@ Word-medial vowel /i/	y	Hubie(r|s)(a|e)(mos|n|s)?	huvyere	huvyere	0	0	0	0	0	0	0	
 Word-medial semivowel /j/ starting a diphthong	y	Hubie(r|s)(a|e)(mos|n|s)?	huvyere	huvyere	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	hy	Hicie(r|s)(a|e)(mos|n|s)?	hyciere	hyciere	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hyciere	hyciere	0	0	0	0	0	0	1	0	0
+Word-initial semivowel /j/ starting a diphthong	hy	Hierba(s)?	hyerba	hyerba	0	0	0	0	0	0	0	0	1
+Word-initial semivowel /j/ starting a diphthong	hy	Hierba(s)?	hyerbas	hyerbas	0	5	0	0	0	0	3	0	0
+Word-initial semivowel /j/ starting a diphthong	hy	Yerno(s)?	hyerno	hyerno	0	1	0	0	5	0	1	1	0
+Word-initial semivowel /j/ starting a diphthong	hy	Hierba(s)?	hyerua	hyerua	0	0	0	0	0	0	0	1	0
+Word-initial semivowel /j/ starting a diphthong	hy	Hierba(s)?	hyeruas	hyeruas	0	0	0	0	0	1	0	0	0
+Word-initial semivowel /j/ starting a diphthong	hy	Hierba(s)?	hyerva	hyerva	0	0	0	0	0	0	0	0	3
+Word-initial semivowel /j/ starting a diphthong	hy	Hierba(s)?	hyervas	hyervas	0	0	0	0	0	0	0	0	4
+Word-initial vowel /i/	hy	Hij(o|a)(s)?	hyja	hyja	0	0	0	0	0	0	0	1	2
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	hyja	hyja	0	0	0	0	0	0	0	1	2
+Word-initial vowel /i/	hy	Hij(o|a)(s)?	hyjas	hyjas	0	0	0	0	0	1	0	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	hyjas	hyjas	0	0	0	0	0	1	0	0	0
+Word-initial vowel /i/	hy	Hij(o|a)(s)?	hyjo	hyjo	0	0	0	0	0	3	2	1	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	hyjo	hyjo	0	0	0	0	0	3	2	1	0
+Word-initial vowel /i/	hy	Hij(o|a)(s)?	hyjos	hyjos	0	0	0	0	0	0	1	1	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	hyjos	hyjos	0	0	0	0	0	0	1	1	1
 Word-initial vowel /i/	hy	Ir	hyr	hyr	1	8	9	1	0	0	0	4	2
 Word-initial vowel /i/	hy	Ir(a|e)is	hyrac	hyrac	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	hy	Ir(a|e)is	hyras	hyras	0	0	0	0	0	0	0	1	1
@@ -672,24 +936,56 @@ Word-initial vowel /i/	hy	Hicie(r|s)(a|e)(mos|n|s)?	hysiere	hysiere	0	0	0	0	0	0	
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hysiere	hysiere	0	0	0	0	0	0	3	0	0
 Word-initial vowel /i/	hy	Hicie(r|s)(a|e)(mos|n|s)?	hysieren	hysieren	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hysieren	hysieren	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	hy	Hici(mos|ste)	hysione	hysione	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	y	Hici(mos|ste)	hysione	hysione	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hy	Hi(ce|zo)	hyso	hyso	2	0	0	0	0	0	1	1	0
+Word-initial vowel /i/	hy	Hi(ce|zo)	hyze	hyze	0	0	0	0	0	0	0	2	0
 Word-initial vowel /i/	hy	Hicie(r|s)(a|e)(mos|n|s)?	hyziere	hyziere	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hyziere	hyziere	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	hy	Hicie(r|s)(a|e)(mos|n|s)?	hyzieren	hyzieren	0	0	0	0	0	0	2	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hyzieren	hyzieren	0	0	0	0	0	0	2	0	0
+Word-initial vowel /i/	hy	Hicieron	hyzieron	hyzieron	0	0	0	0	0	0	1	2	0
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	hyzieron	hyzieron	0	0	0	0	0	0	1	2	0
 Word-initial vowel /i/	hy	Hicie(r|s)(a|e)(mos|n|s)?	hyziessen	hyziessen	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hyziessen	hyziessen	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hy	Hici(mos|ste)	hyziessen	hyziessen	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	y	Hici(mos|ste)	hyziessen	hyziessen	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hy	Hi(ce|zo)	hyzo	hyzo	1	0	0	0	0	3	4	9	5
+Word-initial vowel /i/	hy	Hicieron	hyzyeron	hyzyeron	0	0	0	0	0	0	0	1	0
+Word-medial semivowel /j/ starting a diphthong	y	Hicieron	hyzyeron	hyzyeron	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hy	Hi(ce|zo)	hyce	hyçe	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hy	Hicieron	hycieron	hyçieron	0	0	1	0	0	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	hycieron	hyçieron	0	0	1	0	0	0	0	0	0
 Word-initial vowel /i/	hy	Hicie(r|s)(a|e)(mos|n|s)?	hyciesemos	hyçiésemos	0	0	1	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hyciesemos	hyçiésemos	0	0	1	0	0	0	0	0	0
+Word-initial vowel /i/	hy	Hici(mos|ste)	hyciesemos	hyçiésemos	0	0	1	0	0	0	0	0	0
+Word-medial vowel /i/	y	Hici(mos|ste)	hyciesemos	hyçiésemos	0	0	1	0	0	0	0	0	0
 Word-medial semivowel /j/ ending a diphthong	i	Habeis	habeis	hábeis	0	0	0	0	0	0	0	0	1
 Word-medial vowel /i/	i	Her(is|iste)	herize	hérize	0	0	0	0	0	0	2	0	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiciesse	híciesse	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiciesse	híciesse	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiciesse	híciesse	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	hiciesse	híciesse	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hijas	híjas	0	0	0	0	0	0	0	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hijas	híjas	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hijo	híjo	0	0	0	0	0	0	0	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hijo	híjo	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	hi	Hij(o|a)(s)?	hixa	híxa	0	0	0	0	0	0	0	1	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	hixa	híxa	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hi(ce|zo)	hize	híze	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziere	híziere	0	0	0	0	0	1	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziere	híziere	0	0	0	0	0	1	0	0	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziesen	híziesen	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziesen	híziesen	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziesen	híziesen	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziesen	híziesen	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	hi	Hicie(r|s)(a|e)(mos|n|s)?	hiziessemos	híziéssemos	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	hiziessemos	híziéssemos	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hici(mos|ste)	hiziessemos	híziéssemos	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	hiziessemos	híziéssemos	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	hi	Hi(ce|zo)	hizo	hízo	0	0	0	0	0	0	0	0	4
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	hultima	húltima	0	0	1	0	0	0	0	3	0
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	hultimo	húltimo	0	0	0	0	0	0	0	2	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Javier	iabier	iabier	1	0	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Javier	iabier	iabier	1	0	0	0	0	0	0	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Jaime	iaime	iaime	0	0	1	0	1	0	0	1	1
@@ -700,10 +996,80 @@ Word-initial vowel /i/	i	Ibais	ibais	ibais	0	0	0	0	0	0	0	1	1
 Word-medial semivowel /j/ ending a diphthong	i	Ibais	ibais	ibais	0	0	0	0	0	0	0	1	1
 Word-initial vowel /i/	i	Ibarra	ibara	ibara	1	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	i	Ibarra	ibarra	ibarra	0	0	0	0	0	0	31	87	20
+Word-initial vowel /i/	i	Hi(ce|zo)	ice	ice	0	0	0	0	0	0	0	0	2
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	iciere	iciere	0	0	0	0	0	0	3	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	iciere	iciere	0	0	0	0	0	0	3	0	1
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	icieren	icieren	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	icieren	icieren	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	icino	icino	0	0	0	0	0	0	2	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	icino	icino	0	0	0	0	0	0	2	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	icio	icio	0	0	0	0	0	0	4	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	icio	icio	0	0	0	0	0	0	4	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	iciones	iciones	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	iciones	iciones	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	icioso	icioso	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	icioso	icioso	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	icis	icis	0	0	0	0	0	0	174	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	icis	icis	0	0	0	0	0	0	174	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	icit	icit	0	0	0	0	0	0	4	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	icit	icit	0	0	0	0	0	0	4	0	0
+Word-initial vowel /i/	i	Hi(ce|zo)	ico	ico	0	0	0	0	0	0	9	0	1
+Word-initial semivowel /j/ starting a diphthong	i	Hierba(s)?	ierba	ierba	0	0	0	0	0	0	1	0	6
+Word-initial semivowel /j/ starting a diphthong	i	Hierba(s)?	ierbas	ierbas	1	2	1	0	0	0	0	0	0
+Word-initial semivowel /j/ starting a diphthong	i	Yerno(s)?	ierno	ierno	23	2	0	0	2	0	3	2	16
+Word-initial semivowel /j/ starting a diphthong	i	Hierba(s)?	ierua	ierua	0	0	0	0	0	0	5	0	0
+Word-initial semivowel /j/ starting a diphthong	i	Hierba(s)?	ieruas	ieruas	2	0	0	0	0	0	0	0	1
+Word-initial semivowel /j/ starting a diphthong	i	Hierba(s)?	ierva	ierva	0	0	0	0	0	0	141	0	2
+Word-initial semivowel /j/ starting a diphthong	i	Hierba(s)?	iervas	iervas	0	0	0	0	0	0	8	0	2
+Word-initial semivowel /j/ starting a diphthong	i	Yeso(s)?	ieso	ieso	1	0	0	0	0	0	0	0	0
+Word-initial semivowel /j/ starting a diphthong	i	Yeso(s)?	iesos	iesos	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	i	Iglesia(s)?	iglescia	iglescia	0	0	0	0	0	0	0	1	0
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	iglescia	iglescia	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	i	Iglesia(s)?	iglesia	iglesia	122	63	284	365	55	330	1389	2481	9413
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	iglesia	iglesia	122	63	284	365	55	330	1389	2481	9413
+Word-initial vowel /i/	i	Iglesia(s)?	iglesias	iglesias	6	22	28	90	13	62	239	377	751
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	iglesias	iglesias	6	22	28	90	13	62	239	377	751
+Word-initial vowel /i/	i	Iglesia(s)?	iglesja	iglesja	0	0	0	0	0	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	j	Iglesia(s)?	iglesja	iglesja	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Iglesia(s)?	iglesjas	iglesjas	0	0	0	0	0	1	0	0	0
+Word-medial semivowel /j/ starting a diphthong	j	Iglesia(s)?	iglesjas	iglesjas	0	0	0	0	0	1	0	0	0
+Word-initial vowel /i/	i	Iglesia(s)?	iglessia	iglessia	0	0	0	0	0	1	1	7	2
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	iglessia	iglessia	0	0	0	0	0	1	1	7	2
+Word-initial vowel /i/	i	Iglesia(s)?	iglessias	iglessias	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	iglessias	iglessias	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	i	Iglesia(s)?	iglesya	iglesya	0	0	0	0	0	0	0	2	0
+Word-medial semivowel /j/ starting a diphthong	y	Iglesia(s)?	iglesya	iglesya	0	0	0	0	0	0	0	2	0
+Word-initial vowel /i/	i	Iglesia(s)?	iglesyas	iglesyas	0	0	0	0	1	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	y	Iglesia(s)?	iglesyas	iglesyas	0	0	0	0	1	0	0	0	0
+Word-initial vowel /i/	i	Iglesia(s)?	iglesia	iglesía	0	0	0	0	0	0	0	1	1
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	iglesia	iglesía	0	0	0	0	0	0	0	1	1
+Word-initial vowel /i/	i	Iglesia(s)?	iglezia	iglezia	0	0	0	0	0	0	0	0	2
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	iglezia	iglezia	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	i	Iglesia(s)?	iglecia	igleçia	0	0	0	0	0	0	0	0	2
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	iglecia	igleçia	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	i	Hij(o|a)(s)?	iia	iia	4	0	3	1	36	0	0	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	iia	iia	4	0	3	1	36	0	0	0	0
+Word-initial vowel /i/	i	Hij(o|a)(s)?	iio	iio	1	0	1	0	72	0	0	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	iio	iio	1	0	1	0	72	0	0	0	0
+Word-initial vowel /i/	i	Hij(o|a)(s)?	iios	iios	1	3	1	0	0	0	0	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	iios	iios	1	3	1	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hij(o|a)(s)?	iia	iiª	58	119	114	21	0	0	0	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	iia	iiª	58	119	114	21	0	0	0	0	0
+Word-initial vowel /i/	i	Hij(o|a)(s)?	iio	iiº	5	3	0	17	1	44	0	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	iio	iiº	5	3	0	17	1	44	0	0	0
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ija	ija	0	0	218	24	84	1	1	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	ija	ija	0	0	218	24	84	1	1	0	1
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ijas	ijas	0	0	1	0	0	0	0	1	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	ijas	ijas	0	0	1	0	0	0	0	1	0
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ijo	ijo	1	0	121	5	119	3	40	3	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	ijo	ijo	1	0	121	5	119	3	40	3	0
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ijos	ijos	0	2	2	0	1	0	1	1	3
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	ijos	ijos	0	2	2	0	1	0	1	1	3
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ija	ijª	0	1	4	0	0	0	10	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	ija	ijª	0	1	4	0	0	0	10	0	0
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ijo	ijº	0	0	2	3	0	1	18	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	ijo	ijº	0	0	2	3	0	1	18	0	0
+Word-initial vowel /i/	i	Inez	ines	ines	3	1	0	3	0	0	40	17	38
 Word-initial vowel /i/	i	Iñig(o|a)	inigo	inigo	0	0	19	0	2	6	5	0	0
 Word-medial vowel /i/	i	Iñig(o|a)	inigo	inigo	0	0	19	0	2	6	5	0	0
 Word-initial vowel /i/	i	Iñig(o|a)	inniga	inniga	1	0	0	0	0	0	0	0	0
@@ -712,8 +1078,15 @@ Word-initial vowel /i/	i	Iñig(o|a)	innigo	innigo	0	0	0	0	0	3	4	1	0
 Word-medial vowel /i/	i	Iñig(o|a)	innigo	innigo	0	0	0	0	0	3	4	1	0
 Word-initial vowel /i/	i	Iñig(o|a)	innygo	innygo	0	0	0	0	0	0	1	0	0
 Word-medial vowel /i/	y	Iñig(o|a)	innygo	innygo	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Inez	ines	inés	1	0	0	1	1	3	28	120	120
 Word-initial vowel /i/	i	Ir	ir	ir	15	351	353	183	56	421	1756	5171	6677
+Word-initial vowel /i/	i	(Hi|i)r(a|e)is	iraiz	iraiz	1	0	0	0	0	0	0	0	0
+Word-medial semivowel /j/ ending a diphthong	i	(Hi|i)r(a|e)is	iraiz	iraiz	1	0	0	0	0	0	0	0	0
 Word-initial vowel /i/	i	Ir(a|e)is	iras	iras	0	1	8	1	0	17	16	22	100
+Word-initial vowel /i/	i	(Hi|i)r(a|e)is	ireis	ireis	0	0	0	0	0	0	6	4	24
+Word-medial semivowel /j/ ending a diphthong	i	(Hi|i)r(a|e)is	ireis	ireis	0	0	0	0	0	0	6	4	24
+Word-initial vowel /i/	i	(Hi|i)r(a|e)is	ireys	ireys	0	0	0	0	0	0	3	0	3
+Word-medial semivowel /j/ ending a diphthong	y	(Hi|i)r(a|e)is	ireys	ireys	0	0	0	0	0	0	3	0	3
 Word-initial vowel /i/	i	Hir(io|ieron)	irie	irie	0	0	0	0	2	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hir(io|ieron)	irie	irie	0	0	0	0	2	0	0	0	0
 Word-initial vowel /i/	i	Hir(io|ieron)	irien	irien	0	0	2	0	0	0	0	3	0
@@ -726,32 +1099,100 @@ Word-initial vowel /i/	i	Hir(io|ieron)	irie	irié	0	6	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hir(io|ieron)	irie	irié	0	6	0	0	0	0	0	0	0
 Word-initial vowel /i/	i	Hir(io|ieron)	irien	irién	0	6	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hir(io|ieron)	irien	irién	0	6	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	(Hi|i)r(a|e)is	irais	iráis	0	0	0	0	0	0	0	1	0
+Word-medial semivowel /j/ ending a diphthong	i	(Hi|i)r(a|e)is	irais	iráis	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	i	Ir(a|e)is	iras	irás	0	2	1	4	0	2	11	51	74
+Word-initial vowel /i/	i	(Hi|i)r(a|e)is	ireis	iréis	0	0	6	0	0	3	26	54	65
+Word-medial semivowel /j/ ending a diphthong	i	(Hi|i)r(a|e)is	ireis	iréis	0	0	6	0	0	3	26	54	65
 Word-initial vowel /i/	i	Ir(a|e)is	ires	irés	0	0	0	1	0	1	1	9	0
+Word-initial vowel /i/	i	(Hi|i)r(a|e)is	ireys	iréys	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ ending a diphthong	y	(Hi|i)r(a|e)is	ireys	iréys	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	i	Isabel(a)?	isabel	isabel	6	4	5	7	0	7	229	468	875
 Word-initial vowel /i/	i	Isabel(a)?	isabela	isabela	0	0	0	0	0	0	23	42	61
 Word-initial vowel /i/	i	Isabel(a)?	isabella	isabella	0	0	0	0	0	0	0	2	1
 Word-initial vowel /i/	i	Isabel(a)?	isauel	isauel	0	0	0	0	0	0	0	4	19
 Word-initial vowel /i/	i	Isabel(a)?	isavel	isavel	0	0	0	0	0	0	4	6	3
+Word-initial vowel /i/	i	Hici(mos|ste)	iscientos	iscientos	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	iscientos	iscientos	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	iscios	iscios	0	1	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	iscios	iscios	0	1	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	iscites	iscites	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	iscites	iscites	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Hi(ce|zo)	isco	isco	0	0	0	0	0	0	1	1	0
+Word-initial vowel /i/	i	Hi(ce|zo)	ise	ise	0	0	0	0	0	1	0	0	7
+Word-initial vowel /i/	i	Hi(ce|zo)	iseo	iseo	0	0	0	0	0	1	5	212	2
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	isiera	isiera	0	0	0	0	0	0	0	1	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	isiera	isiera	0	0	0	0	0	0	0	1	1
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	isiere	isiere	1	0	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	isiere	isiere	1	0	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hicieron	isieron	isieron	0	1	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	isieron	isieron	0	1	0	0	0	0	0	0	1
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	isiesse	isiesse	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	isiesse	isiesse	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	isiesse	isiesse	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	isiesse	isiesse	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	isim	isim	0	0	0	0	0	0	4	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	isim	isim	0	0	0	0	0	0	4	1	0
+Word-initial vowel /i/	i	Hici(mos|ste)	isimo	isimo	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	isimo	isimo	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	i	Hici(mos|ste)	isis	isis	0	0	0	0	0	0	8	8	57
+Word-medial vowel /i/	i	Hici(mos|ste)	isis	isis	0	0	0	0	0	0	8	8	57
+Word-initial vowel /i/	i	Hici(mos|ste)	isie	isié	0	1	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	isie	isié	0	1	0	0	0	0	0	0	0
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	isiere	isiére	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	isiere	isiére	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	i	Hici(mos|ste)	isio	isió	0	1	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	isio	isió	0	1	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	ision	isión	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	ision	isión	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	i	Hi(ce|zo)	iso	iso	0	0	0	0	0	0	0	2	11
 Word-initial vowel /i/	i	Isabel(a)?	issabel	issabel	0	0	0	0	0	0	0	6	0
 Word-initial vowel /i/	i	Isabel(a)?	issavel	issavel	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	i	Hi(ce|zo)	isse	isse	0	3	0	0	0	0	0	0	2
+Word-initial vowel /i/	i	Hi(ce|zo)	isseo	isseo	0	0	0	0	0	3	0	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	issico	issico	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	issico	issico	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	i	Hici(mos|ste)	issiemos	issiemos	0	2	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	issiemos	issiemos	0	2	0	0	0	0	0	0	0
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	issiere	issiere	0	8	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	issiere	issiere	0	8	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hicieron	issieron	issieron	0	3	0	0	0	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	issieron	issieron	0	3	0	0	0	0	0	0	0
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	issiesse	issiesse	0	3	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	issiesse	issiesse	0	3	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	issiesse	issiesse	0	3	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	issiesse	issiesse	0	3	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	issiet	issiet	0	0	1	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	issiet	issiet	0	0	1	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	issio	issio	0	1	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	issio	issio	0	1	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	issis	issis	0	0	0	0	0	0	3	0	2
+Word-medial vowel /i/	i	Hici(mos|ste)	issis	issis	0	0	0	0	0	0	3	0	2
+Word-initial vowel /i/	i	Hici(mos|ste)	issie	issié	0	2	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	issie	issié	0	2	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	issio	issió	0	13	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	issio	issió	0	13	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hi(ce|zo)	isso	isso	0	0	0	0	0	0	0	3	4
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juan(a)?	iuan	iuan	196	3	7	86	2	4	98	734	765
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juan(a)?	iuana	iuana	9	7	0	3	0	0	6	37	21
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juan(a)?	iuanna	iuanna	1	0	0	0	0	0	0	0	0
 Word-initial vowel /i/	i	Ibarra	iuara	iuara	31	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	i	Ibarra	iuarra	iuarra	1	2	0	0	0	0	0	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuicio	iuicio	2	0	5	0	0	0	0	0	0
+Word-medial vowel /i/	i	Juicio(s)?	iuicio	iuicio	2	0	5	0	0	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuicio	iuicio	2	0	5	0	0	0	0	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuicios	iuicios	0	0	1	0	0	0	0	0	0
+Word-medial vowel /i/	i	Juicio(s)?	iuicios	iuicios	0	0	1	0	0	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuicios	iuicios	0	0	1	0	0	0	0	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuisio	iuisio	0	0	0	2	0	0	1	0	0
+Word-medial vowel /i/	i	Juicio(s)?	iuisio	iuisio	0	0	0	2	0	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuisio	iuisio	0	0	0	2	0	0	1	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuizio	iuizio	0	53	1	3	2	0	0	3	2
+Word-medial vowel /i/	i	Juicio(s)?	iuizio	iuizio	0	53	1	3	2	0	0	3	2
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuizio	iuizio	0	53	1	3	2	0	0	3	2
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuizios	iuizios	0	1	3	0	0	0	0	0	0
+Word-medial vowel /i/	i	Juicio(s)?	iuizios	iuizios	0	1	3	0	0	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuizios	iuizios	0	1	3	0	0	0	0	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juli(o|a)	iulia	iulia	0	0	0	0	19	1	10	4	109
 Word-medial semivowel /j/ starting a diphthong	i	Juli(o|a)	iulia	iulia	0	0	0	0	19	1	10	4	109
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juli(o|a)	iulio	iulio	17	9	4	8	153	0	31	68	52
@@ -762,23 +1203,74 @@ Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juan(a)?	iuuan	iuuan	6	0	0	0	0	0	7	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juan(a)?	iuuana	iuuana	0	2	0	0	0	0	0	0	0
 Word-initial vowel /i/	i	Ibarra	iuuara	iuuara	3	0	0	0	0	0	0	0	0
 Word-initial vowel /i/	i	Ibarra	iuuuara	iuuuara	1	0	0	0	0	0	0	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuycio	iuycio	0	1	1	0	0	0	0	0	0
+Word-medial vowel /i/	y	Juicio(s)?	iuycio	iuycio	0	1	1	0	0	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuycio	iuycio	0	1	1	0	0	0	0	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuysio	iuysio	1	0	0	5	0	0	1	0	0
+Word-medial vowel /i/	y	Juicio(s)?	iuysio	iuysio	1	0	0	5	0	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuysio	iuysio	1	0	0	5	0	0	1	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuyzio	iuyzio	1	24	348	88	0	1	1474	17	2
+Word-medial vowel /i/	y	Juicio(s)?	iuyzio	iuyzio	1	24	348	88	0	1	1474	17	2
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuyzio	iuyzio	1	24	348	88	0	1	1474	17	2
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuyzios	iuyzios	1	0	40	15	0	0	143	4	0
+Word-medial vowel /i/	y	Juicio(s)?	iuyzios	iuyzios	1	0	40	15	0	0	143	4	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuyzios	iuyzios	1	0	40	15	0	0	143	4	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuycio	iuyçio	0	0	3	0	0	0	1	0	0
+Word-medial vowel /i/	y	Juicio(s)?	iuycio	iuyçio	0	0	3	0	0	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuycio	iuyçio	0	0	3	0	0	0	1	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juan(a)?	ivan	ivan	0	56	31	12	1	120	252	627	796
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juan(a)?	ivana	ivana	0	0	0	0	0	0	0	2	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juli(o|a)	ivlio	ivlio	0	0	0	0	0	0	0	0	2
 Word-medial semivowel /j/ starting a diphthong	i	Juli(o|a)	ivlio	ivlio	0	0	0	0	0	0	0	0	2
 Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juan(a)?	ivan	iván	0	0	6	2	0	0	0	24	5
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ixa	ixa	0	0	828	5	29	0	0	1	5
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	Hij(o|a)(s)?	ixa	ixa	0	0	828	5	29	0	0	1	5
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ixaa	ixaa	0	0	0	0	0	0	0	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	Hij(o|a)(s)?	ixaa	ixaa	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ixo	ixo	0	0	46	5	44	0	25	1	2
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	Hij(o|a)(s)?	ixo	ixo	0	0	46	5	44	0	25	1	2
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ixa	ixª	1	0	3	4	1	0	0	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	Hij(o|a)(s)?	ixa	ixª	1	0	3	4	1	0	0	0	0
+Word-initial vowel /i/	i	Hij(o|a)(s)?	ixo	ixº	0	0	2	7	0	16	0	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	Hij(o|a)(s)?	ixo	ixº	0	0	2	7	0	16	0	0	1
+Word-initial vowel /i/	i	Hi(ce|zo)	ize	ize	0	0	0	0	0	0	44	1	3
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	iziera	iziera	0	0	0	0	0	0	1	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	iziera	iziera	0	0	0	0	0	0	1	1	0
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	iziere	iziere	0	0	1	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	iziere	iziere	0	0	1	0	0	0	0	0	0
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	iziesse	iziesse	0	1	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	iziesse	iziesse	0	1	0	0	0	0	0	1	0
+Word-initial vowel /i/	i	Hici(mos|ste)	iziesse	iziesse	0	1	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	iziesse	iziesse	0	1	0	0	0	0	0	1	0
+Word-initial vowel /i/	i	Hici(mos|ste)	izim	izim	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	izim	izim	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	i	Hici(mos|ste)	izio	izio	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	izio	izio	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	izios	izios	0	0	0	0	0	0	1	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	izios	izios	0	0	0	0	0	0	1	1	0
+Word-initial vowel /i/	i	Hi(ce|zo)	izo	izo	0	0	0	1	0	0	4	2	3
+Word-initial vowel /i/	i	Hi(ce|zo)	izo	izó	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	iciere	içiere	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	iciere	içiere	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	icieren	içieren	0	0	1	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	icieren	içieren	0	0	1	0	0	0	0	0	0
+Word-initial vowel /i/	i	Hicieron	icieron	içieron	0	0	0	0	0	0	0	1	0
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	icieron	içieron	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	i	Hicie(r|s)(a|e)(mos|n|s)?	iciesen	içiesen	0	0	0	0	0	0	0	0	2
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	iciesen	içiesen	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	i	Hici(mos|ste)	iciesen	içiesen	0	0	0	0	0	0	0	0	2
+Word-medial vowel /i/	i	Hici(mos|ste)	iciesen	içiesen	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	i	Hici(mos|ste)	icio	içio	0	0	0	1	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	icio	içio	0	0	0	1	0	0	0	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	iciones	içiones	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	iciones	içiones	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	icios	içios	0	0	0	0	0	0	2	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	icios	içios	0	0	0	0	0	0	2	0	0
+Word-initial vowel /i/	i	Hici(mos|ste)	icion	içión	0	0	0	0	0	0	2	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	icion	içión	0	0	0	0	0	0	2	0	0
+Word-initial vowel /i/	i	Hi(ce|zo)	ico	iço	0	0	0	0	0	0	7	1	0
+Word-initial vowel /i/	i	Hij(o|a)(s)?	iia	iía	0	0	0	0	0	0	0	0	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	iia	iía	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	i	Iñig(o|a)	iniga	iñiga	0	0	0	0	0	0	0	0	1
 Word-medial vowel /i/	i	Iñig(o|a)	iniga	iñiga	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	i	Iñig(o|a)	inigo	iñigo	2	2	6	1	6	33	262	122	298
@@ -787,6 +1279,12 @@ Word-initial vowel /i/	i	Iñig(o|a)	inigo	iñigó	0	0	0	0	0	0	0	0	1
 Word-medial vowel /i/	i	Iñig(o|a)	inigo	iñigó	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	i	Iñig(o|a)	inigo	iñígo	0	0	0	0	0	0	1	0	0
 Word-medial vowel /i/	i	Iñig(o|a)	inigo	iñígo	0	0	0	0	0	0	1	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuicio	iüicio	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Juicio(s)?	iuicio	iüicio	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuicio	iüicio	0	0	0	0	0	0	0	0	1
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	Juicio(s)?	iuyzio	iüyzio	0	0	0	0	0	0	0	0	4
+Word-medial vowel /i/	y	Juicio(s)?	iuyzio	iüyzio	0	0	0	0	0	0	0	0	4
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	iuyzio	iüyzio	0	0	0	0	0	0	0	0	4
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Javier	jabier	jabier	1	0	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Javier	jabier	jabier	1	0	0	0	0	0	0	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Jaime	jaime	jaime	0	0	54	7	4	0	24	144	1292
@@ -798,12 +1296,63 @@ Word-medial semivowel /j/ ending a diphthong	y	Jaime	jayme	jayme	6	11	130	56	101
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	General	jeneral	jeneral	0	0	0	10	0	0	7	19	65
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Gentil	jentil	jentil	0	0	0	0	0	1	7	3	9
 Word-medial vowel /i/	i	Gentil	jentil	jentil	0	0	0	0	0	1	7	3	9
+Word-initial semivowel /j/ starting a diphthong	j	Yerno(s)?	jerno	jerno	3	1	1	0	0	0	0	0	0
+Word-initial semivowel /j/ starting a diphthong	j	Yeso(s)?	jeso	jeso	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	j	Iglesia(s)?	jglesia	jglesia	0	0	0	0	1	0	20	2	0
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	jglesia	jglesia	0	0	0	0	1	0	20	2	0
+Word-initial vowel /i/	j	Iglesia(s)?	jglesias	jglesias	0	0	0	0	1	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	jglesias	jglesias	0	0	0	0	1	0	1	0	0
+Word-initial vowel /i/	j	Hij(o|a)(s)?	jio	jio	0	0	0	0	0	0	0	0	2
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	jio	jio	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	j	Inez	jnnes	jnnes	0	0	10	0	0	0	0	0	0
 Word-initial vowel /i/	j	Ir	jr	jr	0	0	1	0	4	2	2	0	3
 Word-initial vowel /i/	j	Ir(a|e)is	jras	jras	0	0	0	0	2	0	1	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juan(a)?	juan	juan	1752	121	2610	2478	893	2007	15604	10769	17090
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juan(a)?	juana	juana	27	3	112	25	0	65	796	452	988
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juan(a)?	juanna	juanna	0	1	9	0	0	0	0	2	0
 Word-initial vowel /i/	j	Ibarra	juara	juara	1	0	0	0	0	1	0	2	1
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicio	juicio	2	4	12	1	22	5	110	720	1948
+Word-medial vowel /i/	i	Juicio(s)?	juicio	juicio	2	4	12	1	22	5	110	720	1948
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juicio	juicio	2	4	12	1	22	5	110	720	1948
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicios	juicios	0	3	3	1	3	0	40	128	270
+Word-medial vowel /i/	i	Juicio(s)?	juicios	juicios	0	3	3	1	3	0	40	128	270
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juicios	juicios	0	3	3	1	3	0	40	128	270
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juisio	juisio	2	0	11	20	11	7	56	46	4
+Word-medial vowel /i/	i	Juicio(s)?	juisio	juisio	2	0	11	20	11	7	56	46	4
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juisio	juisio	2	0	11	20	11	7	56	46	4
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juisios	juisios	0	0	0	0	0	1	3	8	0
+Word-medial vowel /i/	i	Juicio(s)?	juisios	juisios	0	0	0	0	0	1	3	8	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juisios	juisios	0	0	0	0	0	1	3	8	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juissio	juissio	0	0	0	0	0	0	0	0	4
+Word-medial vowel /i/	i	Juicio(s)?	juissio	juissio	0	0	0	0	0	0	0	0	4
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juissio	juissio	0	0	0	0	0	0	0	0	4
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juisyo	juisyo	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Juicio(s)?	juisyo	juisyo	0	0	0	0	0	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	y	Juicio(s)?	juisyo	juisyo	0	0	0	0	0	0	1	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juizio	juizio	22	61	135	19	20	312	286	247	854
+Word-medial vowel /i/	i	Juicio(s)?	juizio	juizio	22	61	135	19	20	312	286	247	854
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juizio	juizio	22	61	135	19	20	312	286	247	854
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juizios	juizios	1	10	12	7	0	46	48	31	212
+Word-medial vowel /i/	i	Juicio(s)?	juizios	juizios	1	10	12	7	0	46	48	31	212
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juizios	juizios	1	10	12	7	0	46	48	31	212
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juizyo	juizyo	0	0	4	0	0	0	4	0	0
+Word-medial vowel /i/	i	Juicio(s)?	juizyo	juizyo	0	0	4	0	0	0	4	0	0
+Word-medial semivowel /j/ starting a diphthong	y	Juicio(s)?	juizyo	juizyo	0	0	4	0	0	0	4	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicio	juiçio	3	0	4	0	0	2	14	8	18
+Word-medial vowel /i/	i	Juicio(s)?	juicio	juiçio	3	0	4	0	0	2	14	8	18
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juicio	juiçio	3	0	4	0	0	2	14	8	18
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicios	juiçios	0	1	0	0	0	0	4	0	0
+Word-medial vowel /i/	i	Juicio(s)?	juicios	juiçios	0	1	0	0	0	0	4	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juicios	juiçios	0	1	0	0	0	0	4	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicyo	juiçyo	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Juicio(s)?	juicyo	juiçyo	0	0	0	0	0	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	y	Juicio(s)?	juicyo	juiçyo	0	0	0	0	0	0	1	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	jujzio	jujzio	0	0	1	0	0	11	1	0	0
+Word-medial vowel /i/	j	Juicio(s)?	jujzio	jujzio	0	0	1	0	0	11	1	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	jujzio	jujzio	0	0	1	0	0	11	1	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	jujzios	jujzios	0	0	0	0	0	4	0	0	0
+Word-medial vowel /i/	j	Juicio(s)?	jujzios	jujzios	0	0	0	0	0	4	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	jujzios	jujzios	0	0	0	0	0	4	0	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juli(o|a)	julia	julia	0	0	2	1	19	8	26	19	90
 Word-medial semivowel /j/ starting a diphthong	i	Juli(o|a)	julia	julia	0	0	2	1	19	8	26	19	90
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juli(o|a)	julio	julio	58	64	107	439	85	130	748	870	1471
@@ -827,16 +1376,98 @@ Word-medial semivowel /j/ starting a diphthong	y	Juli(o|a)	julya	julýa	0	0	0	0	
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juan(a)?	juuan	juuan	6	2	0	0	0	0	0	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juan(a)?	juuana	juuana	1	3	0	0	0	0	0	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juan(a)?	juvan	juván	0	0	0	0	0	0	0	1	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juycio	juycio	0	1	2	0	0	2	5	7	29
+Word-medial vowel /i/	y	Juicio(s)?	juycio	juycio	0	1	2	0	0	2	5	7	29
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juycio	juycio	0	1	2	0	0	2	5	7	29
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juycios	juycios	0	0	1	0	0	0	0	2	2
+Word-medial vowel /i/	y	Juicio(s)?	juycios	juycios	0	0	1	0	0	0	0	2	2
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juycios	juycios	0	0	1	0	0	0	0	2	2
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juysio	juysio	8	0	75	71	20	23	86	6	0
+Word-medial vowel /i/	y	Juicio(s)?	juysio	juysio	8	0	75	71	20	23	86	6	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juysio	juysio	8	0	75	71	20	23	86	6	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juysios	juysios	0	0	4	6	0	3	5	0	0
+Word-medial vowel /i/	y	Juicio(s)?	juysios	juysios	0	0	4	6	0	3	5	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juysios	juysios	0	0	4	6	0	3	5	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juysyo	juysyo	0	0	0	0	0	0	25	0	0
+Word-medial vowel /i/	y	Juicio(s)?	juysyo	juysyo	0	0	0	0	0	0	25	0	0
+Word-medial semivowel /j/ starting a diphthong	y	Juicio(s)?	juysyo	juysyo	0	0	0	0	0	0	25	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juyzio	juyzio	75	43	449	314	94	315	308	1099	592
+Word-medial vowel /i/	y	Juicio(s)?	juyzio	juyzio	75	43	449	314	94	315	308	1099	592
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juyzio	juyzio	75	43	449	314	94	315	308	1099	592
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juyzios	juyzios	3	0	44	29	14	77	96	130	110
+Word-medial vowel /i/	y	Juicio(s)?	juyzios	juyzios	3	0	44	29	14	77	96	130	110
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juyzios	juyzios	3	0	44	29	14	77	96	130	110
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juyzjo	juyzjo	6	0	4	0	0	13	0	0	0
+Word-medial vowel /i/	y	Juicio(s)?	juyzjo	juyzjo	6	0	4	0	0	13	0	0	0
+Word-medial semivowel /j/ starting a diphthong	j	Juicio(s)?	juyzjo	juyzjo	6	0	4	0	0	13	0	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juyzjos	juyzjos	0	0	0	2	0	2	0	0	0
+Word-medial vowel /i/	y	Juicio(s)?	juyzjos	juyzjos	0	0	0	2	0	2	0	0	0
+Word-medial semivowel /j/ starting a diphthong	j	Juicio(s)?	juyzjos	juyzjos	0	0	0	2	0	2	0	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juyzyo	juyzyo	0	0	2	0	0	0	1	1	0
+Word-medial vowel /i/	y	Juicio(s)?	juyzyo	juyzyo	0	0	2	0	0	0	1	1	0
+Word-medial semivowel /j/ starting a diphthong	y	Juicio(s)?	juyzyo	juyzyo	0	0	2	0	0	0	1	1	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juycio	juyçio	0	0	16	3	0	1	30	1	1
+Word-medial vowel /i/	y	Juicio(s)?	juycio	juyçio	0	0	16	3	0	1	30	1	1
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juycio	juyçio	0	0	16	3	0	1	30	1	1
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juan(a)?	juan	juán	0	0	1	0	0	1	1	2	3
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicio	juïcio	0	1	0	0	0	0	0	0	9
+Word-medial vowel /i/	i	Juicio(s)?	juicio	juïcio	0	1	0	0	0	0	0	0	9
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juicio	juïcio	0	1	0	0	0	0	0	0	9
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicios	juïcios	0	1	0	0	0	0	0	0	4
+Word-medial vowel /i/	i	Juicio(s)?	juicios	juïcios	0	1	0	0	0	0	0	0	4
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juicios	juïcios	0	1	0	0	0	0	0	0	4
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juizio	juïzio	0	2	0	5	0	0	0	0	4
+Word-medial vowel /i/	i	Juicio(s)?	juizio	juïzio	0	2	0	5	0	0	0	0	4
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juizio	juïzio	0	2	0	5	0	0	0	0	4
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juizios	juïzios	0	1	0	5	0	0	0	0	1
+Word-medial vowel /i/	i	Juicio(s)?	juizios	juïzios	0	1	0	5	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juizios	juïzios	0	1	0	5	0	0	0	0	1
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicio	juïçio	0	2	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Juicio(s)?	juicio	juïçio	0	2	0	0	0	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juicio	juïçio	0	2	0	0	0	0	0	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juan(a)?	jvan	jvan	1	0	0	0	0	0	2	0	1
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juli(o|a)	jvlio	jvlio	1	0	0	17	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Juli(o|a)	jvlio	jvlio	1	0	0	17	0	0	0	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	jvyzio	jvyzio	0	0	4	0	0	0	0	0	1
+Word-medial vowel /i/	y	Juicio(s)?	jvyzio	jvyzio	0	0	4	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	jvyzio	jvyzio	0	0	4	0	0	0	0	0	1
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	jvyzios	jvyzios	0	0	1	0	0	0	0	0	0
+Word-medial vowel /i/	y	Juicio(s)?	jvyzios	jvyzios	0	0	1	0	0	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	jvyzios	jvyzios	0	0	1	0	0	0	0	0	0
+Word-initial vowel /i/	j	Hij(o|a)(s)?	jxa	jxa	0	0	0	0	3	2	0	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	Hij(o|a)(s)?	jxa	jxa	0	0	0	0	3	2	0	0	0
+Word-initial vowel /i/	j	Hij(o|a)(s)?	jxo	jxo	0	0	3	1	6	3	3	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	Hij(o|a)(s)?	jxo	jxo	0	0	3	1	6	3	3	0	0
 Word-initial vowel /i/	j	Iñig(o|a)	jnigo	jñigo	0	0	0	0	0	0	3	0	0
 Word-medial vowel /i/	i	Iñig(o|a)	jnigo	jñigo	0	0	0	0	0	0	3	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juli(o|a)	julio	júlio	1	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Juli(o|a)	julio	júlio	1	0	0	0	0	0	1	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juan(a)?	juana	jüana	0	0	0	0	0	0	0	0	1
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicio	jüicio	0	0	0	0	0	0	0	2	47
+Word-medial vowel /i/	i	Juicio(s)?	juicio	jüicio	0	0	0	0	0	0	0	2	47
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juicio	jüicio	0	0	0	0	0	0	0	2	47
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicios	jüicios	0	0	0	0	0	0	0	0	8
+Word-medial vowel /i/	i	Juicio(s)?	juicios	jüicios	0	0	0	0	0	0	0	0	8
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juicios	jüicios	0	0	0	0	0	0	0	0	8
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juizio	jüizio	0	0	0	3	0	0	0	0	4
+Word-medial vowel /i/	i	Juicio(s)?	juizio	jüizio	0	0	0	3	0	0	0	0	4
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juizio	jüizio	0	0	0	3	0	0	0	0	4
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juicio	jüiçio	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Juicio(s)?	juicio	jüiçio	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juicio	jüiçio	0	0	0	0	0	0	0	0	1
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juycio	jüycio	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	y	Juicio(s)?	juycio	jüycio	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juycio	jüycio	0	0	0	0	0	0	0	0	1
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juyzio	jüyzio	0	0	0	0	0	1	0	16	9
+Word-medial vowel /i/	y	Juicio(s)?	juyzio	jüyzio	0	0	0	0	0	1	0	16	9
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juyzio	jüyzio	0	0	0	0	0	1	0	16	9
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juicio(s)?	juyzios	jüyzios	0	0	0	0	0	0	0	2	0
+Word-medial vowel /i/	y	Juicio(s)?	juyzios	jüyzios	0	0	0	0	0	0	0	2	0
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	juyzios	jüyzios	0	0	0	0	0	0	0	2	0
 Word-medial vowel /i/	i	Catalina	katalina	katalina	0	0	1	0	0	0	0	0	0
+Word-medial vowel /i/	i	Lira(s)?	lira	lira	0	0	0	0	2	10	14	29	273
+Word-medial vowel /i/	i	Lira(s)?	liras	liras	0	1	0	0	0	1	1	1	34
+Word-medial vowel /i/	j	Lira(s)?	ljra	ljra	0	0	0	0	0	0	1	0	0
 Word-medial vowel /i/	i	Luis(a)?	lluuis	lluuis	0	0	1	0	0	0	0	0	0
 Word-medial vowel /i/	y	Luis(a)?	lluys	lluys	0	0	0	0	0	0	0	1	0
 Word-medial vowel /i/	i	Luis(a)?	luis	luis	8	3	10	2	1	50	1186	1374	2729
@@ -852,15 +1483,58 @@ Word-medial vowel /i/	i	Luis(a)?	luis	luís	0	0	0	0	0	0	2	2	1
 Word-medial vowel /i/	i	Luis(a)?	luis	luïs	0	0	0	0	0	0	0	1	0
 Word-medial vowel /i/	i	Luis(a)?	luisa	luïsa	0	0	0	0	0	0	0	0	1
 Word-medial vowel /i/	y	Luis(a)?	lvys	lvys	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	y	Lira(s)?	lyra	lyra	0	0	0	0	0	0	14	4	27
+Word-medial vowel /i/	y	Lira(s)?	lyras	lyras	0	0	0	0	0	0	0	0	15
 Word-medial vowel /i/	i	Luis(a)?	luis	lüis	0	0	0	0	0	0	0	0	59
 Word-medial vowel /i/	y	Luis(a)?	luys	lüys	0	0	0	0	0	0	0	6	0
+Word-medial semivowel /j/ starting a diphthong	i	Mayor(es)?	maior	maior	189	61	93	19	22	5	211	90	153
+Word-medial semivowel /j/ starting a diphthong	i	Mayor(es)?	maiore	maiore	27	8	1	2	0	0	23	2	1
+Word-medial semivowel /j/ starting a diphthong	i	Mayor(es)?	maiores	maiores	18	4	9	3	2	4	52	19	36
+Word-medial semivowel /j/ starting a diphthong	j	Mayor(es)?	major	major	12	0	56	0	9	4	113	7	10
+Word-medial semivowel /j/ starting a diphthong	j	Mayor(es)?	majore	majore	2	0	0	0	0	0	0	0	3
+Word-medial semivowel /j/ starting a diphthong	j	Mayor(es)?	majores	majores	2	0	9	0	1	0	36	19	4
+Word-medial semivowel /j/ starting a diphthong	y	Mayor(es)?	mayor	mayor	503	892	2819	2158	1459	2804	7144	12898	20192
+Word-medial semivowel /j/ starting a diphthong	y	Mayor(es)?	mayore	mayore	1	0	0	0	0	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	y	Mayor(es)?	mayores	mayores	53	219	422	385	355	636	1873	2347	3335
+Word-medial semivowel /j/ starting a diphthong	y	Mayor(es)?	mayors	mayors	0	0	0	0	4	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	y	Mayor(es)?	mayorss	mayorss	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	y	Mayor(es)?	mayorc	mayorç	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mia	mia	82	265	60	47	60	42	461	255	644
+Word-medial vowel /i/	i	Mi(o|a)(s)?	miao	miao	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Mi(o|a)(s)?	miaos	miaos	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mias	mias	29	49	13	21	22	7	67	32	56
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mio	mio	623	1141	1562	874	133	99	869	318	565
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mios	mios	158	213	300	375	35	15	154	89	151
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mio	miº	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mio	mió	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mios	miós	0	0	0	0	0	0	0	0	2
+Word-medial vowel /i/	j	Mi(o|a)(s)?	mja	mja	6	0	4	2	5	33	21	2	0
+Word-medial vowel /i/	j	Mi(o|a)(s)?	mjas	mjas	4	0	1	2	2	5	3	1	0
+Word-medial vowel /i/	j	Mi(o|a)(s)?	mjo	mjo	96	0	49	39	4	27	30	3	0
+Word-medial vowel /i/	j	Mi(o|a)(s)?	mjos	mjos	12	0	1	6	5	7	14	0	0
 Word-final semivowel /j/ ending a diphthong	j	Muy	mmuj	mmuj	0	0	1	0	0	0	0	0	0
 Word-final semivowel /j/ ending a diphthong	i	Muy	mui	mui	3	22	22	5	9	4	102	95	431
 Word-final semivowel /j/ ending a diphthong	j	Muy	muj	muj	1	0	160	0	0	0	64	11	0
 Word-final semivowel /j/ ending a diphthong	y	Muy	muy	muy	215	533	7629	4154	1570	8825	27992	60184	56624
 Word-final semivowel /j/ ending a diphthong	i	Muy	mvi	mvi	0	0	0	0	0	0	0	3	0
 Word-final semivowel /j/ ending a diphthong	y	Muy	mvy	mvy	0	0	0	0	1	0	0	0	10
+Word-medial vowel /i/	y	Mi(o|a)(s)?	mya	mya	0	1	4	0	1	3	1	25	6
+Word-medial vowel /i/	y	Mi(o|a)(s)?	myas	myas	0	0	0	0	0	0	0	6	2
+Word-medial vowel /i/	y	Mi(o|a)(s)?	myo	myo	17	31	116	1	3	25	36	18	1
+Word-medial vowel /i/	y	Mi(o|a)(s)?	myos	myos	4	8	7	0	1	0	0	15	0
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mia	mía	30	64	246	117	31	149	232	1357	2578
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mias	mías	2	18	53	26	3	24	27	210	358
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mio	mío	141	63	897	624	14	139	279	1407	2884
+Word-medial vowel /i/	i	Mi(o|a)(s)?	mios	míos	18	15	128	116	6	66	65	504	681
 Word-final semivowel /j/ ending a diphthong	y	Muy	muy	müy	0	18	0	0	0	0	0	0	0
+Word-medial vowel /i/	y	Mi(o|a)(s)?	myo	mýo	0	0	1	0	0	0	0	2	0
+Word-medial vowel /i/	y	Mi(o|a)(s)?	myos	mýos	0	0	0	0	0	0	0	1	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Ojo(s)?	oio	oio	2	11	70	4	37	17	35	4	7
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Ojo(s)?	oios	oios	3	3	132	10	212	49	128	1	53
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Ojo(s)?	oio	oió	0	0	0	0	0	0	0	0	2
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Ojo(s)?	ojo	ojo	12	40	62	44	34	254	775	603	1786
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Ojo(s)?	ojos	ojos	27	228	152	115	83	831	2323	4088	10755
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Ojo(s)?	oios	oíos	0	0	0	0	0	0	0	0	1
 Word-final vowel /i/	i	parti	parti	parti	76	15	18	18	13	7	23	17	28
 Word-final vowel /i/	j	parti	partj	partj	1	0	0	0	0	0	0	0	0
 Word-final vowel /i/	y	parti	party	party	0	0	0	0	0	0	0	1	0
@@ -892,17 +1566,38 @@ Word-final semivowel /j/ ending a diphthong	y	Rey	rrey	rrey	1087	92	411	255	365	
 Word-medial semivowel /j/ ending a diphthong	y	Reyno	rreyno	rreyno	2	0	12	2	9	45	730	429	226
 Word-medial semivowel /j/ ending a diphthong	y	Reyno	rreyno	rreynó	4	0	0	0	0	1	162	12	0
 Word-medial semivowel /j/ ending a diphthong	y	Reyno	rreyno	rreyño	0	0	0	0	0	0	44	0	0
+Word-medial vowel /i/	i	Ruiz	rruis	rruis	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Ruiz	rruiz	rruiz	10	0	1	0	0	1	23	16	7
+Word-medial vowel /i/	y	Ruiz	rruys	rruys	0	0	0	0	0	0	3	1	0
+Word-medial vowel /i/	y	Ruiz	rruyz	rruyz	9	0	2	0	9	2	18	16	2
+Word-medial vowel /i/	i	Ruiz	ruis	ruis	12	1	4	15	0	5	118	44	3
+Word-medial vowel /i/	i	Ruiz	ruiz	ruiz	18	8	26	63	42	33	794	347	710
+Word-medial vowel /i/	i	Ruiz	ruvis	ruvis	1	0	0	0	0	0	0	0	0
+Word-medial vowel /i/	y	Ruiz	ruys	ruys	10	5	41	92	45	31	234	18	0
+Word-medial vowel /i/	y	Ruiz	ruyss	ruyss	0	0	0	0	0	0	0	3	0
+Word-medial vowel /i/	y	Ruiz	ruyz	ruyz	3	5	158	69	94	16	163	93	37
+Word-medial vowel /i/	y	Ruiz	ruyc	ruyç	0	0	1	0	0	0	0	0	0
+Word-medial vowel /i/	i	Ruiz	ruiz	ruíz	0	0	0	0	0	0	1	3	0
+Word-medial vowel /i/	i	Ruiz	ruiz	ruïz	0	0	0	0	0	0	0	0	2
 Word-final semivowel /j/ ending a diphthong	y	Rey	rey	réy	0	0	0	0	0	0	0	0	3
 Word-final semivowel /j/ ending a diphthong	y	Rey	rey	rëy	0	139	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Ruiz	ruiz	rúiz	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Ruiz	ruiz	rüiz	0	0	0	0	0	0	0	0	19
+Word-medial vowel /i/	y	Ruiz	ruyz	rüyz	0	0	0	0	0	0	0	1	0
 Word-medial vowel /i/	i	Cid	scid	scid	1	0	0	0	0	0	0	0	0
 Word-medial vowel /i/	i	Cidi	scidi	scidi	0	0	0	0	0	0	5	0	0
 Word-final vowel /i/	i	Cidi	scidi	scidi	0	0	0	0	0	0	5	0	0
 Word-medial vowel /i/	i	Cid	sid	sid	0	0	0	0	0	0	4	6	5
+Word-medial vowel /i/	i	Sid(o|a)(s)?	sida	sida	0	0	0	0	0	0	0	0	4
 Word-medial vowel /i/	i	Cidi	sidi	sidi	0	0	0	0	0	0	2	0	0
 Word-final vowel /i/	i	Cidi	sidi	sidi	0	0	0	0	0	0	2	0	0
+Word-medial vowel /i/	i	Sid(o|a)(s)?	sido	sido	12	6	11	0	8	41	1329	4150	8403
+Word-medial vowel /i/	i	Sid(o|a)(s)?	sidos	sidos	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Siendo	siendo	siendo	8	3	34	13	16	28	1239	5313	12692
 Word-medial semivowel /j/ starting a diphthong	i	Siendo	ssiendo	ssiendo	0	0	0	0	0	1	0	0	7
 Word-medial semivowel /j/ starting a diphthong	y	Siendo	ssyendo	ssyendo	0	0	0	0	1	0	0	0	0
+Word-medial vowel /i/	y	Sid(o|a)(s)?	sydas	sydas	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	y	Sid(o|a)(s)?	sydo	sydo	25	1	4	2	0	5	91	110	6
 Word-medial semivowel /j/ starting a diphthong	y	Siendo	syendo	syendo	6	1	5	0	5	10	41	119	5
 Word-final vowel /i/	i	Temi	temi	temi	0	0	0	0	0	0	1	2	19
 Word-final vowel /i/	j	Temi	temj	temj	0	0	0	0	0	1	0	0	0
@@ -942,6 +1637,11 @@ Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	ubiesemos	ubiésemos	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hubie(r|s)(a|e)(mos|n|s)?	ubiesemos	ubiésemos	0	0	0	0	0	0	4	1	2
 Word-medial vowel /i/	y	Hubie(r|s)(a|e)(mos|n|s)?	ubyere	ubyere	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	y	Hubie(r|s)(a|e)(mos|n|s)?	ubyere	ubyere	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	ultima	ultima	7	4	0	3	6	3	47	96	44
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	ultimas	ultimas	1	0	0	0	2	0	6	18	3
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	ultimo	ultimo	4	1	1	10	3	12	44	165	56
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	ultimos	ultimos	0	0	0	2	2	0	2	15	6
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	ultimo	ultimó	0	0	0	0	0	0	0	1	0
 Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	uuiera	uuiera	0	0	0	0	0	0	0	1	1
 Word-medial semivowel /j/ starting a diphthong	i	Hubie(r|s)(a|e)(mos|n|s)?	uuiera	uuiera	0	0	0	0	0	0	0	1	1
 Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	uuieran	uuieran	0	0	0	0	0	0	0	0	1
@@ -1052,6 +1752,11 @@ Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	vbiesse	vbiesse	0	0	0	0	0	0	0	
 Word-medial semivowel /j/ starting a diphthong	i	Hubie(r|s)(a|e)(mos|n|s)?	vbiesse	vbiesse	0	0	0	0	0	0	0	1	0
 Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	vbiessen	vbiessen	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hubie(r|s)(a|e)(mos|n|s)?	vbiessen	vbiessen	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	vltima	vltima	0	0	1	0	4	3	105	44	125
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	vltimas	vltimas	0	0	0	0	0	3	5	17	19
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	vltimo	vltimo	0	0	0	1	0	3	100	53	112
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	vltimos	vltimos	0	0	0	0	0	0	1	8	17
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	vlttima	vlttima	0	0	0	0	0	0	0	0	3
 Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	vuiera	vuiera	0	0	0	0	0	0	1	59	50
 Word-medial semivowel /j/ starting a diphthong	i	Hubie(r|s)(a|e)(mos|n|s)?	vuiera	vuiera	0	0	0	0	0	0	1	59	50
 Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	vuieran	vuieran	0	0	0	0	0	0	0	20	10
@@ -1084,6 +1789,8 @@ Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	vuiesemos	vuiésemos	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hubie(r|s)(a|e)(mos|n|s)?	vuiesemos	vuiésemos	0	0	0	0	0	0	1	0	0
 Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	vuiessemos	vuiéssemos	0	0	0	0	0	0	0	3	0
 Word-medial semivowel /j/ starting a diphthong	i	Hubie(r|s)(a|e)(mos|n|s)?	vuiessemos	vuiéssemos	0	0	0	0	0	0	0	3	0
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	vultima	vultima	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	vultimo	vultimo	0	0	0	0	0	0	1	0	0
 Word-medial vowel /i/	y	Hubie(r|s)(a|e)(mos|n|s)?	vuyere	vuyere	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	y	Hubie(r|s)(a|e)(mos|n|s)?	vuyere	vuyere	0	0	0	0	0	0	0	1	0
 Word-medial vowel /i/	i	Hubie(r|s)(a|e)(mos|n|s)?	vviere	vviere	0	0	0	0	0	0	0	1	0
@@ -1096,13 +1803,79 @@ Word-initial consonant /d͡ʒ/ or /ʃ/	x	Javier	xauier	xauier	1	0	0	0	0	0	1	22	0
 Word-medial semivowel /j/ starting a diphthong	i	Javier	xauier	xauier	1	0	0	0	0	0	1	22	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	x	Javier	xavier	xavier	1	0	0	0	0	0	0	0	34
 Word-medial semivowel /j/ starting a diphthong	i	Javier	xavier	xavier	1	0	0	0	0	0	0	0	34
+Word-initial consonant /d͡ʒ/ or /ʃ/	x	Juicio(s)?	xuicio	xuicio	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Juicio(s)?	xuicio	xuicio	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	xuicio	xuicio	0	0	0	0	0	0	0	0	1
+Word-initial consonant /d͡ʒ/ or /ʃ/	x	Juicio(s)?	xuizio	xuizio	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Juicio(s)?	xuizio	xuizio	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Juicio(s)?	xuizio	xuizio	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	y	Ibarra	ybarra	ybarra	0	0	2	2	4	3	27	38	32
+Word-initial vowel /i/	y	Hi(ce|zo)	yce	yce	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yciera	yciera	0	0	0	0	0	0	0	1	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yciera	yciera	0	0	0	0	0	0	0	1	1
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yciere	yciere	0	0	0	0	0	0	1	5	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yciere	yciere	0	0	0	0	0	0	1	5	0
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	ycieren	ycieren	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	ycieren	ycieren	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	y	Hicieron	ycieron	ycieron	0	0	0	0	0	0	0	0	1
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	ycieron	ycieron	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	y	Hici(mos|ste)	ycis	ycis	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	ycis	ycis	0	0	0	0	0	0	1	0	0
+Word-initial semivowel /j/ starting a diphthong	y	Yeso(s)?	yeco	yeco	0	1	0	0	0	0	0	0	0
+Word-initial semivowel /j/ starting a diphthong	y	Hierba(s)?	yerba	yerba	2	3	16	6	39	4	90	186	480
+Word-initial semivowel /j/ starting a diphthong	y	Hierba(s)?	yerbas	yerbas	4	27	59	20	54	23	155	243	311
+Word-initial semivowel /j/ starting a diphthong	y	Yerno(s)?	yerno	yerno	41	55	106	63	77	33	326	240	362
+Word-initial semivowel /j/ starting a diphthong	y	Yerno(s)?	yernos	yernos	3	0	35	2	5	3	67	61	51
+Word-initial semivowel /j/ starting a diphthong	y	Yerno(s)?	yerrno	yerrno	2	0	0	0	0	1	6	1	0
+Word-initial semivowel /j/ starting a diphthong	y	Yerno(s)?	yerrnos	yerrnos	0	0	1	0	0	1	1	0	0
+Word-initial semivowel /j/ starting a diphthong	y	Hierba(s)?	yerruas	yerruas	1	0	0	0	0	0	0	0	0
+Word-initial semivowel /j/ starting a diphthong	y	Hierba(s)?	yerua	yerua	1	22	23	9	109	27	610	349	210
+Word-initial semivowel /j/ starting a diphthong	y	Hierba(s)?	yeruas	yeruas	0	9	47	20	96	63	207	245	118
+Word-initial semivowel /j/ starting a diphthong	y	Hierba(s)?	yerva	yerva	18	5	16	11	0	36	385	292	1025
+Word-initial semivowel /j/ starting a diphthong	y	Hierba(s)?	yervas	yervas	4	11	31	23	1	74	285	325	410
+Word-initial semivowel /j/ starting a diphthong	y	Yeso(s)?	yeso	yeso	1	5	1	17	3	8	31	63	170
+Word-initial semivowel /j/ starting a diphthong	y	Yeso(s)?	yesos	yesos	0	0	0	1	0	0	0	4	0
+Word-initial semivowel /j/ starting a diphthong	y	Yeso(s)?	yeco	yeço	1	0	0	0	0	0	0	0	0
+Word-initial vowel /i/	y	Iglesia(s)?	yglecia	yglecia	0	0	0	0	0	0	0	1	2
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	yglecia	yglecia	0	0	0	0	0	0	0	1	2
+Word-initial vowel /i/	y	Iglesia(s)?	yglesia	yglesia	110	101	381	221	385	72	3397	2724	1178
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	yglesia	yglesia	110	101	381	221	385	72	3397	2724	1178
+Word-initial vowel /i/	y	Iglesia(s)?	yglesias	yglesias	3	7	15	23	114	20	640	493	153
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	yglesias	yglesias	3	7	15	23	114	20	640	493	153
+Word-initial vowel /i/	y	Iglesia(s)?	yglesia	yglesiá	0	0	0	0	0	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	yglesia	yglesiá	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	y	Iglesia(s)?	yglesja	yglesja	3	0	0	0	0	0	0	1	0
+Word-medial semivowel /j/ starting a diphthong	j	Iglesia(s)?	yglesja	yglesja	3	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	y	Iglesia(s)?	yglessia	yglessia	4	0	1	1	5	0	23	10	25
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	yglessia	yglessia	4	0	1	1	5	0	23	10	25
+Word-initial vowel /i/	y	Iglesia(s)?	yglessias	yglessias	0	0	0	0	0	0	1	0	5
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	yglessias	yglessias	0	0	0	0	0	0	1	0	5
+Word-initial vowel /i/	y	Iglesia(s)?	yglesya	yglesya	0	0	4	1	0	0	6	17	0
+Word-medial semivowel /j/ starting a diphthong	y	Iglesia(s)?	yglesya	yglesya	0	0	4	1	0	0	6	17	0
+Word-initial vowel /i/	y	Iglesia(s)?	yglesyas	yglesyas	0	0	0	0	0	0	2	16	0
+Word-medial semivowel /j/ starting a diphthong	y	Iglesia(s)?	yglesyas	yglesyas	0	0	0	0	0	0	2	16	0
+Word-initial vowel /i/	y	Iglesia(s)?	yglesia	yglesía	0	0	0	0	0	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	yglesia	yglesía	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	y	Iglesia(s)?	yglezia	yglezia	0	0	0	0	0	0	1	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	yglezia	yglezia	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	y	Iglesia(s)?	yglecia	ygleçia	0	0	0	0	0	0	0	2	9
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	yglecia	ygleçia	0	0	0	0	0	0	0	2	9
+Word-initial vowel /i/	y	Iglesia(s)?	yglecias	ygleçias	0	0	0	0	0	0	0	0	2
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	yglecias	ygleçias	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	y	Iglesia(s)?	ygllesia	ygllesia	0	0	15	1	0	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	Iglesia(s)?	ygllesia	ygllesia	0	0	15	1	0	0	0	0	0
+Word-initial vowel /i/	y	Hij(o|a)(s)?	yia	yia	0	1	1	3	0	1	0	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	Hij(o|a)(s)?	yia	yia	0	1	1	3	0	1	0	0	0
+Word-initial vowel /i/	y	Hij(o|a)(s)?	yja	yja	0	0	0	0	0	0	2	0	33
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	yja	yja	0	0	0	0	0	0	2	0	33
+Word-initial vowel /i/	y	Hij(o|a)(s)?	yjas	yjas	0	0	0	0	0	0	0	0	5
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	yjas	yjas	0	0	0	0	0	0	0	0	5
+Word-initial vowel /i/	y	Hij(o|a)(s)?	yjo	yjo	0	0	2	5	0	0	15	10	1
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	yjo	yjo	0	0	2	5	0	0	15	10	1
+Word-initial vowel /i/	y	Hij(o|a)(s)?	yjos	yjos	0	0	0	0	0	0	4	4	7
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	Hij(o|a)(s)?	yjos	yjos	0	0	0	0	0	0	4	4	7
+Word-initial vowel /i/	y	Inez	ynes	ynes	9	0	7	12	0	2	34	33	257
+Word-initial vowel /i/	y	Inez	ynez	ynez	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	y	Iñig(o|a)	yniga	yniga	0	0	0	0	0	0	0	0	1
 Word-medial vowel /i/	i	Iñig(o|a)	yniga	yniga	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	y	Iñig(o|a)	ynigo	ynigo	1	1	16	11	7	13	48	15	1
@@ -1111,10 +1884,17 @@ Word-initial vowel /i/	y	Iñig(o|a)	ynnigo	ynnigo	0	0	4	9	2	14	216	27	0
 Word-medial vowel /i/	i	Iñig(o|a)	ynnigo	ynnigo	0	0	4	9	2	14	216	27	0
 Word-initial vowel /i/	y	Iñig(o|a)	ynygo	ynygo	0	0	0	0	0	1	0	0	0
 Word-medial vowel /i/	y	Iñig(o|a)	ynygo	ynygo	0	0	0	0	0	1	0	0	0
+Word-initial vowel /i/	y	Inez	ynes	ynés	4	0	0	44	2	18	4	40	74
 Word-initial vowel /i/	y	Ir	yr	yr	134	115	1175	534	1132	749	1607	2577	1835
+Word-initial vowel /i/	y	(Hi|i)r(a|e)is	yrais	yrais	0	0	0	0	0	0	0	1	0
+Word-medial semivowel /j/ ending a diphthong	i	(Hi|i)r(a|e)is	yrais	yrais	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	y	Ir(a|e)is	yras	yras	0	0	3	2	7	8	5	12	66
 Word-initial vowel /i/	y	Ir(a|e)is	yrec	yrec	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	y	(Hi|i)r(a|e)is	yreis	yreis	0	0	0	0	0	0	1	0	1
+Word-medial semivowel /j/ ending a diphthong	i	(Hi|i)r(a|e)is	yreis	yreis	0	0	0	0	0	0	1	0	1
 Word-initial vowel /i/	y	Ir(a|e)is	yres	yres	0	0	0	0	1	0	5	1	0
+Word-initial vowel /i/	y	(Hi|i)r(a|e)is	yreys	yreys	0	0	0	0	0	0	1	8	7
+Word-medial semivowel /j/ ending a diphthong	y	(Hi|i)r(a|e)is	yreys	yreys	0	0	0	0	0	0	1	8	7
 Word-initial vowel /i/	y	Hir(io|ieron)	yrie	yrie	0	0	44	0	22	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hir(io|ieron)	yrie	yrie	0	0	44	0	22	0	0	0	0
 Word-initial vowel /i/	y	Hir(io|ieron)	yrien	yrien	0	0	30	0	22	0	0	0	0
@@ -1123,7 +1903,11 @@ Word-initial vowel /i/	y	Hir(io|ieron)	yrion	yrion	0	0	0	0	0	0	0	0	2
 Word-medial semivowel /j/ starting a diphthong	i	Hir(io|ieron)	yrion	yrion	0	0	0	0	0	0	0	0	2
 Word-initial vowel /i/	y	Ir	yrr	yrr	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	y	Ir(a|e)is	yras	yrás	0	0	0	0	1	10	1	35	155
+Word-initial vowel /i/	y	(Hi|i)r(a|e)is	yreis	yréis	0	0	0	0	0	0	0	1	4
+Word-medial semivowel /j/ ending a diphthong	i	(Hi|i)r(a|e)is	yreis	yréis	0	0	0	0	0	0	0	1	4
 Word-initial vowel /i/	y	Ir(a|e)is	yres	yrés	0	0	0	0	0	1	0	3	0
+Word-initial vowel /i/	y	(Hi|i)r(a|e)is	yreys	yréys	0	0	0	0	0	0	1	10	12
+Word-medial semivowel /j/ ending a diphthong	y	(Hi|i)r(a|e)is	yreys	yréys	0	0	0	0	0	0	1	10	12
 Word-initial vowel /i/	y	Hir(io|ieron)	yrie	yríe	0	1	0	1	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hir(io|ieron)	yrie	yríe	0	1	0	1	0	0	0	1	0
 Word-initial vowel /i/	y	Hir(io|ieron)	yrien	yríen	0	0	0	0	0	2	0	0	0
@@ -1135,21 +1919,54 @@ Word-initial vowel /i/	y	Isabel(a)?	ysauel	ysauel	0	0	0	0	0	0	3	8	133
 Word-initial vowel /i/	y	Isabel(a)?	ysauela	ysauela	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	y	Isabel(a)?	ysavel	ysavel	0	0	3	1	0	0	3	4	1
 Word-initial vowel /i/	y	Isabel(a)?	ysavela	ysavela	0	0	0	0	0	0	24	0	0
+Word-initial vowel /i/	y	Hi(ce|zo)	ysco	ysco	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	y	Hi(ce|zo)	yse	yse	0	0	0	1	0	0	1	0	2
+Word-initial vowel /i/	y	Hi(ce|zo)	yseo	yseo	0	0	0	0	0	0	1	4	0
+Word-initial vowel /i/	y	Hici(mos|ste)	ysic	ysic	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	ysic	ysic	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	y	Hici(mos|ste)	ysice	ysice	0	0	0	0	0	0	2	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	ysice	ysice	0	0	0	0	0	0	2	0	0
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	ysiere	ysiere	1	0	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	ysiere	ysiere	1	0	0	0	0	0	0	0	0
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	ysieren	ysieren	1	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	ysieren	ysieren	1	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	ysiese	ysiese	0	0	0	0	0	0	0	1	4
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	ysiese	ysiese	0	0	0	0	0	0	0	1	4
+Word-initial vowel /i/	y	Hici(mos|ste)	ysiese	ysiese	0	0	0	0	0	0	0	1	4
+Word-medial vowel /i/	i	Hici(mos|ste)	ysiese	ysiese	0	0	0	0	0	0	0	1	4
+Word-initial vowel /i/	y	Hici(mos|ste)	ysim	ysim	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	ysim	ysim	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	y	Hici(mos|ste)	ysio	ysio	0	0	0	0	0	0	0	0	2
+Word-medial vowel /i/	i	Hici(mos|ste)	ysio	ysio	0	0	0	0	0	0	0	0	2
+Word-initial vowel /i/	y	Hici(mos|ste)	ysion	ysion	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	ysion	ysion	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	y	Hici(mos|ste)	ysis	ysis	0	0	0	0	4	0	18	6	3
+Word-medial vowel /i/	i	Hici(mos|ste)	ysis	ysis	0	0	0	0	4	0	18	6	3
+Word-initial vowel /i/	y	Hi(ce|zo)	yso	yso	0	0	2	0	1	2	2	1	0
 Word-initial vowel /i/	y	Isabel(a)?	yssabel	yssabel	0	0	1	0	0	0	0	2	0
 Word-initial vowel /i/	y	Isabel(a)?	yssabela	yssabela	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	y	Isabel(a)?	yssavel	yssavel	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	y	Hi(ce|zo)	ysse	ysse	0	1	0	1	0	0	0	0	0
+Word-initial vowel /i/	y	Hici(mos|ste)	yssient	yssient	0	2	0	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	yssient	yssient	0	2	0	0	0	0	0	0	0
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yssiere	yssiere	1	1	0	0	0	0	0	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yssiere	yssiere	1	1	0	0	0	0	0	0	0
+Word-initial vowel /i/	y	Hici(mos|ste)	yssion	yssion	0	0	0	0	1	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	yssion	yssion	0	0	0	0	1	0	0	0	0
+Word-initial vowel /i/	y	Hici(mos|ste)	yssios	yssios	1	0	1	0	0	0	0	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	yssios	yssios	1	0	1	0	0	0	0	0	0
+Word-initial vowel /i/	y	Hici(mos|ste)	ysyon	ysyón	0	0	0	0	0	2	0	0	0
+Word-medial vowel /i/	y	Hici(mos|ste)	ysyon	ysyón	0	0	0	0	0	2	0	0	0
 Word-initial vowel /i/	y	Ibarra	yuarra	yuarra	0	3	0	0	0	0	0	1	1
 Word-initial vowel /i/	y	Ibarra	yvara	yvara	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	y	Ibarra	yvarra	yvarra	0	0	1	1	0	1	4	2	2
+Word-initial vowel /i/	y	Hij(o|a)(s)?	yxa	yxa	0	0	0	0	0	0	0	1	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	Hij(o|a)(s)?	yxa	yxa	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	y	Hij(o|a)(s)?	yxos	yxos	0	0	0	0	0	0	1	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	Hij(o|a)(s)?	yxos	yxos	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	y	Isabel(a)?	yzabel	yzabel	0	0	0	0	0	0	0	0	3
+Word-initial vowel /i/	y	Hi(ce|zo)	yzco	yzcó	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	y	Hi(ce|zo)	yze	yze	0	0	0	0	0	0	1	2	3
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yziera	yziera	0	0	0	0	0	0	1	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yziera	yziera	0	0	0	0	0	0	1	1	0
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yzieran	yzieran	0	0	0	0	0	0	0	0	1
@@ -1158,26 +1975,47 @@ Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yziere	yziere	0	0	1	0	0	0	1	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yziere	yziere	0	0	1	0	0	0	1	1	0
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yzieren	yzieren	0	0	0	0	0	0	5	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yzieren	yzieren	0	0	0	0	0	0	5	0	1
+Word-initial vowel /i/	y	Hicieron	yzieron	yzieron	0	0	0	0	0	0	6	2	6
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	yzieron	yzieron	0	0	0	0	0	0	6	2	6
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yziese	yziese	0	0	0	0	0	0	2	1	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yziese	yziese	0	0	0	0	0	0	2	1	1
+Word-initial vowel /i/	y	Hici(mos|ste)	yziese	yziese	0	0	0	0	0	0	2	1	1
+Word-medial vowel /i/	i	Hici(mos|ste)	yziese	yziese	0	0	0	0	0	0	2	1	1
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yziesen	yziesen	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yziesen	yziesen	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	y	Hici(mos|ste)	yziesen	yziesen	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	yziesen	yziesen	0	0	0	0	0	0	1	0	0
+Word-initial vowel /i/	y	Hici(mos|ste)	yzio	yzio	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Hici(mos|ste)	yzio	yzio	0	0	0	0	0	0	1	0	0
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yziesemos	yziésemos	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yziesemos	yziésemos	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	y	Hici(mos|ste)	yziesemos	yziésemos	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	yziesemos	yziésemos	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	y	Hi(ce|zo)	yzo	yzo	0	0	0	2	0	0	8	15	4
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yzyeran	yzyeran	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	y	Hicie(r|s)(a|e)(mos|n|s)?	yzyeran	yzyeran	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yzyeren	yzyeren	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	y	Hicie(r|s)(a|e)(mos|n|s)?	yzyeren	yzyeren	0	0	0	0	0	0	0	1	0
+Word-initial vowel /i/	y	Hicieron	yzyeron	yzyeron	0	0	0	1	0	0	0	1	0
+Word-medial semivowel /j/ starting a diphthong	y	Hicieron	yzyeron	yzyeron	0	0	0	1	0	0	0	1	0
+Word-initial vowel /i/	y	Hi(ce|zo)	yce	yçe	0	0	0	0	0	0	0	0	2
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yciera	yçiera	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yciera	yçiera	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yciere	yçiere	0	0	7	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yciere	yçiere	0	0	7	0	0	0	0	0	1
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	ycieren	yçieren	0	0	0	0	0	0	0	0	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	ycieren	yçieren	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	y	Hicieron	ycieron	yçieron	0	0	0	0	0	0	0	1	1
+Word-medial semivowel /j/ starting a diphthong	i	Hicieron	ycieron	yçieron	0	0	0	0	0	0	0	1	1
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yciese	yçiese	0	0	0	0	0	0	0	0	4
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yciese	yçiese	0	0	0	0	0	0	0	0	4
+Word-initial vowel /i/	y	Hici(mos|ste)	yciese	yçiese	0	0	0	0	0	0	0	0	4
+Word-medial vowel /i/	i	Hici(mos|ste)	yciese	yçiese	0	0	0	0	0	0	0	0	4
 Word-initial vowel /i/	y	Hicie(r|s)(a|e)(mos|n|s)?	yciesen	yçiesen	0	0	0	0	0	0	0	1	1
 Word-medial semivowel /j/ starting a diphthong	i	Hicie(r|s)(a|e)(mos|n|s)?	yciesen	yçiesen	0	0	0	0	0	0	0	1	1
+Word-initial vowel /i/	y	Hici(mos|ste)	yciesen	yçiesen	0	0	0	0	0	0	0	1	1
+Word-medial vowel /i/	i	Hici(mos|ste)	yciesen	yçiesen	0	0	0	0	0	0	0	1	1
+Word-initial vowel /i/	y	Hi(ce|zo)	yco	yço	0	0	0	0	0	0	1	5	13
 Word-initial vowel /i/	y	Iñig(o|a)	yniga	yñiga	0	0	0	0	0	0	3	1	0
 Word-medial vowel /i/	i	Iñig(o|a)	yniga	yñiga	0	0	0	0	0	0	3	1	0
 Word-initial vowel /i/	y	Iñig(o|a)	ynigo	yñigo	2	0	2	8	4	11	105	48	15
@@ -1186,7 +2024,11 @@ Word-initial vowel /i/	y	Iñig(o|a)	ynjgo	yñjgo	0	0	0	1	0	0	0	41	0
 Word-medial vowel /i/	j	Iñig(o|a)	ynjgo	yñjgo	0	0	0	1	0	0	0	41	0
 Word-initial vowel /i/	y	Iñig(o|a)	ynygo	yñygo	0	0	0	0	0	0	2	6	0
 Word-medial vowel /i/	y	Iñig(o|a)	ynygo	yñygo	0	0	0	0	0	0	2	6	0
+Word-initial vowel /i/	y	Inez	ynes	yñés	0	0	0	0	0	0	0	0	1
 Word-medial vowel /i/	i	Cid	zid	zid	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Sid(o|a)(s)?	zida	zida	0	0	0	0	0	0	1	0	0
+Word-medial vowel /i/	i	Sid(o|a)(s)?	zido	zido	0	0	0	0	0	0	0	1	1
+Word-medial vowel /i/	i	Sid(o|a)(s)?	zidos	zidos	0	0	0	0	0	0	1	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Siendo	ziendo	ziendo	0	0	0	0	0	0	1	0	1
 Word-medial semivowel /j/ starting a diphthong	j	Siendo	zjendo	zjendo	0	0	0	1	0	0	0	0	0
 Word-final semivowel /j/ ending a diphthong	i	Hay	ai	ài	0	0	0	0	0	0	0	2	0
@@ -1194,8 +2036,11 @@ Word-final semivowel /j/ ending a diphthong	i	Hay	ai	ái	0	0	0	0	0	0	0	0	2
 Word-medial semivowel /j/ starting a diphthong	i	Habiendo	auiendo	áuiendo	0	0	0	0	0	0	0	1	0
 Word-final semivowel /j/ ending a diphthong	y	Hay	ay	áy	0	0	0	0	0	0	0	1	0
 Word-medial vowel /i/	i	Cid	cid	çid	6	0	1190	19	0	47	392	25	56
+Word-medial vowel /i/	i	Sid(o|a)(s)?	cida	çida	2	0	0	0	0	0	0	0	0
 Word-medial vowel /i/	i	Cidi	cidi	çidi	0	0	0	0	0	1	2	0	0
 Word-final vowel /i/	i	Cidi	cidi	çidi	0	0	0	0	0	1	2	0	0
+Word-medial vowel /i/	i	Sid(o|a)(s)?	cido	çido	0	0	0	0	0	1	0	1	0
+Word-medial vowel /i/	i	Sid(o|a)(s)?	cidos	çidos	0	0	0	0	0	0	1	0	0
 Word-medial vowel /i/	i	Cidi	cidy	çidy	0	0	0	0	0	0	2	0	0
 Word-final vowel /i/	y	Cidi	cidy	çidy	0	0	0	0	0	0	2	0	0
 Word-medial semivowel /j/ starting a diphthong	i	Siendo	ciendo	çiendo	0	0	0	0	0	0	0	0	2
@@ -1204,8 +2049,18 @@ Word-medial vowel /i/	i	Her(is|iste)	erize	érize	0	0	0	0	0	0	10	0	0
 Word-initial vowel /i/	i	Iñig(o|a)	inigo	ínigo	0	0	0	0	1	0	226	0	0
 Word-medial vowel /i/	i	Iñig(o|a)	inigo	ínigo	0	0	0	0	1	0	226	0	0
 Word-initial vowel /i/	i	Ir	ir	ír	0	0	0	0	0	0	0	2	3
+Word-initial vowel /i/	i	Hici(mos|ste)	isico	ísico	0	0	0	0	0	0	0	0	1
+Word-medial vowel /i/	i	Hici(mos|ste)	isico	ísico	0	0	0	0	0	0	0	0	1
+Word-initial vowel /i/	i	Hici(mos|ste)	isicos	ísicos	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Hici(mos|ste)	isicos	ísicos	0	0	0	0	0	0	0	1	0
 Word-initial vowel /i/	i	Iñig(o|a)	inigo	íñigo	1	0	1	0	1	12	8	22	14
 Word-medial vowel /i/	i	Iñig(o|a)	inigo	íñigo	1	0	1	0	1	12	8	22	14
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	ultima	última	0	0	4	0	2	10	30	545	704
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	ultimas	últimas	0	0	0	0	0	3	9	73	189
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	ultimo	último	0	0	0	0	1	21	62	582	1284
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	ultimos	últimos	0	0	0	0	0	2	9	80	226
+Word-medial vowel /i/	i	Ultim(o|a)(s)?	ulttima	últtima	0	0	0	0	0	0	0	0	2
+Word-medial vowel /i/	y	Ultim(o|a)(s)?	ultyma	últyma	0	0	1	0	0	0	0	0	0
 Word-initial vowel /i/	y	Iñig(o|a)	ynigo	ýnigo	0	0	0	0	0	0	0	0	1
 Word-medial vowel /i/	i	Iñig(o|a)	ynigo	ýnigo	0	0	0	0	0	0	0	0	1
 Word-initial vowel /i/	y	Ir	yr	ýr	0	0	0	0	0	0	0	1	0
