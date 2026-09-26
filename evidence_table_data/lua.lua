@@ -83,7 +83,7 @@ for i, form in ipairs(ijy_corde_forms) do
 			}
 			for j, class in ipairs(classes) do
 				local ds = word_data(class, merged_data)
-				if d then
+				if ds then
 					for k, d in ipairs(ds) do
 						table.insert(representative_words, d)
 						local letter = d["Letra"]
