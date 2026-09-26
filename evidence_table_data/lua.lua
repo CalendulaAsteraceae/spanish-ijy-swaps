@@ -103,19 +103,24 @@ function p.print_representative_words()
 	return table.concat(printable_table, "\n")
 end
 
-local letter_frequencies = {}
-for class, class_data in pairs(word_filters["class_labels"]) do
-	letter_frequencies[class] = {}
-	for i, letter in ipairs(word_filters["class_labels"][class]["letters"]) do
-		letter_frequencies[class][letter] = {0, 0, 0, 0, 0, 0, 0, 0, 0} -- hardcoded
-	end
-end
+local letter_frequency_tables = {}
 for i, data in ipairs(representative_words) do
 	local class = data["Clase"]
 	local letter = data["Letra"]
-	for j, n in ipairs(data["Datos"]) do
-		local running_total = letter_frequencies[class][letter][j] 
-		letter_frequencies[class][letter][j] = running_total + n
+	letter_frequency_tables[class] = letter_frequency_tables[class] or {}
+	letter_frequency_tables[class][letter] = letter_frequency_tables[class][letter] or {}
+	table.insert(letter_frequency_tables[class][letter], data["Datos"])
+end
+local letter_frequencies = {}
+for class, cd in pairs(letter_frequency_tables) do
+	letter_frequencies[class] = {}
+	for letter, ld in pairs(cd) do
+		letter_frequencies[class][letter] = {0, 0, 0, 0, 0, 0, 0, 0, 0} -- hardcoded
+		for i, data in ipairs(ld) do
+			for j = 1, #data do
+				letter_frequencies[class][letter][j] = letter_frequencies[class][letter][j] + data[j]
+			end
+		end
 	end
 end
 
