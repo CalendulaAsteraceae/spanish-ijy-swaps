@@ -23,15 +23,51 @@ word_filters.patterns = {
 }
 
 word_filters["class_labels"] = {
-	["i-"] = {["text"] = "Word-initial vowel /i/", ["index"] = 1, ["letters"] = {"hi", "hj", "hy", "i", "j", "y"}},
-	["-i-"] = {["text"] = "Word-medial vowel /i/", ["index"] = 2, ["letters"] = {"i", "j", "y"}},
-	["-i"] = {["text"] = "Word-final vowel /i/", ["index"] = 3, ["letters"] = {"i", "j", "y"}},
-	["y.-"] = {["text"] = "Word-initial semivowel /j/ starting a diphthong", ["index"] = 4, ["letters"] = {"i", "j", "y"}},
-	["-y.-"] = {["text"] = "Word-medial semivowel /j/ starting a diphthong", ["index"] = 5, ["letters"] = {"i", "j", "y"}},
-	["-.y-"] = {["text"] = "Word-medial semivowel /j/ ending a diphthong", ["index"] = 6, ["letters"] = {"i", "j", "y"}},
-	["-.y"] = {["text"] = "Word-final semivowel /j/ ending a diphthong", ["index"] = 7, ["letters"] = {"i", "j", "y"}},
-	["g-"] = {["text"] = "Word-initial consonant /d͡ʒ/ or /ʃ/", ["index"] = 8, ["letters"] = {"g", "i", "j", "x"}},
-	["-g-"] = {["text"] = "Word-medial consonant /d͡ʒ/ or /ʃ/", ["index"] = 9, ["letters"] = {"g", "i", "j", "x"}}
+	["i-"] = {
+		["text"] = "Word-initial vowel /i/",
+		["index"] = 1,
+		["letters"] = {"hi", "hj", "hy", "i", "j", "y"}
+	},
+	["-i-"] = {
+		["text"] = "Word-medial vowel /i/",
+		["index"] = 2,
+		["letters"] = {"i", "j", "y"}
+	},
+	["-i"] = {
+		["text"] = "Word-final vowel /i/",
+		["index"] = 3,
+		["letters"] = {"i", "j", "y"}
+	},
+	["y.-"] = {
+		["text"] = "Word-initial semivowel /j/ starting a diphthong",
+		["index"] = 4,
+		["letters"] = {"i", "j", "y"}
+	},
+	["-y.-"] = {
+		["text"] = "Word-medial semivowel /j/ starting a diphthong",
+		["index"] = 5,
+		["letters"] = {"i", "j", "y"}
+	},
+	["-.y-"] = {
+		["text"] = "Word-medial semivowel /j/ ending a diphthong",
+		["index"] = 6,
+		["letters"] = {"i", "j", "y"}
+	},
+	["-.y"] = {
+		["text"] = "Word-final semivowel /j/ ending a diphthong",
+		["index"] = 7,
+		["letters"] = {"i", "j", "y"}
+	},
+	["g-"] = {
+		["text"] = "Word-initial consonant /d͡ʒ/ or /ʃ/",
+		["index"] = 8,
+		["letters"] = {"g", "i", "j", "x"}
+	},
+	["-g-"] = {
+		["text"] = "Word-medial consonant /d͡ʒ/ or /ʃ/",
+		["index"] = 9,
+		["letters"] = {"g", "i", "j", "x"}
+	}
 }
 
 word_filters.word_patterns = {
