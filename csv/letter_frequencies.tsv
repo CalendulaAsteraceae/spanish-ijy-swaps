@@ -1,0 +1,33 @@
+Class	Letter	–1200	1201–1250	1251–1300	1301–1350	1351–1400	1401–1450	1451–1500	1501–1550	1551–1600
+Word-initial vowel /i/	hi	0	0	0	0	0	0	0	0	0
+Word-initial vowel /i/	hy	0	0	0	0	0	0	0	0	0
+Word-initial vowel /i/	hj	0	0	0	0	0	0	0	0	0
+Word-initial vowel /i/	i	94	404	483	199	92	551	4,372	12,840	17,330
+Word-initial vowel /i/	j	1	0	1	0	6	3	6	2	4
+Word-initial vowel /i/	y	172	135	1,335	587	1,212	832	2,838	3,253	2,537
+Word-medial vowel /i/	i	498	135	1,691	192	1,097	640	7,414	10,164	16,528
+Word-medial vowel /i/	j	11	0	1	34	75	1	12	43	1
+Word-medial vowel /i/	y	44	19	176	135	563	458	1,128	908	593
+Word-final vowel /i/	i	129	51	86	64	56	164	524	1,103	1,386
+Word-final vowel /i/	j	4	0	0	0	1	1	0	0	0
+Word-final vowel /i/	y	156	64	418	311	83	130	414	219	323
+Word-initial semivowel /j/ starting a diphthong	i	0	0	0	0	0	0	0	0	0
+Word-initial semivowel /j/ starting a diphthong	j	0	0	0	0	0	0	0	0	0
+Word-initial semivowel /j/ starting a diphthong	y	0	0	0	0	0	0	0	0	0
+Word-medial semivowel /j/ starting a diphthong	i	289	160	729	787	2,155	674	8,706	25,218	49,449
+Word-medial semivowel /j/ starting a diphthong	j	5	1	9	54	118	126	152	139	417
+Word-medial semivowel /j/ starting a diphthong	y	68	122	371	250	127	214	1,425	2,220	2,190
+Word-medial semivowel /j/ ending a diphthong	i	8	20	379	30	11	426	3,877	5,779	20,978
+Word-medial semivowel /j/ ending a diphthong	j	0	0	0	0	0	0	14	0	4
+Word-medial semivowel /j/ ending a diphthong	y	30	19	551	102	218	1,409	5,568	5,917	4,095
+Word-final semivowel /j/ ending a diphthong	i	281	105	106	41	17	29	663	634	1,098
+Word-final semivowel /j/ ending a diphthong	j	28	0	161	0	0	1	83	11	1
+Word-final semivowel /j/ ending a diphthong	y	2,916	5,942	29,667	13,728	13,281	22,088	75,153	114,709	160,740
+Word-initial consonant /d͡ʒ/ or /ʃ/	g	0	1	5	4	67	247	193	1,381	1,026
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	235	79	65	115	198	126	404	1,513	1,794
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	1,921	208	3,101	3,178	1,139	2,262	18,012	12,657	21,133
+Word-initial consonant /d͡ʒ/ or /ʃ/	x	3	0	0	0	0	0	1	22	35
+Word-medial consonant /d͡ʒ/ or /ʃ/	g	1	0	1	2	2	1	11	26	55
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	0	0	0	0	0	0	0	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	0	0	0	0	0	0	1	1	2
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	0	0	0	0	0	0	1	0	0
