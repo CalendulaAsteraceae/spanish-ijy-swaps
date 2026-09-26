@@ -50,7 +50,7 @@ word_filters["class_labels"] = {
 		["text"] = "Word-final vowel /i/",
 		["index"] = 3,
 		["letters"] = {"i", "j", "y"},
-		["word_match_patterns"] = "^(" .. word_filters["patterns"]["i"] .. ")$",
+		["word_match_patterns"] = "(" .. word_filters["patterns"]["i"] .. ")$",
 		["manual_word_match_patterns"] = {}
 	},
 	["y.-"] = {
@@ -80,7 +80,7 @@ word_filters["class_labels"] = {
 		["text"] = "Word-final semivowel /j/ ending a diphthong",
 		["index"] = 7,
 		["letters"] = {"i", "j", "y"},
-		["word_match_patterns"] = "^(" .. word_filters["patterns"]["i"] .. ")$",
+		["word_match_patterns"] = "(" .. word_filters["patterns"]["i"] .. ")$",
 		["manual_word_match_patterns"] = {}
 	},
 	["g-"] = {
