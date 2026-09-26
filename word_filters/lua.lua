@@ -26,47 +26,76 @@ word_filters["class_labels"] = {
 	["i-"] = {
 		["text"] = "Word-initial vowel /i/",
 		["index"] = 1,
-		["letters"] = {"hi", "hj", "hy", "i", "j", "y"}
+		["letters"] = {"hi", "hj", "hy", "i", "j", "y"},
+		["word_match_patterns"] = "^(h?" .. word_filters["patterns"]["i"] .. ")",
+		["manual_word_match_patterns"] = {}
 	},
 	["-i-"] = {
 		["text"] = "Word-medial vowel /i/",
 		["index"] = 2,
-		["letters"] = {"i", "j", "y"}
+		["letters"] = {"i", "j", "y"},
+		["word_match_patterns"] = "%w(" .. word_filters["patterns"]["i"] .. ")%w",
+		["manual_word_match_patterns"] = {
+			["Fuisteis"] = "^f" .. word_filters["patterns"]["u"] .. "(" .. word_filters["patterns"]["i"] .. ")",
+			["Juicio(s)?"] = "^" .. word_filters["patterns"]["g"] .. word_filters["patterns"]["u"] .. "(".. word_filters["patterns"]["i"] .. ")",
+			["Hubisteis"] = "^h" .. word_filters["patterns"]["u"] .. word_filters["patterns"]["b"] .. "(" .. word_filters["patterns"]["i"] .. ")",
+			["Herir(a|e)is"] = "^her(" .. word_filters["patterns"]["i"] .. ")r",
+			["Hicisteis"] = {
+				"^h(" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"] .. ")" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"],
+				"^h" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"] .. "(" .. word_filters["patterns"]["i"] .. ")" .. word_filters["patterns"]["s"]
+			}
+		}
 	},
 	["-i"] = {
 		["text"] = "Word-final vowel /i/",
 		["index"] = 3,
-		["letters"] = {"i", "j", "y"}
+		["letters"] = {"i", "j", "y"},
+		["word_match_patterns"] = "^(" .. word_filters["patterns"]["i"] .. ")$",
+		["manual_word_match_patterns"] = {}
 	},
 	["y.-"] = {
 		["text"] = "Word-initial semivowel /j/ starting a diphthong",
 		["index"] = 4,
-		["letters"] = {"i", "j", "y"}
+		["letters"] = {"i", "j", "y"},
+		["word_match_patterns"] = "^(h?" .. word_filters["patterns"]["i"] .. ")",
+		["manual_word_match_patterns"] = {}
 	},
 	["-y.-"] = {
 		["text"] = "Word-medial semivowel /j/ starting a diphthong",
 		["index"] = 5,
-		["letters"] = {"i", "j", "y"}
+		["letters"] = {"i", "j", "y"},
+		["word_match_patterns"] = "%w(" .. word_filters["patterns"]["i"] .. ")[aeo]",
+		["manual_word_match_patterns"] = {}
 	},
 	["-.y-"] = {
 		["text"] = "Word-medial semivowel /j/ ending a diphthong",
 		["index"] = 6,
-		["letters"] = {"i", "j", "y"}
+		["letters"] = {"i", "j", "y"},
+		["word_match_patterns"] = "[aeou](" .. word_filters["patterns"]["i"] .. ")%w",
+		["manual_word_match_patterns"] = {
+			["Fuisteis"] = "e(" .. word_filters["patterns"]["i"] .. ")" .. word_filters["patterns"]["s"] .. "$"
+		}
 	},
 	["-.y"] = {
 		["text"] = "Word-final semivowel /j/ ending a diphthong",
 		["index"] = 7,
-		["letters"] = {"i", "j", "y"}
+		["letters"] = {"i", "j", "y"},
+		["word_match_patterns"] = "^(" .. word_filters["patterns"]["i"] .. ")$",
+		["manual_word_match_patterns"] = {}
 	},
 	["g-"] = {
 		["text"] = "Word-initial consonant /d͡ʒ/ or /ʃ/",
 		["index"] = 8,
-		["letters"] = {"g", "i", "j", "x"}
+		["letters"] = {"g", "i", "j", "x"},
+		["word_match_patterns"] = "^(" .. word_filters["patterns"]["g"] .. ")",
+		["manual_word_match_patterns"] = {}
 	},
 	["-g-"] = {
 		["text"] = "Word-medial consonant /d͡ʒ/ or /ʃ/",
 		["index"] = 9,
-		["letters"] = {"g", "i", "j", "x"}
+		["letters"] = {"g", "i", "j", "x"},
+		["word_match_patterns"] = "%w(" .. word_filters["patterns"]["g"] .. ")%w",
+		["manual_word_match_patterns"] = {}
 	}
 }
 
@@ -475,48 +504,6 @@ word_filters.word_patterns = {
 	["Yeso(s)?"] = {
 		["Class"] = {"y.-"},
 		["Pattern"] = "^" .. "h*" .. word_filters["patterns"]["i"] .. "e+" .. word_filters["patterns"]["s"] .. "o+" .. word_filters["patterns"]["s"] .. "*" .. "$"
-	}
-}
-
-word_filters.word_match_patterns = {
-	["g-"] = "^(" .. word_filters["patterns"]["g"] .. ")",
-	["i-"] = "^(h?" .. word_filters["patterns"]["i"] .. ")",
-	["y-"] = "^(h?" .. word_filters["patterns"]["i"] .. ")",
-	["-g-"] = "%w(" .. word_filters["patterns"]["g"] .. ")%w",
-	["-i-"] = "%w(" .. word_filters["patterns"]["i"] .. ")%w",
-	["-.y-"] = "[aeou](" .. word_filters["patterns"]["i"] .. ")%w",
-	["-y.-"] = "%w(" .. word_filters["patterns"]["i"] .. ")[aeo]",
-	["-i"] = "^(" .. word_filters["patterns"]["i"] .. ")$",
-	["-y"] = "^(" .. word_filters["patterns"]["i"] .. ")$"
-}
-
-word_filters.manual_word_match_patterns = {
-	["g-"] = {
-	},
-	["i-"] = {
-	},
-	["y-"] = {
-	},
-	["-g-"] = {
-	},
-	["-i-"] = {
-		["Fuisteis"] = "^f" .. word_filters["patterns"]["u"] .. "(" .. word_filters["patterns"]["i"] .. ")",
-		["Juicio(s)?"] = "^" .. word_filters["patterns"]["g"] .. word_filters["patterns"]["u"] .. "(".. word_filters["patterns"]["i"] .. ")",
-		["Hubisteis"] = "^h" .. word_filters["patterns"]["u"] .. word_filters["patterns"]["b"] .. "(" .. word_filters["patterns"]["i"] .. ")",
-		["Herir(a|e)is"] = "^her(" .. word_filters["patterns"]["i"] .. ")r",
-		["Hicisteis"] = {
-			"^h(" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"] .. ")" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"],
-			"^h" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"] .. "(" .. word_filters["patterns"]["i"] .. ")" .. word_filters["patterns"]["s"]
-		}
-	},
-	["-.y-"] = {
-		["Fuisteis"] = "e(" .. word_filters["patterns"]["i"] .. ")" .. word_filters["patterns"]["s"] .. "$"
-	},
-	["-y.-"] = {
-	},
-	["-i"] = {
-	},
-	["-y"] = {
 	}
 }
 
