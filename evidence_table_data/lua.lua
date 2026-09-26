@@ -23,22 +23,16 @@ end
 -- uses hardcoded exceptions, should be reevaluated if more words are added
 local function word_data(class, data)
 	local letra
-	if class == "g-" or class == "i-" or class == "y.-" then
-		letra = string.match(data["Transcripción"], "^(h?" .. word_filters["patterns"]["swapletters"] .. ")")
-	elseif class == "-i" or class == "-.y" then
-		letra = string.match(data["Transcripción"], "(" .. word_filters["patterns"]["swapletters"] .. ")$")
-	elseif class == "-g-" or class == "-i-" or class == "-.y-" or class == "-y.-" then
-		local manual_matching_function = word_filters["manual_word_match_patterns"][class][data["Correspondencia"]]
-		if manual_matching_function and type(manual_matching_function) == "function" then
-			letra = manual_matching_function(data["Transcripción"])
-		elseif manual_matching_function then
-			letra = {}
-			for i, f in ipairs(manual_matching_function) do
-				table.insert(letra, manual_matching_function(data["Transcripción"]))
-			end
-		else
-			letra = string.match(data["Transcripción"], word_filters["word_match_patterns"][class])
+	local manual_matching_function = word_filters["manual_word_match_patterns"][class][data["Correspondencia"]]
+	if manual_matching_function and type(manual_matching_function) == "table" then
+		letra = {}
+		for i, f in ipairs(manual_matching_function) do
+			table.insert(letra, string.match(data["Transcripción"], f))
 		end
+	elseif manual_matching_function then
+		letra = string.match(data["Transcripción"], manual_matching_function)
+	else
+		letra = string.match(data["Transcripción"], word_filters["word_match_patterns"][class])
 	end
 	if type(letra) == "string" then
 		letra = {letra}

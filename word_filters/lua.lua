@@ -443,43 +443,44 @@ word_filters.word_patterns = {
 }
 
 word_filters.word_match_patterns = {
+	["g-"] = "^(" .. word_filters["patterns"]["g"] .. ")",
+	["i-"] = "^(h?" .. word_filters["patterns"]["i"] .. ")",
+	["y-"] = "^(h?" .. word_filters["patterns"]["y"] .. ")",
 	["-g-"] = "%w(" .. word_filters["patterns"]["g"] .. ")%w",
 	["-i-"] = "%w(" .. word_filters["patterns"]["i"] .. ")%w",
 	["-.y-"] = "[aeou](" .. word_filters["patterns"]["i"] .. ")%w",
-	["-y.-"] = "%w(" .. word_filters["patterns"]["i"] .. ")[aeo]"
+	["-y.-"] = "%w(" .. word_filters["patterns"]["i"] .. ")[aeo]",
+	["-i"] = "^(" .. word_filters["patterns"]["i"] .. ")$",
+	["-y"] = "^(" .. word_filters["patterns"]["i"] .. ")$"
 }
 
 word_filters.manual_word_match_patterns = {
+	["g-"] = {
+	},
+	["i-"] = {
+	},
+	["y-"] = {
+	},
 	["-g-"] = {
 	},
 	["-i-"] = {
-		["Fuisteis"] = function(word)
-			return string.match(word, "^f" .. word_filters["patterns"]["u"] .. "(" .. word_filters["patterns"]["i"] .. ")")
-		end,
-		["Juicio(s)?"] = function(word)
-			return string.match(word, "^" .. word_filters["patterns"]["g"] .. word_filters["patterns"]["u"] .. "(".. word_filters["patterns"]["i"] .. ")")
-		end,
-		["Hubisteis"] = function(word)
-			return string.match(word, "^h" .. word_filters["patterns"]["u"] .. word_filters["patterns"]["b"] .. "(" .. word_filters["patterns"]["i"] .. ")")
-		end,
-		["Herir(a|e)is"] = function(word)
-			return string.match(word, "^her(" .. word_filters["patterns"]["i"] .. ")r")
-		end,
+		["Fuisteis"] = "^f" .. word_filters["patterns"]["u"] .. "(" .. word_filters["patterns"]["i"] .. ")",
+		["Juicio(s)?"] = "^" .. word_filters["patterns"]["g"] .. word_filters["patterns"]["u"] .. "(".. word_filters["patterns"]["i"] .. ")",
+		["Hubisteis"] = "^h" .. word_filters["patterns"]["u"] .. word_filters["patterns"]["b"] .. "(" .. word_filters["patterns"]["i"] .. ")",
+		["Herir(a|e)is"] = "^her(" .. word_filters["patterns"]["i"] .. ")r",
 		["Hicisteis"] = {
-			function(word)
-				return string.match(word, "^h(" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"] .. ")" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"])
-			end,
-			function(word)
-				return string.match(word, "^h" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"] .. "(" .. word_filters["patterns"]["i"] .. ")" .. word_filters["patterns"]["s"])
-			end
+			"^h(" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"] .. ")" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"],
+			"^h" .. word_filters["patterns"]["i"] .. word_filters["patterns"]["s"] .. "(" .. word_filters["patterns"]["i"] .. ")" .. word_filters["patterns"]["s"]
 		}
 	},
 	["-.y-"] = {
-		["Fuisteis"] = function(word)
-			return string.match(word, "e(" .. word_filters["patterns"]["i"] .. ")" .. word_filters["patterns"]["s"] .. "$")
-		end
+		["Fuisteis"] = "e(" .. word_filters["patterns"]["i"] .. ")" .. word_filters["patterns"]["s"] .. "$"
 	},
 	["-y.-"] = {
+	},
+	["-i"] = {
+	},
+	["-y"] = {
 	}
 }
 
