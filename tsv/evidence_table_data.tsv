@@ -163,13 +163,13 @@ Word-medial vowel /i/	i	Fui(mos|ste)	fuissent	fuissent	4	1	1	0	0	0	1	3	1
 Word-medial vowel /i/	i	Fui(mos|ste)	fuisset	fuisset	8	2	0	3	0	0	12	5	6
 Word-medial vowel /i/	i	Fui(mos|ste)	fuist	fuist	0	1	0	0	0	0	0	0	0
 Word-medial vowel /i/	i	Fui(mos|ste)	fuiste	fuiste	0	0	1	10	0	1	68	118	305
-Word-medial vowel /i/	ui	Fuisteis	fuisteis	fuisteis	0	0	0	0	0	0	14	6	40
+Word-medial vowel /i/	i	Fuisteis	fuisteis	fuisteis	0	0	0	0	0	0	14	6	40
 Word-medial semivowel /j/ ending a diphthong	eis	Fuisteis	fuisteis	fuisteis	0	0	0	0	0	0	14	6	40
 Word-medial vowel /i/	i	Fui(mos|ste)	fuistes	fuistes	0	1	3	0	1	0	34	91	142
 Word-medial vowel /i/	i	Fui(mos|ste)	fuistete	fuistete	0	0	0	0	0	0	0	0	1
-Word-medial vowel /i/	ui	Fuisteis	fuisteys	fuisteys	0	0	0	0	0	0	0	2	1
+Word-medial vowel /i/	i	Fuisteis	fuisteys	fuisteys	0	0	0	0	0	0	0	2	1
 Word-medial semivowel /j/ ending a diphthong	eys	Fuisteis	fuisteys	fuisteys	0	0	0	0	0	0	0	2	1
-Word-medial vowel /i/	ui	Fuisteis	fuisteis	fuistéis	0	0	0	0	0	0	0	2	1
+Word-medial vowel /i/	i	Fuisteis	fuisteis	fuistéis	0	0	0	0	0	0	0	2	1
 Word-medial semivowel /j/ ending a diphthong	eis	Fuisteis	fuisteis	fuistéis	0	0	0	0	0	0	0	2	1
 Word-medial vowel /i/	i	Fui(mos|ste)	fuit	fuit	306	50	30	18	1	9	1036	48	68
 Word-medial vowel /i/	i	Fui(mos|ste)	fuie	fuié	0	0	0	0	0	2	0	0	0
@@ -212,7 +212,7 @@ Word-medial vowel /i/	y	Fui(mos|ste)	fuysse	fuysse	0	0	0	0	1	0	0	0	0
 Word-medial vowel /i/	y	Fui(mos|ste)	fuysses	fuysses	0	0	0	0	0	1	0	0	0
 Word-medial vowel /i/	y	Fui(mos|ste)	fuyste	fuyste	0	0	3	0	0	16	2	36	25
 Word-medial vowel /i/	y	Fui(mos|ste)	fuystes	fuystes	3	0	0	5	0	2	12	109	19
-Word-medial vowel /i/	uy	Fuisteis	fuysteys	fuysteys	0	0	0	0	0	0	0	1	1
+Word-medial vowel /i/	y	Fuisteis	fuysteys	fuysteys	0	0	0	0	0	0	0	1	1
 Word-medial semivowel /j/ ending a diphthong	eys	Fuisteis	fuysteys	fuysteys	0	0	0	0	0	0	0	1	1
 Word-medial vowel /i/	y	Fui(mos|ste)	fuyt	fuyt	0	0	1	1	1	5	4	0	0
 Word-medial vowel /i/	y	Fui(mos|ste)	fuye	fuyé	0	1	0	0	0	1	0	0	0
@@ -225,7 +225,7 @@ Word-medial vowel /i/	i	Fui(mos|ste)	fuime	fuíme	0	0	0	0	0	0	8	14	17
 Word-medial vowel /i/	i	Fui(mos|ste)	fuimonos	fuímonos	0	0	0	0	0	0	0	10	7
 Word-medial vowel /i/	i	Fui(mos|ste)	fuimos	fuímos	0	0	0	0	0	0	2	1	22
 Word-medial vowel /i/	i	Fui(mos|ste)	fuis	fuís	0	0	0	0	0	0	2	1	0
-Word-medial vowel /i/	ui	Fuisteis	fuisteis	fuísteis	0	0	0	0	0	0	2	2	2
+Word-medial vowel /i/	i	Fuisteis	fuisteis	fuísteis	0	0	0	0	0	0	2	2	2
 Word-medial semivowel /j/ ending a diphthong	eis	Fuisteis	fuisteis	fuísteis	0	0	0	0	0	0	2	2	2
 Word-medial vowel /i/	i	Fui(mos|ste)	fuistes	fuístes	0	0	0	0	0	0	2	0	0
 Word-medial vowel /i/	i	Fui(mos|ste)	fuistesos	fuístesos	0	0	0	0	0	0	0	0	1
@@ -237,14 +237,14 @@ Word-medial vowel /i/	y	Fui(mos|ste)	fuymos	fuýmos	0	0	0	0	0	2	0	0	1
 Word-final vowel /i/	y	Fui	fvy	fvy	0	0	0	0	0	0	0	0	1
 Word-final vowel /i/	i	Fui	fui	fúi	0	8	0	0	0	0	0	0	0
 Word-medial vowel /i/	i	Fui(mos|ste)	fuistete	fúistete	0	0	0	0	0	0	0	0	1
-Word-initial consonant /d͡ʒ/ or /ʃ/	g	Gentil…	gentil	gentil	0	1	5	4	67	245	193	1379	1026
-Word-medial vowel /i/	i	Gentil…	gentil	gentil	0	1	5	4	67	245	193	1379	1026
-Word-initial consonant /d͡ʒ/ or /ʃ/	g	Gentil…	genttil	genttil	0	0	0	0	0	0	0	1	0
-Word-medial vowel /i/	i	Gentil…	genttil	genttil	0	0	0	0	0	0	0	1	0
-Word-initial consonant /d͡ʒ/ or /ʃ/	g	Gentil…	gentyl	gentyl	0	0	0	0	0	2	0	0	0
-Word-medial vowel /i/	y	Gentil…	gentyl	gentyl	0	0	0	0	0	2	0	0	0
-Word-initial consonant /d͡ʒ/ or /ʃ/	g	Gentil…	gentil	gentíl	0	0	0	0	0	0	0	1	0
-Word-medial vowel /i/	i	Gentil…	gentil	gentíl	0	0	0	0	0	0	0	1	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	g	Gentil	gentil	gentil	0	1	5	4	67	245	193	1379	1026
+Word-medial vowel /i/	i	Gentil	gentil	gentil	0	1	5	4	67	245	193	1379	1026
+Word-initial consonant /d͡ʒ/ or /ʃ/	g	Gentil	genttil	genttil	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Gentil	genttil	genttil	0	0	0	0	0	0	0	1	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	g	Gentil	gentyl	gentyl	0	0	0	0	0	2	0	0	0
+Word-medial vowel /i/	y	Gentil	gentyl	gentyl	0	0	0	0	0	2	0	0	0
+Word-initial consonant /d͡ʒ/ or /ʃ/	g	Gentil	gentil	gentíl	0	0	0	0	0	0	0	1	0
+Word-medial vowel /i/	i	Gentil	gentil	gentíl	0	0	0	0	0	0	0	1	0
 Word-medial semivowel /j/ starting a diphthong	i	Guiomar	guiomar	guiomar	0	2	0	0	0	37	9	79	19
 Word-medial semivowel /j/ starting a diphthong	j	Guiomar	gujomar	gujomar	0	0	0	0	0	0	0	3	0
 Word-medial semivowel /j/ ending a diphthong	i	Habeis	habeis	habeis	0	0	1	0	0	0	220	168	335
@@ -796,8 +796,8 @@ Word-medial semivowel /j/ starting a diphthong	i	Javier	javier	javier	0	0	0	0	0	
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Jaime	jayme	jayme	6	11	130	56	101	9	343	118	37
 Word-medial semivowel /j/ ending a diphthong	y	Jaime	jayme	jayme	6	11	130	56	101	9	343	118	37
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	General	jeneral	jeneral	0	0	0	10	0	0	7	19	65
-Word-initial consonant /d͡ʒ/ or /ʃ/	j	Gentil…	jentil	jentil	0	0	0	0	0	1	7	3	9
-Word-medial vowel /i/	i	Gentil…	jentil	jentil	0	0	0	0	0	1	7	3	9
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	Gentil	jentil	jentil	0	0	0	0	0	1	7	3	9
+Word-medial vowel /i/	i	Gentil	jentil	jentil	0	0	0	0	0	1	7	3	9
 Word-initial vowel /i/	j	Ir	jr	jr	0	0	1	0	4	2	2	0	3
 Word-initial vowel /i/	j	Ir(a|e)is	jras	jras	0	0	0	0	2	0	1	0	0
 Word-initial consonant /d͡ʒ/ or /ʃ/	j	Juan(a)?	juan	juan	1752	121	2610	2478	893	2007	15604	10769	17090
