@@ -28,21 +28,37 @@ local function word_data(class, data)
 	elseif class == "-i" or class == "-.y" then
 		letra = string.match(data["Transcripción"], "(" .. word_filters["patterns"]["swapletters"] .. ")$")
 	elseif class == "-g-" or class == "-i-" or class == "-.y-" or class == "-y.-" then
-		if word_filters["manual_word_medial_patterns"][class][data["Correspondencia"]] then
-			letra = word_filters["manual_word_medial_patterns"][class][data["Correspondencia"]](data["Transcripción"])
+		local manual_matching_function = word_filters["manual_word_medial_patterns"][class][data["Correspondencia"]]
+		if manual_matching_function and #manual_matching_function == 1 then
+			letra = manual_matching_function(data["Transcripción"])
+		elseif manual_matching_function then
+			letra = {}
+			for i, f in ipairs(manual_matching_function) do
+				table.insert(letra, manual_matching_function(data["Transcripción"]))
+			end
 		else
 			letra = string.match(data["Transcripción"], word_filters["word_medial_patterns"][class])
 		end
 	end
+	if type(letra) == "table" then
+		letra = {letra}
+	end
 	if letra then
-		return {
-			["Transcripción"] = data["Transcripción"],
-			["Forma"] = data["Forma"],
-			["Datos"] = data["Datos"],
-			["Correspondencia"] = data["Correspondencia"],
-			["Clase"] = class,
-			["Letra"] = letra
-		}
+		local data_with_letters = {}
+		for i, l in ipairs(letra) do
+			table.insert(
+				data_with_letters,
+				{
+					["Transcripción"] = data["Transcripción"],
+					["Forma"] = data["Forma"],
+					["Datos"] = data["Datos"],
+					["Correspondencia"] = data["Correspondencia"],
+					["Clase"] = class,
+					["Letra"] = l
+				}
+			)
+		end
+		return data_with_letters
 	end
 	return nil
 end
@@ -66,13 +82,15 @@ for i, form in ipairs(ijy_corde_forms) do
 				["Correspondencia"] = correspondencia
 			}
 			for j, class in ipairs(classes) do
-				local d = word_data(class, merged_data)
+				local ds = word_data(class, merged_data)
 				if d then
-					table.insert(representative_words, d)
-					local letter = d["Letra"]
-					if not letters_by_class_exists[class][letter] then
-						table.insert(letters_by_class[class], letter)
-						letters_by_class_exists[class][letter] = true
+					for k, d in ipairs(ds) do
+						table.insert(representative_words, d)
+						local letter = d["Letra"]
+						if not letters_by_class_exists[class][letter] then
+							table.insert(letters_by_class[class], letter)
+							letters_by_class_exists[class][letter] = true
+						end
 					end
 				end
 			end
