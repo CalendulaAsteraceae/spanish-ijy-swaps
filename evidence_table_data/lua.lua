@@ -29,7 +29,7 @@ local function word_data(class, data)
 		letra = string.match(data["Transcripción"], "(" .. word_filters["patterns"]["swapletters"] .. ")$")
 	elseif class == "-g-" or class == "-i-" or class == "-.y-" or class == "-y.-" then
 		local manual_matching_function = word_filters["manual_word_medial_patterns"][class][data["Correspondencia"]]
-		if manual_matching_function and #manual_matching_function == 1 then
+		if manual_matching_function and type(manual_matching_function) == "function" then
 			letra = manual_matching_function(data["Transcripción"])
 		elseif manual_matching_function then
 			letra = {}
