@@ -40,7 +40,7 @@ local function word_data(class, data)
 			letra = string.match(data["Transcripción"], word_filters["word_medial_patterns"][class])
 		end
 	end
-	if type(letra) == "table" then
+	if type(letra) == "string" then
 		letra = {letra}
 	end
 	if letra then
