@@ -28,7 +28,7 @@ local function word_data(class, data)
 	elseif class == "-i" or class == "-.y" then
 		letra = string.match(data["Transcripción"], "(" .. word_filters["patterns"]["swapletters"] .. ")$")
 	elseif class == "-g-" or class == "-i-" or class == "-.y-" or class == "-y.-" then
-		local manual_matching_function = word_filters["manual_word_medial_patterns"][class][data["Correspondencia"]]
+		local manual_matching_function = word_filters["manual_word_match_patterns"][class][data["Correspondencia"]]
 		if manual_matching_function and type(manual_matching_function) == "function" then
 			letra = manual_matching_function(data["Transcripción"])
 		elseif manual_matching_function then
@@ -37,7 +37,7 @@ local function word_data(class, data)
 				table.insert(letra, manual_matching_function(data["Transcripción"]))
 			end
 		else
-			letra = string.match(data["Transcripción"], word_filters["word_medial_patterns"][class])
+			letra = string.match(data["Transcripción"], word_filters["word_match_patterns"][class])
 		end
 	end
 	if type(letra) == "string" then

@@ -442,14 +442,14 @@ word_filters.word_patterns = {
 	}
 }
 
-word_filters.word_medial_patterns = {
+word_filters.word_match_patterns = {
 	["-g-"] = "%w(" .. word_filters["patterns"]["g"] .. ")%w",
 	["-i-"] = "%w(" .. word_filters["patterns"]["i"] .. ")%w",
 	["-.y-"] = "[aeou](" .. word_filters["patterns"]["i"] .. ")%w",
 	["-y.-"] = "%w(" .. word_filters["patterns"]["i"] .. ")[aeo]"
 }
 
-word_filters.manual_word_medial_patterns = {
+word_filters.manual_word_match_patterns = {
 	["-g-"] = {
 	},
 	["-i-"] = {
