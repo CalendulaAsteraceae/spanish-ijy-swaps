@@ -1,33 +1,33 @@
 Class	Letter	–1200	1201–1250	1251–1300	1301–1350	1351–1400	1401–1450	1451–1500	1501–1550	1551–1600
-Word-initial vowel /i/	hi	31	18	86	2	24	49	1779	6816	9176
-Word-initial vowel /i/	hj	0	0	0	0	0	0	0	0	0
-Word-initial vowel /i/	hy	4	8	10	1	0	0	8	7	5
-Word-initial vowel /i/	i	63	386	397	197	68	502	2593	6024	8154
-Word-initial vowel /i/	j	1	0	1	0	6	3	6	2	4
-Word-initial vowel /i/	y	168	127	1325	586	1212	832	2830	3246	2532
-Word-medial vowel /i/	i	498	135	1691	192	1097	640	7430	10176	16572
-Word-medial vowel /i/	j	11	0	1	34	75	1	12	43	1
-Word-medial vowel /i/	y	44	19	176	135	563	458	1128	909	594
+Word-initial vowel /i/	hi	133	49	473	42	112	828	12525	47592	73136
+Word-initial vowel /i/	hj	0	0	0	0	0	0	1	1	0
+Word-initial vowel /i/	hy	7	8	12	1	0	7	17	27	14
+Word-initial vowel /i/	i	267	632	2062	750	525	972	4702	9332	18693
+Word-initial vowel /i/	j	1	0	14	1	17	8	30	4	6
+Word-initial vowel /i/	y	302	239	1754	902	1724	949	7013	6659	4359
+Word-medial vowel /i/	i	1705	2151	5214	2556	1543	1721	14068	25505	45698
+Word-medial vowel /i/	j	129	0	57	83	91	88	82	49	1
+Word-medial vowel /i/	y	207	139	1506	832	844	980	3863	2510	1442
 Word-final vowel /i/	i	129	51	86	64	56	164	524	1103	1386
 Word-final vowel /i/	j	4	0	0	0	1	1	0	0	0
 Word-final vowel /i/	y	156	64	418	311	83	130	414	219	323
-Word-initial semivowel /j/ starting a diphthong	i	0	0	0	0	0	0	0	0	0
-Word-initial semivowel /j/ starting a diphthong	j	0	0	0	0	0	0	0	0	0
-Word-initial semivowel /j/ starting a diphthong	y	0	0	0	0	0	0	0	0	0
-Word-medial semivowel /j/ starting a diphthong	i	289	160	729	787	2155	674	8706	25218	49449
-Word-medial semivowel /j/ starting a diphthong	j	5	1	9	54	118	126	152	139	417
-Word-medial semivowel /j/ starting a diphthong	y	68	122	371	250	127	214	1425	2220	2190
-Word-medial semivowel /j/ ending a diphthong	i	8	20	379	30	11	426	3893	5789	21021
+Word-initial semivowel /j/ starting a diphthong	i	27	4	1	0	2	0	158	2	28
+Word-initial semivowel /j/ starting a diphthong	j	3	1	1	0	0	0	0	0	1
+Word-initial semivowel /j/ starting a diphthong	y	78	138	335	172	384	273	2163	2009	3137
+Word-medial semivowel /j/ starting a diphthong	i	919	639	2748	2110	2943	2003	18538	37812	70938
+Word-medial semivowel /j/ starting a diphthong	j	30	1	78	56	128	147	302	166	434
+Word-medial semivowel /j/ starting a diphthong	y	626	1233	3622	2795	1946	3654	10493	17506	25718
+Word-medial semivowel /j/ ending a diphthong	i	9	27	398	32	13	1123	4936	6821	24145
 Word-medial semivowel /j/ ending a diphthong	j	0	0	0	0	0	0	14	0	4
-Word-medial semivowel /j/ ending a diphthong	y	30	19	551	102	218	1409	5568	5920	4097
+Word-medial semivowel /j/ ending a diphthong	y	30	38	614	129	472	1661	6104	6970	5958
 Word-final semivowel /j/ ending a diphthong	i	281	105	106	41	17	29	663	634	1098
 Word-final semivowel /j/ ending a diphthong	j	28	0	161	0	0	1	83	11	1
 Word-final semivowel /j/ ending a diphthong	y	2916	5942	29667	13728	13281	22088	75153	114709	160740
 Word-initial consonant /d͡ʒ/ or /ʃ/	g	0	1	5	4	67	247	193	1381	1026
-Word-initial consonant /d͡ʒ/ or /ʃ/	i	235	79	65	115	198	126	404	1513	1794
-Word-initial consonant /d͡ʒ/ or /ʃ/	j	1921	208	3101	3178	1139	2262	18012	12657	21133
-Word-initial consonant /d͡ʒ/ or /ʃ/	x	3	0	0	0	0	0	1	22	35
+Word-initial consonant /d͡ʒ/ or /ʃ/	i	240	158	467	228	200	127	2024	1537	1803
+Word-initial consonant /d͡ʒ/ or /ʃ/	j	2043	338	3885	3664	1323	3087	19136	15111	25266
+Word-initial consonant /d͡ʒ/ or /ʃ/	x	3	0	0	0	0	0	1	22	37
 Word-medial consonant /d͡ʒ/ or /ʃ/	g	1	0	1	2	2	1	11	26	55
-Word-medial consonant /d͡ʒ/ or /ʃ/	i	0	0	0	0	0	0	0	0	0
-Word-medial consonant /d͡ʒ/ or /ʃ/	j	0	0	0	0	0	0	1	1	2
-Word-medial consonant /d͡ʒ/ or /ʃ/	x	0	0	0	0	0	0	1	0	0
+Word-medial consonant /d͡ʒ/ or /ʃ/	i	103	170	580	87	433	675	5292	19506	33775
+Word-medial consonant /d͡ʒ/ or /ʃ/	j	47	290	567	199	355	1102	3347	4858	12783
+Word-medial consonant /d͡ʒ/ or /ʃ/	x	1	0	882	22	83	21	30	3	9
