@@ -24,7 +24,7 @@ end
 local function word_data(class, data)
 	local letra
 	if class == "g-" or class == "i-" or class == "y.-" then
-		letra = string.match(data["Transcripción"], "^h?(" .. word_filters["patterns"]["swapletters"] .. ")")
+		letra = string.match(data["Transcripción"], "^(h?" .. word_filters["patterns"]["swapletters"] .. ")")
 	elseif class == "-i" or class == "-.y" then
 		letra = string.match(data["Transcripción"], "(" .. word_filters["patterns"]["swapletters"] .. ")$")
 	elseif class == "-g-" or class == "-i-" or class == "-.y-" or class == "-y.-" then
@@ -92,7 +92,7 @@ function p.print_representative_words()
 			printable_table,
 			table.concat(
 				{
-					word_filters["class_labels"][data["Clase"]],
+					word_filters["class_labels"][data["Clase"]]["text"],
 					data["Letra"],
 					data["Correspondencia"],
 					data["Transcripción"],
